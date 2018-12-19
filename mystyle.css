@@ -113,3 +113,51 @@
     text-align: left;
   }
 }
+/*Slutning af navigation*/
+body {
+    margin: 0;
+}
+/* Grid start forside*/
+#pagewrap {
+    background-color: aquamarine;
+    padding: 1em;
+    grid-gap: 1em;
+    display: grid;
+    grid-template-columns: 1;
+    grid-template-areas: 
+        "webudvikling"
+        "design"
+        "interface"
+        "kommunikation"
+        "virksomhed"
+        "projekter"
+        "omsiden" ;
+}
+#webudvikling {
+    grid-area: webudvikling;
+}
+#design {
+    grid-area: design;
+}
+#interface {
+    grid-area: interface;
+}
+#kommunikation {
+    grid-area: kommunikation;
+}
+#virksomhed {
+    grid-area: virksomhed;
+}
+#projekter {
+    grid-area: projekter;
+}
+#omsiden {
+    grid-area: omsiden;
+}
+/* Grid slut forside*/
+
+.imgcontainer img {
+    border-style: solid;
+    border-color: chartreuse;
+    width: 100%;
+}

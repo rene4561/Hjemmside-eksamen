@@ -2,17 +2,20 @@ body {
     margin: 0;
 }
 /*Start navigation*/
+a {
+    font-size: 1em;
+}
 header {
     position: absolute;
     top: 0;
     left: 0;
-    padding: 0 100px;
-    background: pink;
+    padding: 0 .5em;
+    background: #001524;
     width: 100%;
     box-sizing: border-box;
 }
 header .logo {
-    color: darkorange;
+    color: whitesmoke;
     height: 50px;
     line-height: 50px;
     font-size: 24px;
@@ -29,28 +32,53 @@ header nav ul {
 }
 header nav ul li {
     list-style: none;
+    position: relative;
+}
+header nav ul li.sub-menu:before {
+    content: '\f107';
+    font-family: fontAwesome;
+    position: absolute;
+    line-height: 50px;
+    color: #B8BEC6;
+    right: 5px;
+}
+header nav ul li.active.sub-menu:before {
+    content: '\f106'
+}
+header nav ul li ul {
+    position: absolute;
+    left: 0;
+    background: #001524;
+    display: none;
+}
+header nav ul li.active ul {
+    display: block;
+}
+header nav ul li ul li {
+    display: block;
+    width: 200px;
 }
 header nav ul li a {
     height: 50px;
     line-height: 50px;
     padding: 0 20px;
-    color: azure;
+    color: #B8BEC6;
     text-decoration: none;
 }
 header nav ul li a:hover,
 header nav ul li a.active {
-    color: aqua;
-    background: black;
+    color: whitesmoke;
+    background: #001524;
 }
 .menu-toggle {
-    color: aqua;
+    color: whitesmoke;
     float: right;
     line-height: 50px;
     font-size: 24px;
     cursor: pointer;
     display: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     header {
         padding: 0 20px;
     }
@@ -58,20 +86,30 @@ header nav ul li a.active {
         display: block;
     }
     header nav {
-        /*display: none;*/
+        font-size: 1.2em;
         position: absolute;
         width: 100%;
         height: calc(100vh - 50px);
-        background: black;
+        background: #001524;
         top: 50px;
-        left: 0;
+        left: -100%;
         transition: 0.5s;
+    }
+    header nav.active {
+        left: 0;
     }
     header nav ul {
         display: block;
         text-align: center;
     }
-    header nav ul li a
+    header nav ul li.active ul {
+        position: relative;
+        background: #334857;
+        z-index: 2;
+    }
+    header nav ul li ul li {
+        width: 100%;
+    }
 }
 /*Slutning af navigation*/
 /* Grid start forside*/

@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
 }
 /*Start navigation*/
 a {
@@ -114,8 +115,9 @@ header nav ul li a.active {
 /*Slutning af navigation*/
 /* Grid start forside*/
 #pagewrap {
-    background-color: aquamarine;
+    background-color: white;
     padding: 1em;
+    margin-top: 3em;
     grid-gap: 1em;
     display: grid;
     grid-template-columns: 1;
@@ -151,8 +153,35 @@ header nav ul li a.active {
 }
 /* Grid slut forside*/
 
+/* Emne oversigt */
 .thumbcontainer img {
+    margin-top: .5em;
     border-style: solid;
-    border-color: chartreuse;
+    border-color: #334857;
     width: 100%;
 }
+.tekstcontainer h2, p {
+    margin-top: 0px;
+}
+.tekstcontainer h2 {
+    margin-bottom: .2em;
+}
+/* Footer*/
+footer {
+    width: 100%;
+    color: #B8BEC6;
+    background: #001524;
+}
+#footerinfo p {
+    text-align: center;
+    font-size: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+}
+#footerkontakt {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+/*Footer slut*/

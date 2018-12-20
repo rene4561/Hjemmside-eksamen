@@ -1,0 +1,59 @@
+        <header>
+            <div class="logo">Renés portfolio</div>
+            <nav>
+                <ul>
+                    <li><a href="#">Forside</a></li>
+                    <li class="sub-menu"><a href="#">Webudvikling</a>
+                        <ul>
+                            <li><a hred="#">HTML</a></li>
+                            <li><a hred="#">CSS</a></li>
+                            <li><a hred="#">Weberser &#38; FTP</a></li>
+                            <li><a hred="#">Versionsstyrring</a></li>
+                            <li><a hred="#">Bootstrap</a></li>
+                            <li><a hred="#">SEO</a></li>
+                            <li><a hred="#">Webperioder</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu"><a href="#">Interface design</a>
+                        <ul>
+                            <li><a hred="#">Informationsarkitektur</a></li>
+                            <li><a hred="#">Responsiv design</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu"><a href="#">Kommunikation</a>
+                        <ul>
+                            <li><a hred="#">Præsentationsteknik</a></li>
+                            <li><a hred="#">Tekstproduktion</a></li>
+                            <li><a hred="#">Videnskabsteori</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu"><a href="#">Virksomhedsforståelse</a>
+                        <ul>
+                            <li><a hred="#">Business Model Canvas</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu"><a href="#">Design</a>
+                        <ul>
+                            <li><a hred="#">Illustrator</a></li>
+                            <li><a hred="#">Photoshop</a></li>
+                            <li><a hred="#">Fotografering</a></li>
+                            <li><a hred="#">Farver</a></li>
+                            <li><a hred="#">Typografi</a></li>
+                            <li><a hred="#">Gestaltlove</a></li>
+                            <li><a hred="#">Rapid video</a></li>
+                        </ul>
+                    </li>
+                    <li class="sub-menu"><a href="#">Projekter</a>
+                        <ul>
+                            <li><a hred="#">Design thinking</a></li>
+                            <li><a hred="#">DS projektet</a></li>
+                            <li><a hred="#">One-page</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Om siden</a></li>
+                </ul>
+            </nav>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </header>

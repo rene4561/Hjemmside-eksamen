@@ -120,7 +120,7 @@ header nav ul li a.active {
     margin-top: 3em;
     grid-gap: 1em;
     display: grid;
-    grid-template-columns: 1;
+    grid-template-columns: 1fr;
     grid-template-areas: 
         "webudvikling"
         "design"
@@ -192,8 +192,8 @@ footer {
 
 @media only screen and (min-width: 600px) { /*Tablet version */
     #pagewrap {
-        grid-template-rows: 1fr, 1fr, 1fr, 1fr;
-        grid-template-columns: 1fr, 1fr;
+        grid-template-rows: 1fr  1fr  1fr  1fr;
+        grid-template-columns: 1fr 1fr;
         grid-template-areas:
             "webudvikling design"
             "interface kommunikation"
@@ -205,7 +205,7 @@ footer {
     #pagewrap {
         margin: 0 10em;
         padding-top: 5em;
-        grid-template-columns: 1fr, 1fr, 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas: 
             "webudvikling design interface"
             "kommunikation virksomhed projekter"

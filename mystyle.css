@@ -2,9 +2,16 @@ body {
     margin: 0;
     padding: 0;
 }
+h2, p {
+    color: black;
+}
 /*Start navigation*/
 a {
     font-size: 1em;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
 }
 header {
     position: absolute;
@@ -192,7 +199,6 @@ footer {
 
 @media only screen and (min-width: 600px) { /*Tablet version */
     #pagewrap {
-        grid-template-rows: 1fr  1fr  1fr  1fr;
         grid-template-columns: 1fr 1fr;
         grid-template-areas:
             "webudvikling design"

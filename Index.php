@@ -67,7 +67,7 @@
                 </a>
             </section>
             <section id="virksomhed">
-                <a href="Virksomhedsforst%25C3%25A5else/virksomhed.php">
+                <a href="Virksomhed/virksomhed.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
                             <img src="Billeder/virksomhedsforst%C3%A5else.png" alt="Liste af forskellige virksomhedstyper">
@@ -93,7 +93,7 @@
                 </a>
             </section>   
             <section id="omsiden">
-                <a href="Om%2520siden/omsiden.php">
+                <a href="Om_siden/omsiden.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
                             <img src="Billeder/Mig.jpg" alt="Et billede af René">

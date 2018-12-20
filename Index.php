@@ -14,16 +14,18 @@
             include "minnav.include"
         ?>
         <div id=pagewrap>
-            <section id="webudvikling" href="Webudvikling/webudvikling.php">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Billeder/webudvikling.jpg" alt="Billede af HTML kode">
+            <section id="webudvikling">
+                <a href="Webudvikling/webudvikling.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="Billeder/webudvikling.jpg" alt="Billede af HTML kode">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Webudvikling</h2>
+                            <p>Læs om alt det tekniske bag produktionen af hjemmesider.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Webudvikling</h2>
-                        <p>Læs om alt det tekniske bag produktionen af hjemmesider.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="design">
                 <div class="emnecontainer">

@@ -10,70 +10,14 @@
         <script src="mynav.js"></script>  
     </head>
     <body>
-        <header>
-            <div class="logo">Renés portfolio</div>
-            <nav>
-                <ul>
-                    <li><a href="#">Forside</a></li>
-                    <li class="sub-menu"><a href="#">Webudvikling</a>
-                        <ul>
-                            <li><a hred="#">HTML</a></li>
-                            <li><a hred="#">CSS</a></li>
-                            <li><a hred="#">Weberser &#38; FTP</a></li>
-                            <li><a hred="#">Versionsstyrring</a></li>
-                            <li><a hred="#">Bootstrap</a></li>
-                            <li><a hred="#">SEO</a></li>
-                            <li><a hred="#">Webperioder</a></li>
-                        </ul>
-                    </li>
-                    <li class="sub-menu"><a href="#">Interface design</a>
-                        <ul>
-                            <li><a hred="#">Informationsarkitektur</a></li>
-                            <li><a hred="#">Responsiv design</a></li>
-                        </ul>
-                    </li>
-                    <li class="sub-menu"><a href="#">Kommunikation</a>
-                        <ul>
-                            <li><a hred="#">Præsentationsteknik</a></li>
-                            <li><a hred="#">Tekstproduktion</a></li>
-                            <li><a hred="#">Videnskabsteori</a></li>
-                        </ul>
-                    </li>
-                    <li class="sub-menu"><a href="#">Virksomhedsforståelse</a>
-                        <ul>
-                            <li><a hred="#">Business Model Canvas</a></li>
-                        </ul>
-                    </li>
-                    <li class="sub-menu"><a href="#">Design</a>
-                        <ul>
-                            <li><a hred="#">Illustrator</a></li>
-                            <li><a hred="#">Photoshop</a></li>
-                            <li><a hred="#">Fotografering</a></li>
-                            <li><a hred="#">Farver</a></li>
-                            <li><a hred="#">Typografi</a></li>
-                            <li><a hred="#">Gestaltlove</a></li>
-                            <li><a hred="#">Rapid video</a></li>
-                        </ul>
-                    </li>
-                    <li class="sub-menu"><a href="#">Projekter</a>
-                        <ul>
-                            <li><a hred="#">Design thinking</a></li>
-                            <li><a hred="#">DS projektet</a></li>
-                            <li><a hred="#">One-page</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#">Om siden</a></li>
-                </ul>
-            </nav>
-            <div class="menu-toggle">
-                <i class="fas fa-bars"></i>
-            </div>
-        </header>
+        <?php
+            include "minnav.include"
+        ?>
         <div id=pagewrap>
             <section id="webudvikling">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/webudvikling.jpg">
+                        <img src="Billeder/webudvikling.jpg" alt="Billede af HTML kode">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Webudvikling</h2>
@@ -84,7 +28,7 @@
             <section id="design">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/design.png">
+                        <img src="Billeder/design.png" alt="Abstrakt geometrisk figur">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Design</h2>
@@ -95,7 +39,7 @@
             <section id="interface">
                  <div class="emnecontainer">
                      <div class="thumbcontainer">
-                        <img src="Billeder/interface.jpg">
+                        <img src="Billeder/interface.jpg" alt="Illustration af mobiltelefon">
                      </div>
                     <div class="tekstcontainer">
                         <h2>Interface design</h2>
@@ -106,7 +50,7 @@
             <section id="kommunikation">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/kommunikation.jpg">
+                        <img src="Billeder/kommunikation.jpg" alt="Illustation af 2 mennesker der kommunikerer">
                      </div>
                      <div class="tekstcontainer">
                         <h2>Kommunikation</h2>   
@@ -117,7 +61,7 @@
             <section id="virksomhed">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/virksomhedsforst%C3%A5else.png">
+                        <img src="Billeder/virksomhedsforst%C3%A5else.png" alt="Liste af forskellige virksomhedstyper">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Virksomhedsforståelse</h2>
@@ -128,7 +72,8 @@
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/design%20thinking.png">                        </div>
+                        <img src="Billeder/design%20thinking.png" alt="Design thinking prossesen">                
+                    </div>
                     <div class="tekstcontainer">
                         <h2>Projekter</h2>
                         <p>Her kan du læse om de projekter vi har lavet - dertil de metoder vi har anvendt.</p>
@@ -138,7 +83,7 @@
             <section id="omsiden">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/Mig.jpg" alt="test billede">
+                        <img src="Billeder/Mig.jpg" alt="Et billede af René">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Om siden</h2>

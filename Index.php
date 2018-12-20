@@ -14,10 +14,10 @@
             include "minnav.include"
         ?>
         <div id=pagewrap>
-            <section id="webudvikling">
+            <section id="webudvikling" href="Webudvikling/webudvikling.php">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/webudvikling.jpg">
+                        <img src="Billeder/webudvikling.jpg" alt="Billede af HTML kode">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Webudvikling</h2>
@@ -28,7 +28,7 @@
             <section id="design">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/design.png">
+                        <img src="Billeder/design.png" alt="Abstrakt geometrisk figur">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Design</h2>
@@ -39,7 +39,7 @@
             <section id="interface">
                  <div class="emnecontainer">
                      <div class="thumbcontainer">
-                        <img src="Billeder/interface.jpg">
+                        <img src="Billeder/interface.jpg" alt="Illustration af mobiltelefon">
                      </div>
                     <div class="tekstcontainer">
                         <h2>Interface design</h2>
@@ -50,7 +50,7 @@
             <section id="kommunikation">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/kommunikation.jpg">
+                        <img src="Billeder/kommunikation.jpg" alt="Illustation af 2 mennesker der kommunikerer">
                      </div>
                      <div class="tekstcontainer">
                         <h2>Kommunikation</h2>   
@@ -61,7 +61,7 @@
             <section id="virksomhed">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/virksomhedsforst%C3%A5else.png">
+                        <img src="Billeder/virksomhedsforst%C3%A5else.png" alt="Liste af forskellige virksomhedstyper">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Virksomhedsforståelse</h2>
@@ -72,7 +72,8 @@
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/design%20thinking.png">                        </div>
+                        <img src="Billeder/design%20thinking.png" alt="Design thinking prossesen">                
+                    </div>
                     <div class="tekstcontainer">
                         <h2>Projekter</h2>
                         <p>Her kan du læse om de projekter vi har lavet - dertil de metoder vi har anvendt.</p>
@@ -82,7 +83,7 @@
             <section id="omsiden">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Billeder/Mig.jpg" alt="test billede">
+                        <img src="Billeder/Mig.jpg" alt="Et billede af René">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Om siden</h2>

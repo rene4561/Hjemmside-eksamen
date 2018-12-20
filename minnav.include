@@ -3,7 +3,7 @@
             <nav>
                 <ul>
                     <li><a href="#">Forside</a></li>
-                    <li class="sub-menu"><a href="#">Webudvikling</a>
+                    <li class="sub-menu"><a href="Webudvikling/webudvikling.php">Webudvikling</a>
                         <ul>
                             <li><a hred="#">HTML</a></li>
                             <li><a hred="#">CSS</a></li>

@@ -17,77 +17,77 @@
             <section id="webudvikling">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/HTML5.png" alt="HTML5 logo">
+                        <img src="thumbnails/Illustrator.jpg" alt="Illustrator logo på en computer skærm">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>HTML</h2>
-                        <p>Læs om HTML syntaks, semantiske tags og kodeskik.</p>
+                        <h2>Illustrator</h2>
+                        <p>Læs om hvad illustator er, samt se en lille showcase med forklaringer.</p>
                     </div>
                 </div>
             </section>
             <section id="design">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/CSS.jpg">
+                        <img src="thumbnails/adobe-photoshop-logo.png" alt="Photoshop logo">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>CSS</h2>
-                        <p>CSS er sproget der styler webbet. Læs om dets syntaks og funktioner.</p>
+                        <h2>Photoshop</h2>
+                        <p>Læs om hvad photoshop er, samt se en lille showcase med forklaringer.</p>
                     </div>
                 </div>
             </section>
             <section id="interface">
                  <div class="emnecontainer">
                      <div class="thumbcontainer">
-                        <img src="Thumbnails/server_klient.jpeg" alt="Illustration server/klient forholdet">
+                        <img src="thumbnails/fotografering.png" alt="Illustration af et kamera">
                      </div>
                     <div class="tekstcontainer">
-                        <h2>Webserver og FTP</h2>
-                        <p>Læs om brug af server, samt dets historie</p>
+                        <h2>Fotografering</h2>
+                        <p>Læs om hvordan man anvender et kamera, samt en lille showcase.</p>
                     </div>
                 </div>
             </section>
             <section id="kommunikation">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/Versionsstyring.png" alt="Illustration af versionsstyring">
+                        <img src="thumbnails/farver.jpg" alt="En vivl af alle alle tertriære farver">
                      </div>
                      <div class="tekstcontainer">
-                        <h2>Versionsstyring</h2>   
-                        <p>Læs om mentalliten af versionsstyring og anvdendel af GitHub.</p>
+                        <h2>Farver</h2>   
+                        <p>Læs om farvers indfludelse på mennesker, samt sympolik.</p>
                     </div>
                 </div>
             </section>
             <section id="virksomhed">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/Bootstrap.jpg" alt="Bootstrap logo og en computer med bootstrap på skærmen">
+                        <img src="thumbnails/typografi.jpeg" alt="billede af en tekst med ordet typography">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>Bootsrap</h2>
-                        <p>Læs om hvad bootstrap er.</p>
+                        <h2>Typografi</h2>
+                        <p>Læs om hvad typografi er, font-anotomi, samt typeface virke og kombinationer.</p>
                     </div>
                 </div>
             </section>
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/SEO.jpeg" alt="Illustation af SEO">                
+                        <img src="thumbnails/gestalt-principles.jpg" alt="Illustation af gestaltlovene i teksten gestalt">                
                     </div>
                     <div class="tekstcontainer">
-                        <h2>SEO, Seach Engine Optimization</h2>
-                        <p>Læs om hvad SEO er, og hvordan man skaber god SEO.</p>
+                        <h2>Gestaltlovene</h2>
+                        <p>Læs om de forskellige gestaltlove.</p>
                     </div>
                  </div>
             </section>   
             <section id="omsiden">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/webperioder.png" alt="Et billede af Apple hjemmeside i 90'eren">
+                        <img src="thumbnails/rapid%20video.jpg" alt="Illustation af et videokamera">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>Webperioder</h2>
-                        <p>Læs om webbets perioder, og deres kendetegn.</p>
+                        <h2>Rapid video</h2>
+                        <p>Læs video produktion, samt hvad rapid video er</p>
                     </div>
                 </div>
             </section>

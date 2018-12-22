@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
 }
-#pagewrap h2, p {
+h2, p {
     color: black;
 }
 /*Start navigation*/
@@ -196,7 +196,7 @@ footer {
     margin-bottom: 0;
     color: #B8BEC6;
 }
-footer h2, p {
+footer h2, footer p {
     color: #B8BEC6;
 }
 /*Footer slut*/

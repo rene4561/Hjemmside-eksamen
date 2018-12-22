@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
 }
-h2, p {
+#pagewrap h2, p {
     color: black;
 }
 /*Start navigation*/
@@ -176,7 +176,6 @@ header nav ul li a.active {
 /* Footer*/
 footer {
     width: 100%;
-    color: #B8BEC6;
     background: #001524;
     bottom: 0;
     margin: 0;
@@ -185,6 +184,7 @@ footer {
     padding-top: 30px;
     padding-left: 1em;
     padding-bottom: 1em;
+    color: #B8BEC6;
 }
 #footerkontakt h2 {
     margin-bottom: 10px;
@@ -194,6 +194,10 @@ footer {
     padding-right: 1em;
     padding-bottom: 30px;
     margin-bottom: 0;
+    color: #B8BEC6;
+}
+footer h2, p {
+    color: #B8BEC6;
 }
 /*Footer slut*/
 

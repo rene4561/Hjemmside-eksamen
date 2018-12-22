@@ -17,77 +17,22 @@
             <section id="webudvikling">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/HTML5.png" alt="HTML5 logo">
+                        <img src="thumbnails/IA.png" alt="Processen fra informationsarkitektur til bruger oplevelsen">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>HTML</h2>
-                        <p>Læs om HTML syntaks, semantiske tags og kodeskik.</p>
+                        <h2>Informationsarkitektur</h2>
+                        <p>Læs om informationsarkitektur, samt en række værktøjer man man anvende til at undersøge dette.</p>
                     </div>
                 </div>
             </section>
             <section id="design">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/CSS.jpg">
+                        <img src="thumbnails/responsive_web_design.jpg" alt="Illustration af én hjemmeside med flere layout">
                     </div>
                     <div class="tekstcontainer">
-                        <h2>CSS</h2>
-                        <p>CSS er sproget der styler webbet. Læs om dets syntaks og funktioner.</p>
-                    </div>
-                </div>
-            </section>
-            <section id="interface">
-                 <div class="emnecontainer">
-                     <div class="thumbcontainer">
-                        <img src="Thumbnails/server_klient.jpeg" alt="Illustration server/klient forholdet">
-                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Webserver og FTP</h2>
-                        <p>Læs om brug af server, samt dets historie</p>
-                    </div>
-                </div>
-            </section>
-            <section id="kommunikation">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/Versionsstyring.png" alt="Illustration af versionsstyring">
-                     </div>
-                     <div class="tekstcontainer">
-                        <h2>Versionsstyring</h2>   
-                        <p>Læs om mentalliten af versionsstyring og anvdendel af GitHub.</p>
-                    </div>
-                </div>
-            </section>
-            <section id="virksomhed">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/Bootstrap.jpg" alt="Bootstrap logo og en computer med bootstrap på skærmen">
-                    </div>
-                    <div class="tekstcontainer">
-                        <h2>Bootsrap</h2>
-                        <p>Læs om hvad bootstrap er.</p>
-                    </div>
-                </div>
-            </section>
-            <section id="projekter">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/SEO.jpeg" alt="Illustation af SEO">                
-                    </div>
-                    <div class="tekstcontainer">
-                        <h2>SEO, Seach Engine Optimization</h2>
-                        <p>Læs om hvad SEO er, og hvordan man skaber god SEO.</p>
-                    </div>
-                 </div>
-            </section>   
-            <section id="omsiden">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/webperioder.png" alt="Et billede af Apple hjemmeside i 90'eren">
-                    </div>
-                    <div class="tekstcontainer">
-                        <h2>Webperioder</h2>
-                        <p>Læs om webbets perioder, og deres kendetegn.</p>
+                        <h2>Responsiv design</h2>
+                        <p>Læs hvad responsiv design er, hvordan man implementerer det samt mobile first princippet.</p>
                     </div>
                 </div>
             </section>

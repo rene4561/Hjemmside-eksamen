@@ -17,7 +17,7 @@
             <section id="webudvikling">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/Illustrator.jpg" alt="Illustrator logo på en computer skærm">
+                        <img src="thumbnails/Illustrator.png" alt="Illustrator logo på en computer skærm">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Illustrator</h2>
@@ -50,7 +50,7 @@
             <section id="kommunikation">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/farver.jpg" alt="En vivl af alle alle tertriære farver">
+                        <img src="thumbnails/farver.png" alt="En vivl af alle alle tertriære farver">
                      </div>
                      <div class="tekstcontainer">
                         <h2>Farver</h2>   
@@ -61,7 +61,7 @@
             <section id="virksomhed">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/typografi.jpeg" alt="billede af en tekst med ordet typography">
+                        <img src="thumbnails/typografi.png" alt="billede af en tekst med ordet typography">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Typografi</h2>
@@ -72,7 +72,7 @@
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/gestalt-principles.jpg" alt="Illustation af gestaltlovene i teksten gestalt">                
+                        <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">                
                     </div>
                     <div class="tekstcontainer">
                         <h2>Gestaltlovene</h2>
@@ -83,7 +83,7 @@
             <section id="omsiden">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/rapid%20video.jpg" alt="Illustation af et videokamera">
+                        <img src="thumbnails/rapid%20video.png" alt="Illustation af et videokamera">
                     </div>
                     <div class="tekstcontainer">
                         <h2>Rapid video</h2>

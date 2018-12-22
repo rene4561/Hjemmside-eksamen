@@ -23,12 +23,22 @@ header {
     box-sizing: border-box;
 }
 header .logo {
+    text-decoration: none;
     color: whitesmoke;
     height: 50px;
     line-height: 50px;
     font-size: 24px;
     float: left;
     font-weight: bold;
+}
+.logo a:visited {
+    color: whitesmoke;
+}
+.logo a:hover {
+    color: #B8BEC6;
+}
+.logo a:active {
+    color: whitesmoke;
 }
 header nav {
     float: right;
@@ -43,7 +53,7 @@ header nav ul li {
     position: relative;
 }
 header nav ul li.sub-menu:before {
-    content: '\f107';
+    content: '\f0d7';
     font-family: fontAwesome;
     position: absolute;
     line-height: 50px;
@@ -51,7 +61,7 @@ header nav ul li.sub-menu:before {
     right: 5px;
 }
 header nav ul li.active.sub-menu:before {
-    content: '\f106'
+    content: '\f0d8'
 }
 header nav ul li ul {
     position: absolute;

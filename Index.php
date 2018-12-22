@@ -18,7 +18,7 @@
                 <a href="Webudvikling/webudvikling.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/webudvikling.jpg" alt="Billede af HTML kode">
+                            <img src="Billeder/web-page_1300-265.jpg" alt="Illustration af HTML kode">
                         </div>
                         <div class="tekstcontainer">
                             <h2>Webudvikling</h2>

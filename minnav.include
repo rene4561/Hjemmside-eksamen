@@ -1,8 +1,7 @@
         <header>
-            <div class="logo">Renés portfolio</div>
+            <div class="logo"><a href="../index.php">Renés portfolio</a></div>
             <nav>
                 <ul>
-                    <li><a href="../index.php">Forside</a></li>
                     <li class="sub-menu"><a href="#">Webudvikling</a>
                         <ul>
                             <li><a hred="#">HTML</a></li>

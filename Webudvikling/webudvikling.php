@@ -39,7 +39,7 @@
             <section id="interface">
                  <div class="emnecontainer">
                      <div class="thumbcontainer">
-                        <img src="Thumbnails/server_klient.jpeg" alt="Illustration server/klient forholdet">
+                        <img src="Thumbnails/server_klient.png" alt="Illustration server/klient forholdet">
                      </div>
                     <div class="tekstcontainer">
                         <h2>Webserver og FTP</h2>
@@ -72,7 +72,7 @@
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="Thumbnails/SEO.jpeg" alt="Illustation af SEO">                
+                        <img src="Thumbnails/SEO.png" alt="Illustation af SEO">                
                     </div>
                     <div class="tekstcontainer">
                         <h2>SEO, Seach Engine Optimization</h2>

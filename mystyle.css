@@ -1,3 +1,4 @@
+/*Generelt */
 body {
     margin: 0;
     padding: 0;
@@ -5,6 +6,7 @@ body {
 h2, p {
     color: black;
 }
+/* Slut generelt*/
 /*Start navigation*/
 a {
     font-size: 1em;
@@ -130,7 +132,7 @@ header nav ul li a.active {
     }
 }
 /*Slutning af navigation*/
-/* Grid start forside*/
+/* Emne oversigt layout */
 #pagewrap {
     background-color: white;
     padding: 1em;
@@ -168,13 +170,12 @@ header nav ul li a.active {
 #omsiden {
     grid-area: omsiden;
 }
-/* Grid slut forside*/
-
-/* Emne oversigt */
 .thumbcontainer img {
     margin-top: .5em;
+    /*
     border-style: solid;
     border-color: #334857;
+    */
     width: 100%;
 }
 .tekstcontainer h2, p {
@@ -182,6 +183,62 @@ header nav ul li a.active {
 }
 .tekstcontainer h2 {
     margin-bottom: .2em;
+}
+/*Emne oversigt slut*/
+/*Tekstside layout*/
+#indhold {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+        "oversigt"
+        "underemne1"
+        "pause1"
+        "underemne2"
+        "underemne3"
+        "underemne4"
+        "underemne5"
+        
+}
+#underemne1 {
+    grid-area: underemne1;
+}
+#underemne2 {
+    grid-area: underemne2;
+}
+#underemne3 {
+    grid-area: underemne3;
+}
+#underemne4 {
+    grid-area: underemne4;
+}
+#underemne5 {
+    grid-area: underemne5;
+}
+#pause1 {
+    grid-area: pause1;
+}
+/*Pause styling */
+.pause {
+    font-size: 12px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #B8BEC6;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+        "pausetekst pauseimg"
+}
+.pauseimg {
+    grid-area: pauseimg;
+}
+.pauseimg img {
+    width: 100%;
+}
+}
+.pausetekst {
+    grid-area: pausetekst;
+    overflow: hidden;
+    width: 200px;
 }
 /* Footer*/
 footer {
@@ -210,8 +267,8 @@ footer h2, footer p {
     color: #B8BEC6;
 }
 /*Footer slut*/
-
-@media only screen and (min-width: 600px) { /*Tablet version */
+/*Tablet version */
+@media only screen and (min-width: 600px) { 
     #pagewrap {
         grid-template-columns: 1fr 1fr;
         grid-template-areas:
@@ -220,8 +277,9 @@ footer h2, footer p {
             "virksomhed projekter"
             "omsiden ."
     }
-}
-@media only screen and (min-width: 1024px) {
+} /*Tablet slut */
+/*Computer version*/
+@media only screen and (min-width: 1024px) { 
     #pagewrap {
         margin: 0 10em;
         padding-top: 5em;
@@ -231,4 +289,4 @@ footer h2, footer p {
             "kommunikation virksomhed projekter"
             "omsiden . ."
     }
-}
+} /*Computer slut */

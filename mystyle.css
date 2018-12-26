@@ -219,6 +219,7 @@ header nav ul li a.active {
 }
 /*Pause styling */
 .pause {
+    height: 175px;
     font-size: 12px;
     border-style: solid;
     border-width: thin;
@@ -230,15 +231,16 @@ header nav ul li a.active {
 }
 .pauseimg {
     grid-area: pauseimg;
+    height: 175px;
+    text-align: right;
 }
 .pauseimg img {
-    width: 100%;
-}
+    height: 100%;
 }
 .pausetekst {
     grid-area: pausetekst;
     overflow: hidden;
-    width: 200px;
+    padding: 1em;
 }
 /* Footer*/
 footer {
@@ -276,6 +278,11 @@ footer h2, footer p {
             "interface kommunikation"
             "virksomhed projekter"
             "omsiden ."
+            "indhold indhold"
+    }
+    #indhold {
+        margin: 0 1em;
+        grid-area: indhold;
     }
 } /*Tablet slut */
 /*Computer version*/
@@ -288,5 +295,10 @@ footer h2, footer p {
             "webudvikling design interface"
             "kommunikation virksomhed projekter"
             "omsiden . ."
+            ". indhold ."
+    }
+    #indhold {
+        grid-area: indhold;
+        width: 700px;
     }
 } /*Computer slut */

@@ -26,15 +26,17 @@
                 </div>
             </section>
             <section id="design">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/responsive_web_design.jpg" alt="Illustration af én hjemmeside med flere layout">
+                <a href="Responsiv_layout.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/responsive_web_design.jpg" alt="Illustration af én hjemmeside med flere layout">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Responsiv design</h2>
+                            <p>Læs hvad responsiv design er, hvordan man implementerer det samt mobile first princippet.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Responsiv design</h2>
-                        <p>Læs hvad responsiv design er, hvordan man implementerer det samt mobile first princippet.</p>
-                    </div>
-                </div>
+                </a>
             </section>
         </div>
         <footer>

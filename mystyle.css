@@ -199,6 +199,9 @@ header nav ul li a.active {
         "underemne5"
         
 }
+#indhold img {
+    width: 100%;
+}
 #underemne1 {
     grid-area: underemne1;
 }

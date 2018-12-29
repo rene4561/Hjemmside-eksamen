@@ -15,15 +15,17 @@
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/Business%20Model%20Canvas.png" alt="Business Model Canvas modellen">
+                <a href="Business_model_canvas.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="Thumbnails/Business%20Model%20Canvas.png" alt="Business Model Canvas modellen">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Business Model Canvas</h2>
+                            <p>Læs om BMC, det er et værktøj der viser hvad der skaber værdi for en viriksomhed. Læs også om Value Proporsition</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Business Model Canvas</h2>
-                        <p>Læs om BMC, det er et værktøj der viser hvad der skaber værdi for en viriksomhed. Læs også om Value Proporsition</p>
-                    </div>
-                </div>
+                </a>
             </section>
         </div>
         <footer>

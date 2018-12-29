@@ -15,37 +15,43 @@
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/Illustrator.png" alt="Illustrator logo på en computer skærm">
+                <a href="Illustrator.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/Illustrator.png" alt="Illustrator logo på en computer skærm">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Illustrator</h2>
+                            <p>Læs om hvad illustator er, samt se en lille showcase med forklaringer.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Illustrator</h2>
-                        <p>Læs om hvad illustator er, samt se en lille showcase med forklaringer.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="design">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/adobe-photoshop-logo.png" alt="Photoshop logo">
+                <a href="photoshop.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/adobe-photoshop-logo.png" alt="Photoshop logo">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Photoshop</h2>
+                            <p>Læs om hvad photoshop er, samt se en lille showcase med forklaringer.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Photoshop</h2>
-                        <p>Læs om hvad photoshop er, samt se en lille showcase med forklaringer.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="interface">
-                 <div class="emnecontainer">
-                     <div class="thumbcontainer">
-                        <img src="thumbnails/fotografering.png" alt="Illustration af et kamera">
-                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Fotografering</h2>
-                        <p>Læs om hvordan man anvender et kamera, samt en lille showcase.</p>
+                <a href="fotografering.php">
+                     <div class="emnecontainer">
+                         <div class="thumbcontainer">
+                            <img src="thumbnails/fotografering.png" alt="Illustration af et kamera">
+                         </div>
+                        <div class="tekstcontainer">
+                            <h2>Fotografering</h2>
+                            <p>Læs om hvordan man anvender et kamera, samt en lille showcase.</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </section>
             <section id="kommunikation">
                 <div class="emnecontainer">
@@ -59,20 +65,22 @@
                 </div>
             </section>
             <section id="virksomhed">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/typografi.png" alt="billede af en tekst med ordet typography">
+                <a href="typografi.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/typografi.png" alt="billede af en tekst med ordet typography">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Typografi</h2>
+                            <p>Læs om hvad typografi er, font-anotomi, samt typeface virke og kombinationer.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Typografi</h2>
-                        <p>Læs om hvad typografi er, font-anotomi, samt typeface virke og kombinationer.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="projekter">
                 <div class="emnecontainer">
                     <div class="thumbcontainer">
-                        <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">                
+                        <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">    
                     </div>
                     <div class="tekstcontainer">
                         <h2>Gestaltlovene</h2>
@@ -81,15 +89,17 @@
                  </div>
             </section>   
             <section id="omsiden">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/rapid%20video.png" alt="Illustation af et videokamera">
+                <a href="Quick_and_dirty.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/rapid%20video.png" alt="Illustation af et videokamera">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Rapid video</h2>
+                            <p>Læs video produktion, samt hvad rapid video er</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Rapid video</h2>
-                        <p>Læs video produktion, samt hvad rapid video er</p>
-                    </div>
-                </div>
+                </a>
             </section>
         </div>
         <footer>

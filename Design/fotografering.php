@@ -17,7 +17,7 @@
             <section id="indhold">
                 <div id="oversigt">
                     <h1>Overskift</h1>
-                    <p>PUnder dette emne kan man læse om kameraets funktioner og en kort showcase af billeder.</p>
+                    <p>Under dette emne kan man læse om kameraets funktioner og en kort showcase af billeder.</p>
                     <ul>
                         <li>Kamera anatomi – herunder objektiver</li>
                         <li>Lukker</li>

@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Overskift</h1>
+                    <h1>Responsiv layout</h1>
                     <p>På denne side forklares de 4 overordnede layoutformer på en hjemmeside. Dertil vil mobile first tankegangens fordele blive forklaret.
                     Der findes 4 overordnede layoutformer, som man kan anvende på en hjemmeside:</p>
                     <ul>
@@ -35,7 +35,7 @@
                     <img src="modeller/statisk.png" alt="Illustation af et statisk layout">
                 </section>
                 <section id="underemne2">
-                    <h2>Flyende layout</h2>
+                    <h2>Flydende layout</h2>
                     <p>I denne layoutform tilpasser elementerne sig skærmstørrelse. Bredderne angives i procent, og deraf vil elementerne strække og skrumpe sig efter forholdende, dog er der oftest en grænse for, hvor små elementerne kan blive. Dette er godt, da indholdet på hjemmesiden, passer til alle skærme, hvilket betyder, at alle der kommer ind på hjemmesiden, har fuld funktionalitet. Dette resulterer dog i, at man som designer af hjemmesiden, mister megen kontrol over det æstetiske, da alt indhold flyder rundt efter behov fra brugeren.</p>
                     <img src="modeller/flydende.png" alt="Illustration af et flydede layout">
                 </section>

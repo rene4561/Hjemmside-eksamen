@@ -6,6 +6,28 @@ body {
 h2, p {
     color: black;
 }
+h1 {
+    font-family: 'Glegoo', serif;
+    font-weight: bold;
+    font-size: 3em;
+    margin-top: 0;
+    line-height: 1em;
+}
+h2 {
+    font-family: 'Glegoo', serif;
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+}
+li {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter;
+}
+blockquote {
+    font-family: 'Ubuntu', sans-serif;
+    font-style: italic;
+}
 /* Slut generelt*/
 /*Start navigation*/
 a {
@@ -25,6 +47,8 @@ header {
     box-sizing: border-box;
 }
 header .logo {
+    font-family: 'Glegoo', serif;
+    font-weight: bold;
     text-decoration: none;
     color: whitesmoke;
     height: 50px;
@@ -32,6 +56,9 @@ header .logo {
     font-size: 24px;
     float: left;
     font-weight: bold;
+}
+.logo a:link {
+    color: whitesmoke;
 }
 .logo a:visited {
     color: whitesmoke;
@@ -43,6 +70,7 @@ header .logo {
     color: whitesmoke;
 }
 header nav {
+    font-family: 'Glegoo', serif;
     float: right;
 }
 header nav ul {
@@ -76,7 +104,7 @@ header nav ul li.active ul {
 }
 header nav ul li ul li {
     display: block;
-    width: 200px;
+    width: 210px;
 }
 header nav ul li a {
     height: 50px;
@@ -136,8 +164,8 @@ header nav ul li a.active {
 #pagewrap {
     background-color: white;
     padding: 1em;
-    margin-top: 3em;
-    grid-gap: 1em;
+    margin-top: 50px;
+    grid-gap: 50px;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: 
@@ -172,10 +200,8 @@ header nav ul li a.active {
 }
 .thumbcontainer img {
     margin-top: .5em;
-    /*
     border-style: solid;
-    border-color: #334857;
-    */
+    border-color: ghostwhite;
     width: 100%;
 }
 .tekstcontainer h2, p {
@@ -187,6 +213,9 @@ header nav ul li a.active {
 /*Emne oversigt slut*/
 /*Tekstside layout*/
 #indhold {
+    word-spacing: .1em;
+    line-height: 1.5em;
+    margin-bottom: 2em;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas:
@@ -202,6 +231,10 @@ header nav ul li a.active {
 }
 #indhold img {
     width: 100%;
+    margin: 1em 0;
+}
+#indhold li {
+    margin: 0.5em;
 }
 #underemne1 {
     grid-area: underemne1;
@@ -288,14 +321,17 @@ footer h2, footer p {
             "indhold indhold"
     }
     #indhold {
-        margin: 0 1em;
+        margin-top: -200px;
+        margin-left: 1em;
+        margin-right: 1em;
         grid-area: indhold;
     }
 } /*Tablet slut */
 /*Computer version*/
 @media only screen and (min-width: 1024px) { 
     #pagewrap {
-        margin: 0 10em;
+        margin-left: 10em;
+        margin-right: 10em;
         padding-top: 5em;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas: 
@@ -307,5 +343,6 @@ footer h2, footer p {
     #indhold {
         grid-area: indhold;
         width: 700px;
+        font-size: 1.2em;
     }
 } /*Computer slut */

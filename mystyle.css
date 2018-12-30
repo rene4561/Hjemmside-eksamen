@@ -197,6 +197,7 @@ header nav ul li a.active {
         "underemne3"
         "underemne4"
         "underemne5"
+        "underemne6"
         
 }
 #indhold img {
@@ -216,6 +217,9 @@ header nav ul li a.active {
 }
 #underemne5 {
     grid-area: underemne5;
+}
+#underemne6 {
+    grid-area: underemne6;
 }
 #pause1 {
     grid-area: pause1;

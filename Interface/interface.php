@@ -16,15 +16,17 @@
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/IA.png" alt="Processen fra informationsarkitektur til bruger oplevelsen">
+                <a href="Informationsarkitektur.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/IA.png" alt="Processen fra informationsarkitektur til bruger oplevelsen">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Informationsarkitektur</h2>
+                            <p>Læs om informationsarkitektur, samt en række værktøjer man man anvende til at undersøge dette.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Informationsarkitektur</h2>
-                        <p>Læs om informationsarkitektur, samt en række værktøjer man man anvende til at undersøge dette.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="design">
                 <a href="Responsiv_layout.php">

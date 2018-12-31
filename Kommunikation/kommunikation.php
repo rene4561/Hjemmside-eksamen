@@ -38,15 +38,17 @@
                 </div>
             </section>
             <section id="interface">
-                 <div class="emnecontainer">
-                     <div class="thumbcontainer">
-                        <img src="Thumbnails/tekstproduktion.png" alt="Illustation af en blækpindpen og en bog">
-                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Tekstproduktion</h2>
-                        <p>Læs om hvordan man skriver tekster til forskellige platforme.</p>
+                <a href="Tekstproduktion.php">
+                     <div class="emnecontainer">
+                         <div class="thumbcontainer">
+                            <img src="Thumbnails/tekstproduktion.png" alt="Illustation af en blækpindpen og en bog">
+                         </div>
+                        <div class="tekstcontainer">
+                            <h2>Tekstproduktion</h2>
+                            <p>Læs om hvordan man skriver tekster til forskellige platforme.</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </section>
         </div>
         <footer>

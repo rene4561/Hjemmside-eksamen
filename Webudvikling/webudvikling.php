@@ -32,7 +32,7 @@
                 <a href="CSS.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Thumbnails/CSS.jpg">
+                            <img src="Thumbnails/CSS.jpg" alt="CSS logo">
                         </div>
                         <div class="tekstcontainer">
                             <h2>CSS</h2>

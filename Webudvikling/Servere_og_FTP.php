@@ -46,7 +46,7 @@
                         <p>Til 1.semestereksamensprojektet har vi kun lært om serverside-include.</p>
                         <section>
                             <h2>Serverside Include</h2>
-                            <p>Denne feature kan indsætte små bider af kode i ens egen kode inden klienten, browseren, modtager det i den anden ende. For klienten vil hjemmesiden være et komplet dokument. Dette skyldes at man i .PHP dokumentet indsætter et <?PHP tag, som afsluttes med ?>, hvor man deri indsætter et indclude, som refererer til et andet dokument, som er .HMTL med den bid kode, som man vil have indsat. Dette opfatter serveren derefter som en opskrift på hjemmesiden, og sammensætter dokumenterne inden de bliver sendt til klienten.</p>
+                            <p>Denne feature kan indsætte små bider af kode i ens egen kode inden klienten, browseren, modtager det i den anden ende. For klienten vil hjemmesiden være et komplet dokument. Dette skyldes at man i .PHP dokumentet indsætter et &lt;?PHP tag, som afsluttes med ?&gt;, hvor man deri indsætter et indclude, som refererer til et andet dokument, som er .HMTL med den bid kode, som man vil have indsat. Dette opfatter serveren derefter som en opskrift på hjemmesiden, og sammensætter dokumenterne inden de bliver sendt til klienten.</p>
                         </section>
                     </section>
                 </section>

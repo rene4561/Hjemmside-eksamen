@@ -1,4 +1,7 @@
 /*Generelt */
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin: 0;
     padding: 0;
@@ -9,7 +12,7 @@ h2, p {
 h1 {
     font-family: 'Glegoo', serif;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 1.7em;
     margin-top: 0;
     line-height: 1em;
 }
@@ -27,6 +30,13 @@ li {
 blockquote {
     font-family: 'Ubuntu', sans-serif;
     font-style: italic;
+}
+dl {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: lighter; 
+}
+iframe {
+    width: 100%;
 }
 /* Slut generelt*/
 /*Start navigation*/
@@ -326,6 +336,9 @@ footer h2, footer p {
         margin-right: 1em;
         grid-area: indhold;
     }
+    h1 {
+        font-size: 2.5em;
+    }
 } /*Tablet slut */
 /*Computer version*/
 @media only screen and (min-width: 1024px) { 
@@ -344,5 +357,8 @@ footer h2, footer p {
         grid-area: indhold;
         width: 700px;
         font-size: 1.2em;
+    }
+    h1 {
+        font-size: 3em;
     }
 } /*Computer slut */

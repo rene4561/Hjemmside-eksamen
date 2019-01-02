@@ -36,11 +36,6 @@
                         <p>Under ideate begyndte vi at tænkte på, hvilken type indhold vi ville have på siden. Dertil skabte vi et moodboard, som skulle hjælpe os med at holde fokus på den målgruppe og de følelser, som vi besluttede os for at anvende. Vores målgruppe endte med at være ”power kvinder”. Dette baserede vi bl.a. på en række mega trends - primært women empowerment.</p>
                         <p>Da vi skulle lave en prototype af produktet, skitserede vi en række wireframes, som skulle fungere som skelettet til vores One page. Disse wirefames viderebyggede vi på, hvor vi gradvist forbedrede informationsarkitekturen. Dertil udarbejdede vi også et par designelementer. Idéen lød på, at hjemmesiden skulle afspejle dåsen.</p>
                         <img src="Modeller/Onepage_wireframe.png" alt="En wireframe af vores hjemmeside">
-                        <section>
-                            <h2>Video opsamling</h2>
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/hv3JBFfzDXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/-E4bulx6UbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </section>
                     </section>
                     <section>
                         <h2>Produktionen</h2>

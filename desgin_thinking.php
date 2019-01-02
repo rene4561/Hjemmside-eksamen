@@ -17,16 +17,53 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Overskift</h1>
-                    <p>overskigt over emner</p>
+                    <h1>Design Thinking</h1>
+                    <p>Design Thinking er en metode, som vi har anvendt til vores projekt under 1. semester. Dog er design thinking ikke blot en metode, det er også en tankegang. Denne tilgang er en måde at styre sine tanker i faser, som hjælper en frem det bedste resultat. For mennesker er løsningsorienteret, og derfor vil vi tit ty til at finde en løsning på et givet problem, hvor vi dertil baserer løsningen på vores nuværende viden – den er bare ikke altid nok.</p>
+                    <p>Læs om hver fase nedenfor:</p>
+                    <ul>
+                        <li>Empathize</li>
+                        <li>Define</li>
+                        <li>Ideate</li>
+                        <li>Prototype</li>
+                        <li>Test</li>
+                        <li>Implement</li>
+                        <li>Læs også om divergent/konvergent process</li>
+                    </ul>
                 </div>
                 <section id="underemne1">
-                    <h2>Under emne</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae dignissim arcu. Curabitur condimentum aliquet odio, eu ornare neque ullamcorper pulvinar. Cras in dapibus odio. Aliquam eget orci sit amet lacus convallis pretium. Nulla in accumsan justo. Maecenas mattis est ac felis tincidunt imperdiet. Integer lacus diam, scelerisque et nibh ac, consequat maximus felis. Pellentesque mollis blandit dolor, ac bibendum tortor scelerisque ac. Nam imperdiet lobortis maximus. Sed luctus vehicula enim, quis commodo urna ullamcorper in. Etiam sollicitudin felis a risus viverra cursus. Integer ut mauris ullamcorper, auctor ante a, laoreet ex. Donec luctus non neque sit amet euismod.</p>
+                    <img src="Modeller/DT_process.png" alt="Model af design thinking processen">
+                    <section>
+                        <h2>Empathize</h2>
+                        <p>Denne fase er den første i processen, hvor formålet er at gøre sig klog på det problem, som man skal løse. Idéen er at man skal undersøge og forstå, så vidt muligt, alt det der vedrører problemet. Dette vil give en helhedsforståelse af problemet, og dermed give et stærkt grundlag at baseree resten af projektet på. Hvis denne fase er veludført, undgår man en masse bøvl og tidsspild i den anden ende.</p>
+                    </section>
+                    <section>
+                        <h2>Define</h2>
+                        <p>Efter man har været nysgerrig, i den forrige fase, gælder det nu om at definere, hvad problemet er. Med den data som man har indsamlet, fra empathize fasen, kan man nå helt ind til kernen af det problem, som man prøver at løse. Det skal siges, at man allerede her, kan være nået til den erkendelse, at man ikke har indsamlet nok data til at definere problemet skarpt nok. Det er altid tilladt at hoppe et skridt tilbage under en design thinking proces. </p>
+                        <section>
+                            <h2>Ideate</h2>
+                            <p>Nu hvor problemet er klart defineret er det, endelig, tid til at tænke på løsninger. Forskellen er at nu vil løsningerne, som udgangspunkt, ramme problemet lige på hovedet. Dertil er det muligt at tænke ’ud af boksen’, og komme med kreative løsninger på problemet.</p>
+                        </section>
+                        <section>
+                            <h2>Prototype</h2>
+                            <p>I denne fase skal man bringe sine idéer til livs. Ingen af løsningerne føres til ende, da det blot handler om at have et skelet til sin løsning. Dette viderebringes derefter til den næste fase.</p>
+                        </section>
+                        <section>
+                            <h2>Test</h2>
+                            <p>I denne fase tester man om sit produkt vil bære eller briste. Oftest vil man ikke ramme den helt rigtige løsning i første omgang. Det er derfor at sammenspillet mellem denne fase, og den forrige, i høj grad er en interaktiv proces – det man lærer fra testfasen bringes med tilbage til prototypefasen. </p>
+                        </section>
+                        <section>
+                            <h2>Implement</h2>
+                            <p>Nogen anser projektet for at være færdig efter, at det er blevet implementeret. Dette er dog ikke helt korrekt, da der altid kan være nye ting man lærer, når produktet anvendes i den virkelige verden. Det kan også være, at man vil arbejde videre med en nyere eller bedre version af det forrige produkt. Dertil kan man altid starte hele processen forfra.</p>
+                        </section>
+                    </section>
+                    <p>Dette citat opsummerer tilgangen/faserne som et forløb:</p>
+                    <blockquote>"Human-centered designers are unlike other problem solvers—we tinker and test, we fail early and often, and we spend a surprising amount of time not knowing the answer to the challenge at hand. And yet, we forge ahead. We’re optimists and makers, experimenters and learners, we empathize and iterate, and we look for inspiration in unexpected places. We believe that a solution is out there and that by keeping focused on the people we’re designing for and asking the right questions, we’ll get there together. We dream up lots of ideas, some that work and some that don’t. We make our ideas tangible so that we can test them, and then we refine them. In the end, our approach amounts to wild creativity, to a ceaseless push to innovate, and a confidence that leads us to solutions we’d never dreamed of when we started." </blockquote>
+                    <p>-Field Guide to Human Centred Design, designkit.org (IDEO)</p>
                 </section>
                 <section id="underemne2">
-                    <h2>Under emne 2</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae dignissim arcu. Curabitur condimentum aliquet odio, eu ornare neque ullamcorper pulvinar. Cras in dapibus odio. Aliquam eget orci sit amet lacus convallis pretium. Nulla in accumsan justo. Maecenas mattis est ac felis tincidunt imperdiet. Integer lacus diam, scelerisque et nibh ac, consequat maximus felis. Pellentesque mollis blandit dolor, ac bibendum tortor scelerisque ac. Nam imperdiet lobortis maximus. Sed luctus vehicula enim, quis commodo urna ullamcorper in. Etiam sollicitudin felis a risus viverra cursus. Integer ut mauris ullamcorper, auctor ante a, laoreet ex. Donec luctus non neque sit amet euismod.</p>
+                    <h2>Divergens og konvergens</h2>
+                    <p>Under processen handler det, til dels, om at være nysgerrig og kreativ, men en vigtig del er også at være kritisk. Mens man er kreativ og nysgerrig, handler det om at udvide projektets rammer – at få én idé som kan lede til en anden osv. Dette kaldes at divergere. Dertil er det også ligeså vigtig at være kritisk og ’kill your darlings’ – her konvergerer man, hvilket betyder at man indsnævre projektets rammer igen. Denne divergens/konvergens proces bidrager med en masse løsninger, hvor kun de bedste tages med videre.</p>
+                    <img src="Modeller/DT_divergentkonvergent.png" alt="Illustration over den divergente og konvergente arbejdsproces">
                 </section>
                 <section id="underemne3">
                     <h2>Under emne 3</h2>

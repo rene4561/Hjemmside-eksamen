@@ -4,104 +4,104 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Forside til mit eksamensprojekt</title>
-        <link rel="stylesheet" type="text/css" href="mystyle.css">
+        <link rel="stylesheet" type="text/css" href="../mystyle.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Glegoo|Ubuntu:300" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-        <script src="mynav.js"></script>  
+        <script src="../mynav.js"></script>  
     </head>
     <body>
         <?php
-            include "minnav.include"
+            include "../minnav.include"
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <a href="webudvikling.php">
+                <a href="HTML.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/web-page_1300-265.jpg" alt="Illustration af HTML kode">
+                            <img src="Thumbnails/HTML5.png" alt="HTML5 logo">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Webudvikling</h2>
-                            <p>Læs om alt det tekniske bag produktionen af hjemmesider.</p>
+                            <h2>HTML</h2>
+                            <p>Læs om HTML syntaks, semantiske tags og kodeskik.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="design">
-                <a href="design.php">
+                <a href="CSS.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/design.png" alt="Abstrakt geometrisk figur">
+                            <img src="Thumbnails/CSS.jpg" alt="CSS logo">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Design</h2>
-                            <p>Læs om grafisk design af webindhold.</p>
+                            <h2>CSS</h2>
+                            <p>CSS er sproget der styler webbet. Læs om dets syntaks og funktioner.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="interface">
-                <a href="interface.php">
+                <a href="Servere_og_FTP.php">
                      <div class="emnecontainer">
                          <div class="thumbcontainer">
-                            <img src="Billeder/interface.jpg" alt="Illustration af mobiltelefon">
+                            <img src="Thumbnails/server_klient.png" alt="Illustration server/klient forholdet">
                          </div>
                         <div class="tekstcontainer">
-                            <h2>Interface design</h2>
-                            <p>Interface er kontanken mellem bruger og maskine. Giv dem en god opvelelse.</p>
+                            <h2>Webserver og FTP</h2>
+                            <p>Læs om brug af server, samt dets historie</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="kommunikation">
-                <a href="kommunikation.php">
+                <a href="Versionsstyring.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/kommunikation.jpg" alt="Illustation af 2 mennesker der kommunikerer">
+                            <img src="Thumbnails/Versionsstyring.png" alt="Illustration af versionsstyring">
                          </div>
                          <div class="tekstcontainer">
-                            <h2>Kommunikation</h2>   
-                            <p>Læs om kommunikation på forskellige platforme, samt videnskabsteori.</p>
+                            <h2>Versionsstyring</h2>   
+                            <p>Læs om mentalliten af versionsstyring og anvdendel af GitHub.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="virksomhed">
-                <a href="virksomhed.php">
+                <a href="Bootstrap.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/virksomhedsforst%C3%A5else.png" alt="Liste af forskellige virksomhedstyper">
+                            <img src="Thumbnails/Bootstrap.jpg" alt="Bootstrap logo og en computer med bootstrap på skærmen">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Virksomhedsforståelse</h2>
-                            <p>Læs om virksmhedsforståelse - herunder Business Model Canvas.</p>
+                            <h2>Bootstrap</h2>
+                            <p>Læs om hvad bootstrap er.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="projekter">
-                <a href="projekter.php">
+                <a href="SEO.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/design%20thinking.png" alt="Design thinking prossesen">                
+                            <img src="Thumbnails/SEO.png" alt="Illustation af SEO">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Projekter</h2>
-                            <p>Her kan du læse om de projekter vi har lavet - dertil de metoder vi har anvendt.</p>
+                            <h2>SEO, Seach Engine Optimization</h2>
+                            <p>Læs om hvad SEO er, og hvordan man skaber god SEO.</p>
                         </div>
-                    </div>
+                     </div>
                 </a>
             </section>   
             <section id="omsiden">
-                <a href="omsiden.php">
+                <a href="Webbetsperioder.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/Mig.jpg" alt="Et billede af René">
+                            <img src="Thumbnails/webperioder.png" alt="Et billede af Apple hjemmeside i 90'eren">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Om siden</h2>
-                            <p>Få indblik i produktionen bag sitet, samt de overvejelser jeg har gjordt mig undervejs.</p>
+                            <h2>Webperioder</h2>
+                            <p>Læs om webbets perioder, og deres kendetegn.</p>
                         </div>
                     </div>
                 </a>

@@ -4,104 +4,104 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Forside til mit eksamensprojekt</title>
-        <link rel="stylesheet" type="text/css" href="mystyle.css">
+        <link rel="stylesheet" type="text/css" href="../mystyle.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Glegoo|Ubuntu:300" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-        <script src="mynav.js"></script>  
+        <script src="../mynav.js"></script>  
     </head>
     <body>
         <?php
-            include "minnav.include"
+            include "../minnav.include"
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <a href="webudvikling.php">
+                <a href="Illustrator.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/web-page_1300-265.jpg" alt="Illustration af HTML kode">
+                            <img src="thumbnails/Illustrator.png" alt="Illustrator logo på en computer skærm">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Webudvikling</h2>
-                            <p>Læs om alt det tekniske bag produktionen af hjemmesider.</p>
+                            <h2>Illustrator</h2>
+                            <p>Læs om hvad illustator er, samt se en lille showcase med forklaringer.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="design">
-                <a href="design.php">
+                <a href="photoshop.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/design.png" alt="Abstrakt geometrisk figur">
+                            <img src="thumbnails/adobe-photoshop-logo.png" alt="Photoshop logo">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Design</h2>
-                            <p>Læs om grafisk design af webindhold.</p>
+                            <h2>Photoshop</h2>
+                            <p>Læs om hvad photoshop er, samt se en lille showcase med forklaringer.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="interface">
-                <a href="interface.php">
+                <a href="fotografering.php">
                      <div class="emnecontainer">
                          <div class="thumbcontainer">
-                            <img src="Billeder/interface.jpg" alt="Illustration af mobiltelefon">
+                            <img src="thumbnails/fotografering.png" alt="Illustration af et kamera">
                          </div>
                         <div class="tekstcontainer">
-                            <h2>Interface design</h2>
-                            <p>Interface er kontanken mellem bruger og maskine. Giv dem en god opvelelse.</p>
+                            <h2>Fotografering</h2>
+                            <p>Læs om hvordan man anvender et kamera, samt en lille showcase.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="kommunikation">
-                <a href="kommunikation.php">
+                <a href="farver.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/kommunikation.jpg" alt="Illustation af 2 mennesker der kommunikerer">
+                            <img src="thumbnails/farver.png" alt="En vivl af alle alle tertriære farver">
                          </div>
                          <div class="tekstcontainer">
-                            <h2>Kommunikation</h2>   
-                            <p>Læs om kommunikation på forskellige platforme, samt videnskabsteori.</p>
+                            <h2>Farver</h2>   
+                            <p>Læs om farvers indfludelse på mennesker, samt sympolik.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="virksomhed">
-                <a href="virksomhed.php">
+                <a href="typografi.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/virksomhedsforst%C3%A5else.png" alt="Liste af forskellige virksomhedstyper">
+                            <img src="thumbnails/typografi.png" alt="billede af en tekst med ordet typography">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Virksomhedsforståelse</h2>
-                            <p>Læs om virksmhedsforståelse - herunder Business Model Canvas.</p>
+                            <h2>Typografi</h2>
+                            <p>Læs om hvad typografi er, font-anotomi, samt typeface virke og kombinationer.</p>
                         </div>
                     </div>
                 </a>
             </section>
             <section id="projekter">
-                <a href="projekter.php">
+                <a href="Gestaltlove.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/design%20thinking.png" alt="Design thinking prossesen">                
+                            <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">    
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Projekter</h2>
-                            <p>Her kan du læse om de projekter vi har lavet - dertil de metoder vi har anvendt.</p>
+                            <h2>Gestaltlovene</h2>
+                            <p>Læs om de forskellige gestaltlove.</p>
                         </div>
-                    </div>
+                     </div>
                 </a>
             </section>   
             <section id="omsiden">
-                <a href="omsiden.php">
+                <a href="Quick_and_dirty.php">
                     <div class="emnecontainer">
                         <div class="thumbcontainer">
-                            <img src="Billeder/Mig.jpg" alt="Et billede af René">
+                            <img src="thumbnails/rapid%20video.png" alt="Illustation af et videokamera">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Om siden</h2>
-                            <p>Få indblik i produktionen bag sitet, samt de overvejelser jeg har gjordt mig undervejs.</p>
+                            <h2>Rapid video</h2>
+                            <p>Læs video produktion, samt hvad rapid video er</p>
                         </div>
                     </div>
                 </a>

@@ -1,5 +1,5 @@
         <header>
-            <div class="logo"><a href="../index">Renés portfolio</a></div>
+            <div class="logo"><a href="../index.php">Renés portfolio</a></div>
             <nav>
                 <ul>
                     <li class="sub-menu"><a href="#">Webudvikling</a>

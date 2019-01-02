@@ -3,16 +3,16 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Forside til mit eksamensprojekt</title>
-        <link rel="stylesheet" type="text/css" href="../mystyle.css">
+        <title>One page projektet</title>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Glegoo|Ubuntu:300" rel="stylesheet">
         <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-        <script src="../mynav.js"></script>  
+        <script src="mynav.js"></script>  
     </head>
     <body>
         <?php
-            include "../minnav.include"
+            include "minnav.include"
         ?>
         <div id=pagewrap>
             <section id="indhold">

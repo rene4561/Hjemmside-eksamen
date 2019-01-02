@@ -16,26 +16,30 @@
         ?>
         <div id=pagewrap>
             <section id="webudvikling">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/videnskabsteori.jpg" alt="Illustration af videnskabeligt udstyr">
+                <a href="Videnskabsteori.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="Thumbnails/videnskabsteori.jpg" alt="Illustration af videnskabeligt udstyr">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Videnskabsteori</h2>
+                            <p>Læs om videnskabsteori, samt de forskellige paradigmer.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Videnskabsteori</h2>
-                        <p>Læs om videnskabsteori, samt de forskellige paradigmer.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="design">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="Thumbnails/pr%C3%A6sentation.png" alt="Illustation af en mand som præsentere noget for et publikum">
+                <a href="Pr%C3%A6sentationsteknik.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="Thumbnails/pr%C3%A6sentation.png" alt="Illustation af en mand som præsentere noget for et publikum">
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Præsentationsteknik</h2>
+                            <p>Læs om præsentationsteknik, dertil en række værktøjer til forberedelse af en præsentation.</p>
+                        </div>
                     </div>
-                    <div class="tekstcontainer">
-                        <h2>Præsentationsteknik</h2>
-                        <p>Læs om præsentationsteknik, dertil en række værktøjer til forberedelse af en præsentation.</p>
-                    </div>
-                </div>
+                </a>
             </section>
             <section id="interface">
                 <a href="Tekstproduktion.php">

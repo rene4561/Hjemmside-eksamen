@@ -55,15 +55,17 @@
                 </a>
             </section>
             <section id="kommunikation">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/farver.png" alt="En vivl af alle alle tertriære farver">
-                     </div>
-                     <div class="tekstcontainer">
-                        <h2>Farver</h2>   
-                        <p>Læs om farvers indfludelse på mennesker, samt sympolik.</p>
+                <a href="farver.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/farver.png" alt="En vivl af alle alle tertriære farver">
+                         </div>
+                         <div class="tekstcontainer">
+                            <h2>Farver</h2>   
+                            <p>Læs om farvers indfludelse på mennesker, samt sympolik.</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </section>
             <section id="virksomhed">
                 <a href="typografi.php">
@@ -79,15 +81,17 @@
                 </a>
             </section>
             <section id="projekter">
-                <div class="emnecontainer">
-                    <div class="thumbcontainer">
-                        <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">    
-                    </div>
-                    <div class="tekstcontainer">
-                        <h2>Gestaltlovene</h2>
-                        <p>Læs om de forskellige gestaltlove.</p>
-                    </div>
-                 </div>
+                <a href="Gestaltlove.php">
+                    <div class="emnecontainer">
+                        <div class="thumbcontainer">
+                            <img src="thumbnails/gestalt-principles.png" alt="Illustation af gestaltlovene i teksten gestalt">    
+                        </div>
+                        <div class="tekstcontainer">
+                            <h2>Gestaltlovene</h2>
+                            <p>Læs om de forskellige gestaltlove.</p>
+                        </div>
+                     </div>
+                </a>
             </section>   
             <section id="omsiden">
                 <a href="Quick_and_dirty.php">

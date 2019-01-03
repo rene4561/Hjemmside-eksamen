@@ -99,17 +99,43 @@
                     <p>Ulla Gjeset Schjølberg, "<a href="https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os">https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os</a>" - Hvordan påvirker farver os?</p>
                     <p>Carsten Bogner, "Præsentation: Farvelære" - og noter fra undervisningsdagen</p>
                 </section>
-                <aside id="pause1">
+                <aside id="pause3">
                     <a href="#">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>Adobe color-wheel</h2>
+                                <p>Dette redskab hjælper med at sammensætte farverkombinationer.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/design/farve/colorwheel.png">
                             </div>
-                        </div> <!--pause1 slut -->
+                        </div> 
+                    </a>
+                </aside><!--pause3 slut -->
+                <aside id="pause2">
+                    <a href="https://color.adobe.com/da/create/color-wheel/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Flat UI colorpicker</h2>
+                                <p>Denne er en farve paletside, som hjælper med at udforske farver</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/farve/slack.png">
+                            </div>
+                        </div> <!--pause3 slut -->
+                    </a>
+                </aside> 
+                <aside id="pause4">
+                    <a href="https://color.hailpixel.com/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Color dot</h2>
+                                <p>På denne side kan man se på farver ved at bevæge musen rundt på skærmen.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/farve/colordot.png">
+                            </div>
+                        </div> <!--pause3 slut -->
                     </a>
               </aside> 
             </section> <!--indhold slut-->

@@ -85,19 +85,6 @@
                     <p>Niels Østergaard, "Præsentation om kamerafunktionalitet" - PDF </p>
                     <p>Brian Rodgers, "<a href="https://www.youtube.com/watch?v=oqa9pbsTJQ0&feature=youtu.be">https://www.youtube.com/watch?v=oqa9pbsTJQ0&amp;feature=youtu.be</a>" - How To Photograph And Composite A Commercial Beverage Image In Photoshop.</p>
                 </section>
-                <aside id="pause1">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause1 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

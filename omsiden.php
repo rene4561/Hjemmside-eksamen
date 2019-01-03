@@ -22,7 +22,7 @@
                     <ul>
                         <li>Struktur</li>
                         <li>Design</li>
-                        <li>Reflektion</li>
+                        <li>Refleksion</li>
                     </ul>
                 </div>
                 <section id="underemne1">

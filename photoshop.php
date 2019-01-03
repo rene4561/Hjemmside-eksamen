@@ -38,24 +38,11 @@
                     <p>Det første jeg fokuserede på at lave, var baggrunden og guldplaketten. Det skal siges, at plaketten var min idé, som vi begge synes var lidt sjov. Vi valgte at bruge den. Baggrunden lavede jeg hovedsageligt ved at anvende repeat last step genvejstasten. Først lavede jeg en cirkel, derefter brugte jeg tasten, som skabte en mindre cirkel. Dette gjorde jeg et par gange, til jeg havde en del og gradvist mindre cirkler. Derefter kopierede og roterede jeg alle cirklerne – dette gentog jeg indtil, at jeg var nået hele artboardet rundt.</p>
                     <p>Plakken består af 2 dele: gulddelen og trædelen - jeg startede jeg gulddelen. Efter jeg lavede den form jeg ønskede, skulle jeg få den til at ligne guld. Det der udgør hovedbestanddelen, er en layer style, forkortet med fx i Photoshop. Denne hedder color gradient. Her anvendte jeg en teknik, som i miniaturemalerverdenen hedder NMM - Non-Metallic-Metal. Den korte udgave er, at man anvender en række skygger: mid-tones og highlights.</p>
                     <p>Træet er en lidt mere kompliceret sag. Først laver man en brun baggrund med den ønskede tone, derefter skal man tilføje et noise filter. Dernæst tilføjede jeg et cloud filter, som jeg fade’ede – for at gøre effekten mindre frembrusende. Jeg tilføjede også en lille smule gaussian blur for at bringe effektenerne sammen. Sidst tilføjede jeg et distort twirl filter. Dette skaber en række bølger i billedet, som samlet set får det hele til at ligne træ.</p>
-                </section id="kilder">
-                <section> <!-- Kilde oversigt -->
+                </section>
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Carsten Bogner, undervisningen fra dagen med Photoshop </p>
                 </section>
-                <aside id="pause1">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause1 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

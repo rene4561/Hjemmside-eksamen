@@ -111,7 +111,7 @@
                             </div>
                         </div> <!--pause1 slut -->
                     </a>
-              </aside>
+                </aside>
                 <aside id="pause2">
                     <a href="https://www.w3schools.com/cssref/default.asp">
                         <div class="pause">
@@ -151,19 +151,6 @@
                         </div> <!--pause4 slut -->
                     </a>
               </aside>
-                <aside id="pause5">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause5 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

@@ -77,14 +77,14 @@
                     <p>Moodlerooms, "Design Thinking" - rum 1, 6-11</p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="http://www.designkit.org/methods">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>Design kit</h2>
+                                <p>Her kan du finde en række metoder og værktøjer, som du kan anvende under design thinking processen.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/projekter/design%2520thinking/designkit.png">
                             </div>
                         </div> <!--pause1 slut -->
                     </a>

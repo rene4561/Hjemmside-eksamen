@@ -74,16 +74,68 @@
                     <p>Type Borrito, "<a href="http://typeburrito.com/2016/03/18/stop-feeling-dumb-about-pairing-fonts.html">http://typeburrito.com/2016/03/18/stop-feeling-dumb-about-pairing-fonts.html</a>" - Stop Feeling Dumb About Pairing Fonts</p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>De 10 bud for typografi</h2>
+                                <p>Dette link fører til en liste over de 10 bud for typografi.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/design/typografi/10%20bud.jpg">
                             </div>
                         </div> <!--pause1 slut -->
+                    </a>
+                </aside> 
+                <aside id="pause2">
+                    <a href="https://practicaltypography.com/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Alt om typografi</h2>
+                                <p>Dette er en side fra Matthew Butterick, kaldet "practical typografy". Her kan man læse alt om typografi.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/typografi/Butterick.gif">
+                            </div>
+                        </div> <!--pause2 slut -->
+                    </a>
+              </aside>
+                <aside id="pause3">
+                    <a href="https://www.myfonts.com/WhatTheFont/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>I tvivl om et typeface?</h2>
+                                <p>Denne side kan scanne et typeface, og identificere hvad den hedder.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/typografi/finder.png">
+                            </div>
+                        </div> <!--pause3 slut -->
+                    </a>
+              </aside> 
+                <aside id="pause4">
+                    <a href="http://www.typeconnection.com/index.php">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Typografi dating spil</h2>
+                                <p>Prøv dette spil hvor man skal mache typografier.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/typografi/dating.JPG">
+                            </div>
+                        </div> <!--pause4 slut -->
+                    </a>
+              </aside>
+                <aside id="pause5">
+                    <a href="https://www.typewolf.com/cheatsheet">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Typografi cheatsheet</h2>
+                                <p>Denne side indeholder alle special karaktere man kan skrive.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/design/typografi/typewolf.png">
+                            </div>
+                        </div> <!--pause5 slut -->
                     </a>
               </aside> 
             </section> <!--indhold slut-->

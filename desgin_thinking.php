@@ -35,35 +35,46 @@
                     <section>
                         <h2>Empathize</h2>
                         <p>Denne fase er den første i processen, hvor formålet er at gøre sig klog på det problem, som man skal løse. Idéen er at man skal undersøge og forstå, så vidt muligt, alt det der vedrører problemet. Dette vil give en helhedsforståelse af problemet, og dermed give et stærkt grundlag at baseree resten af projektet på. Hvis denne fase er veludført, undgår man en masse bøvl og tidsspild i den anden ende.</p>
+                        <p id=kildereferant>- Moodle</p>
                     </section>
                     <section>
                         <h2>Define</h2>
                         <p>Efter man har været nysgerrig, i den forrige fase, gælder det nu om at definere, hvad problemet er. Med den data som man har indsamlet, fra empathize fasen, kan man nå helt ind til kernen af det problem, som man prøver at løse. Det skal siges, at man allerede her, kan være nået til den erkendelse, at man ikke har indsamlet nok data til at definere problemet skarpt nok. Det er altid tilladt at hoppe et skridt tilbage under en design thinking proces. </p>
+                        <p id=kildereferant>- Moodle</p>
                         <section>
                             <h2>Ideate</h2>
                             <p>Nu hvor problemet er klart defineret er det, endelig, tid til at tænke på løsninger. Forskellen er at nu vil løsningerne, som udgangspunkt, ramme problemet lige på hovedet. Dertil er det muligt at tænke ’ud af boksen’, og komme med kreative løsninger på problemet.</p>
+                            <p id=kildereferant>- Moodle</p>
                         </section>
                         <section>
                             <h2>Prototype</h2>
                             <p>I denne fase skal man bringe sine idéer til livs. Ingen af løsningerne føres til ende, da det blot handler om at have et skelet til sin løsning. Dette viderebringes derefter til den næste fase.</p>
+                            <p id=kildereferant>- Moodle</p>
                         </section>
                         <section>
                             <h2>Test</h2>
                             <p>I denne fase tester man om sit produkt vil bære eller briste. Oftest vil man ikke ramme den helt rigtige løsning i første omgang. Det er derfor at sammenspillet mellem denne fase, og den forrige, i høj grad er en interaktiv proces – det man lærer fra testfasen bringes med tilbage til prototypefasen. </p>
+                            <p id=kildereferant>- Moodle</p>
                         </section>
                         <section>
                             <h2>Implement</h2>
                             <p>Nogen anser projektet for at være færdig efter, at det er blevet implementeret. Dette er dog ikke helt korrekt, da der altid kan være nye ting man lærer, når produktet anvendes i den virkelige verden. Det kan også være, at man vil arbejde videre med en nyere eller bedre version af det forrige produkt. Dertil kan man altid starte hele processen forfra.</p>
+                            <p id=kildereferant>- Moodle</p>
                         </section>
                     </section>
                     <p>Dette citat opsummerer tilgangen/faserne som et forløb:</p>
                     <blockquote>"Human-centered designers are unlike other problem solvers—we tinker and test, we fail early and often, and we spend a surprising amount of time not knowing the answer to the challenge at hand. And yet, we forge ahead. We’re optimists and makers, experimenters and learners, we empathize and iterate, and we look for inspiration in unexpected places. We believe that a solution is out there and that by keeping focused on the people we’re designing for and asking the right questions, we’ll get there together. We dream up lots of ideas, some that work and some that don’t. We make our ideas tangible so that we can test them, and then we refine them. In the end, our approach amounts to wild creativity, to a ceaseless push to innovate, and a confidence that leads us to solutions we’d never dreamed of when we started." </blockquote>
-                    <p>-Field Guide to Human Centred Design, designkit.org (IDEO)</p>
+                    <p id="kildereferant">-Field Guide to Human Centred Design, designkit.org (IDEO)</p>
                 </section>
                 <section id="underemne2">
                     <h2>Divergens og konvergens</h2>
                     <p>Under processen handler det, til dels, om at være nysgerrig og kreativ, men en vigtig del er også at være kritisk. Mens man er kreativ og nysgerrig, handler det om at udvide projektets rammer – at få én idé som kan lede til en anden osv. Dette kaldes at divergere. Dertil er det også ligeså vigtig at være kritisk og ’kill your darlings’ – her konvergerer man, hvilket betyder at man indsnævre projektets rammer igen. Denne divergens/konvergens proces bidrager med en masse løsninger, hvor kun de bedste tages med videre.</p>
+                    <p id=kildereferant>- Moodle</p>
                     <img src="Modeller/DT_divergentkonvergent.png" alt="Illustration over den divergente og konvergente arbejdsproces">
+                </section>
+                <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Moodlerooms, "Design Thinking" - rum 1, 6-11</p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

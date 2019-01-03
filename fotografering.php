@@ -80,7 +80,7 @@
                     <p>Her ses billederne vi tog individuelt. En yderligere bemærkning - vi brugte et stykke sort lamineret pap til at skabe refleksionen af dåsen.</p>
                     <img src="modeller/studie.jpg" alt="Et billede af Simone og jegs fotostudie">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Niels Østergaard, "Præsentation om kamerafunktionalitet" - PDF </p>
                     <p>Brian Rodgers, "<a href="https://www.youtube.com/watch?v=oqa9pbsTJQ0&feature=youtu.be">https://www.youtube.com/watch?v=oqa9pbsTJQ0&amp;feature=youtu.be</a>" - How To Photograph And Composite A Commercial Beverage Image In Photoshop.</p>

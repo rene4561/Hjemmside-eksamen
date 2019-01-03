@@ -131,7 +131,7 @@
                         </section>
                     </section> <!-- Fase 5 slut -->
                 </section> <!-- Under emne 2 slut -->
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Mette Hald, "Præsentation og formidling" - kap. 4 &amp; 6 </p>
                     <p>Moodleroom, "Present 3 pp. 27-44 (2).pdf" - Præsentationsteknik</p>

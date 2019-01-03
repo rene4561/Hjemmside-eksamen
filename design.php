@@ -100,7 +100,7 @@
                             <img src="thumbnails/rapid%20video.png" alt="Illustation af et videokamera">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Rapid video</h2>
+                            <h2>Videoproduktion</h2>
                             <p>Læs video produktion, samt hvad rapid video er</p>
                         </div>
                     </div>

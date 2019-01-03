@@ -72,7 +72,7 @@
                     <p id=kildereferant>- Moodle</p>
                     <img src="Modeller/DT_divergentkonvergent.png" alt="Illustration over den divergente og konvergente arbejdsproces">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Moodlerooms, "Design Thinking" - rum 1, 6-11</p>
                 </section>

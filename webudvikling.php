@@ -87,7 +87,7 @@
                             <img src="Thumbnails/SEO.png" alt="Illustation af SEO">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>SEO, Seach Engine Optimization</h2>
+                            <h2>SEO - Seach Engine Optimization</h2>
                             <p>Læs om hvad SEO er, og hvordan man skaber god SEO.</p>
                         </div>
                      </div>

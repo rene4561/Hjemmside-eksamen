@@ -103,7 +103,7 @@
                     <p>Hvis begge segmenter stemmer overens, har man det man kalder et match. Det betyder, at produktet skaber værdi for kunden. </p>
                     <p id=kildereferant>-VPD ss. 8-9</p>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Alexander Ostwalder &amp; Yves Pigneur, "Business Model Generation" - ss. 20-50</p>
                     <p>Alexander Ostwalder, Yves Pugneur, Greg Bernarda &amp; Alan Smith, "Value Propersition Design" - ss. 6-39</p>

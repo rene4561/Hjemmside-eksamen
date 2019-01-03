@@ -241,11 +241,12 @@ header nav ul li a.active {
         "underemne5"
         "pause5"
         "underemne6"
+        "kilder"
         
 }
 #indhold img {
     width: 100%;
-    margin: 1em 0;
+    margin: 0;
 }
 #indhold li {
     margin: 0.5em;
@@ -267,6 +268,9 @@ header nav ul li a.active {
 }
 #underemne6 {
     grid-area: underemne6;
+}
+#kilder {
+    grid-area: kilder;
 }
 #pause1 {
     grid-area: pause1;

@@ -93,7 +93,7 @@
                         <img src="modeller/farve_HSB.jpg" alt="Model af HSB farvediamanten">
                     </section>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Jerry Cao, "<a href="https://designmodo.com/color-psychology-web-design/">https://designmodo.com/color-psychology-web-design/</a>" - Understanding Color Psychology for Impactful Web Design </p>
                     <p>Ulla Gjeset Schjølberg, "<a href="https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os">https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os</a>" - Hvordan påvirker farver os?</p>

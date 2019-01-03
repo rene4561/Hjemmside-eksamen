@@ -33,7 +33,7 @@
                     <p>I denne øvelse skulle vi lave USA's flag, da de havde 13 kolonier. Til at lave de 13 linjer lavede jeg først 7 røde linjer, hvor jeg dertil bruge vertical distribute til at fordele dem jævnt – her skal man være opmærksom på, at man fordeler i forhold til artboard fremfor selected. Til at lave stjernerne blandede jeg et par teknikker. Først lavede jeg en path - en rund sti som stjernerne skulle følge. Derefter lavede jeg 2 stjerner, som jeg dertil tildelte et blend. Herefter markerede jeg både mit blend og min path og valgte align to path under blend. </p>
                     <img src="modeller/13%20stater%20flag.png" alt="De 13 staters flag fra 1800-tallet">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Carsten Bogner, undervisningen fra dagen med Illustrator </p>
                 </section>

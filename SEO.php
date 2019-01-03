@@ -35,7 +35,7 @@
                         <p>De tekniske barriere kan være ting som videoer, kopieret interntekst og load hastigheder. Videoer kan være problematiske af 2 årsager: for det første siger videoer ikke noget om dens indhold - for en søgemaskine som Google. Dermed får man ingen SEO fra dem. For det andet kan videofiler også fylde meget på siden. Dertil vil siden loade langsommere, og dermed vil Google nedrangere siden.</p>
                     </section>
                 </section>
-                <section>
+                <section id="kilder">
                     <h2>Kilde:</h2>
                     <p>Carsten Guldborg, "Online-Marketing__1-dage__Carsten_Guldborg__low_ress" - PDF</p>
                 </section>

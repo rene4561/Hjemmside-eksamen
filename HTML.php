@@ -47,7 +47,7 @@
                     <p>Kommentarer er endnu en teknik, som er med til at gøre koden nemmere at forstå. Starten af en kommentar angives som &lt;!--, og afsluttes dertil med et --&gt;. Alt det man skriver derimellem, vil ikke være synligt på hjemmesiden, kun hvis man kigger i kildekoden. Det man kan skrive i et kommentarfelt kunne være ting som: hvilken betydning et stykke kode har, en opsummering af indholdet inde i sektion mm.</p> 
                      <p id=kildereferant>- Niels Østergaard</p>
                 </section>
-                 <section> <!-- Kilde oversigt -->
+                 <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Niels Østergaard, "Intro til HTML (Præsentation)" PDF </p>
                 </section>

@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Video produkiton</h1>
+                    <h1>Videoprodukiton</h1>
                 </div>
                 <section id="underemne1">
                     <h2>Generelt om videoproduktion</h2>
@@ -33,10 +33,10 @@
                     <h2>Quick and Dirty video</h2>
                     <p>Dette er et produktionsformat, hvor man laver en videoproduktion med få midler og ressourcer – det kaldes også for rapid videoproduktion. Formålet er dertil at man stadig formår at skabe informativt indhold, bare på et mindre penge-/tidsbudget.</p>
                     <h2>Vores produktion</h2>
-                    <p>Produktionen var en del af Design Thinking forløbet, og deraf er det også den tilgang, vi har brugt til denne produktion.</p>
+                    <p>Produktionen var en del af design thinking forløbet, og deraf er det også den tilgang, vi har brugt til denne produktion.</p>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/FSz9aOvx7zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Carsten Bogner, "Præsentation: Quick n dirty" - Fra design thinking ugen</p>
                 </section>

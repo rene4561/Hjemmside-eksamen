@@ -49,7 +49,7 @@
                         <p>GitHub gør det også muligt at arbejde flere om ét projekt. Dette skyldes at man har mulighed for at lagre alt sit arbejde i skyen, og dette gøres gennem et push af ens lokale filer til skyen. Herfra får andre, som arbejder på projektet, mulighed for at se ens pull request, som er et forslag til en ny version. Derefter kan medarbejderne vælge om de vil pull - altså trække den med i projektet eller ej. </p>
                     </section>
                 </section>
-                <section>
+                <section id="kilder">
                     <h2>Kilder:</h2>
                     <p>Niels Østergaard, "Versionsstyring" - pdf</p>
                 </section>

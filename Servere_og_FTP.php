@@ -60,7 +60,7 @@
                     <p>Som årende gik, blev ARPANET udviklet og over tid blev det udarbejdet til at være internettet. Teknologien bag HTML og URL blev skabt af Tim Burners Lee, og i 1989 igangsatte han udviklingen af HTTP-protokollen. Dette er sidenhen blevet standardsproget for alle enheder, som anvender WWW -World Wide Web.</p>
                     <p id=kildereferant>- History of the Internet</p>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Niels Østergaard, "Præsentation for både historie og serveren" - Server præsentation</p>
                     <p>Niels Østergaard, "PHP include præsentation" - PHP præsentation</p>

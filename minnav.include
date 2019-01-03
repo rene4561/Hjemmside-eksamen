@@ -10,7 +10,7 @@
                             <li><a href="Versionsstyring.php">Versionsstyrring</a></li>
                             <li><a href="Bootstrap.php">Bootstrap</a></li>
                             <li><a href="SEO.php">SEO</a></li>
-                            <li><a href="Webbetsperioder.php">Webperioder</a></li>
+                            <li><a href="Webbetsperioder.php">Webbets perioder</a></li>
                         </ul>
                     </li>
                     <li class="sub-menu"><a href="#">Interface design</a>
@@ -38,8 +38,8 @@
                             <li><a href="fotografering.php">Fotografering</a></li>
                             <li><a href="farver.php">Farver</a></li>
                             <li><a href="typografi.php">Typografi</a></li>
-                            <li><a href="Gestaltlove.php">Gestaltlove</a></li>
-                            <li><a href="Quick_and_dirty.php">Rapid video</a></li>
+                            <li><a href="Gestaltlove.php">Gestaltlovene</a></li>
+                            <li><a href="Quick_and_dirty.php">Videoproduktion</a></li>
                         </ul>
                     </li>
                     <li class="sub-menu"><a href="#">Projekter</a>

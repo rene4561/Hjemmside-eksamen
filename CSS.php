@@ -92,7 +92,7 @@
                     <p id=kildereferant>-Rachel Andrew</p>
                     <img src="Modeller/CSS_gridlayout.png" alt="En illustration af hvordan layoutet i ovenstående vil se ud">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>W3Schools.com, "<a href="https://www.w3schools.com/css/css_howto.asp">https://www.w3schools.com/css/css_howto.asp</a>" - CSS How to</p>
                     <p>Niels Østergaard, "Intro til CSS.pdf"</p>
@@ -133,7 +133,7 @@
                                 <p>Se en oversigt over alle selectors i CSS.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/CSS/w3schools.png">
                             </div>
                         </div> <!--pause3 slut -->
                     </a>

@@ -57,7 +57,7 @@
                     <p>Det er vigtigt at være bevidst om hvilket paradigme man benytter sig af, når man vil undersøge et emne. Dette skyldes at de forskellige paradigmer kan forskellige ting, og dertil frembringer forskellige data. Det er ligeledes vigtigt, at man ikke blander metoderne sammen, da dette giver invalide data. Derfor er det vigtigt at man, som multimediedesigner, har dette for øje. </p>
                     <img src="Modeller/viden_hvorfor.png" alt="Illustration af processen fra videnskabsteori til metode valg">
                 </section> <!-- Under emne 3 slut -->
-                <section>
+                <section id="kilder">
                     <h2>Kilder:</h2>
                     <p>Mariann Platen Daugaard, "Kommunikation- og produktionsmodeller" - Præsentation</p>
                     <p>Mariann Platen Daugaard, "brugertest og metode"</p>

@@ -156,7 +156,7 @@
                         <img src="Modeller/tekstp_konvertering.png" alt="Her ses hvordan man kan sælge et jakkesæt, uden at nævne jakkesættet">
                     </section>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Anne Mette Busch, "kommunikation i multimediedesign" - kap. 17</p>
                     <p>Carsten Guldborg, "Online-Marketing__1-dage__Carsten_Guldborg__low_ress" - PDF</p>

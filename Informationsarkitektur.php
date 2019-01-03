@@ -19,9 +19,9 @@
                 <div id="oversigt">
                     <h1>Informationsarkitektur</h1>
                     <p>En hjemmeside er, i sin essens, en masse siders information fordelt på tværs af dokumenter. Disse sider kan være forbundne på utallige måder gennem hyperlinks, hvilket kan betyde at en hjemmesides kompleksitet kan være enorm. For at denne kompleksitet ikke skal blive til et problem for brugeren, er informationsarkitektur blevet konceptualiseret. </p> 
-                    <p>Formålet med informationsarkitektur er, at skabe et hierarki og struktur til navigering af hjemmesiden. Ligeledes at det føles naturligt for brugeren, og at de selv føler kontrol over hvor de bliver navigeret hen.p>
+                    <p>Formålet med informationsarkitektur er at skabe et hierarki og struktur til navigering af hjemmesiden. Ligeledes at det føles naturligt for brugeren, og at de selv føler kontrol over hvor de bliver navigeret hen.</p>
                     <p>Alle brugere danner sig en forestilling om, hvor tingene er placeret på hjemmesiden – god informationsarkitektur er derfor, at brugerens forestilling bliver til virkelighed.</p>
-                    <p id="kildereferant">- kommunikation i multimediedesign, s.165-166 </p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign, s.165-166 </p>
                     <blockquote>Good information architecture enables people to find and do what they came for. Great information architecture takes find out of the equation: The site behaves as the visitor expects.
                     Poor or missing information architecture neuters content, design, and programming and devalues the site for its owners as well as the audience it was created to serve.
                     It's like a film with no director. The actors may be good, the sets may be lovely, but audiences will leave soon after the opening credits.</blockquote>
@@ -51,7 +51,7 @@
                     </section>
                     <section>
                         <h2>Wireframe</h2>
-                        <p>Et wireframe er en skitsering af, hvordan en sides indhold skal fordeles. Her overvejes hvad der ligger sig til hvad – glem ikke internettets konventioner. </p>
+                        <p>En wireframe er en skitsering af, hvordan en sides indhold skal fordeles. Her overvejes hvad der ligger sig til hvad – glem ikke internettets konventioner. </p>
                         <p id="kildereferant">-	PlanningAndHighLevelDesign s. 5</p>
                     </section>
                     <section>
@@ -74,7 +74,7 @@
                         <p id="kildereferant">-	Usability s. 86-95</p>
                     </section>
                     <section>
-                    <h2>Kortsortering</h2>
+                    <h2>Gangstertest</h2>
                         <p>Gangstertests formål er at tjekke en hjemmesides informationsarkitektur. Mere specifikt, så tester den sidens navigation, og om det forekommer klart og tydeligt, hvor man befinder sig på hjemmesiden på et givet tidspunkt. Ideelt set skal man overholde alle internettets konventioner om navigation.</p>
                         <p>Testens præmis er, at man er blevet smidt i bagagerummet af en bil og læsset af et tilfældigt sted. Nu skal man dertil prøve at finde ud af, hvor man befinder sig. Her stiller man testpersonen en række spørgsmål som går på:</p>
                         <p>Hvilket website er du på?</p>
@@ -87,9 +87,9 @@
                         <p id="kildereferant">-	Usability s. 42-47</p>
                     </section>
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
-                    <p>Anne Mette Busch, "kommunikation i multimediedesign"</p>
+                    <p>Anne Mette Busch, "Kommunikation i multimediedesign"</p>
                     <p>Ole Gregersen &amp; Ian Wisler-Poulsen, "Usability"</p>
                     <p>Moodleroom, "PlanningAndHighLevelDesign.pdf” - Informationsarkitektur</p>
                     <p>Thalion, "<a href="https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8">https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8</a>" - User Journey Maps or User Flows, what to do first?</p>

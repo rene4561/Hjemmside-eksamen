@@ -25,7 +25,7 @@
                         <li>Loven om nærhed</li>
                         <li>Loven om kontinuitet</li>
                         <li>Loven om lighed</li>
-                        <li>Lovem om lukkethed</li>
+                        <li>Loven om lukkethed</li>
                         <li>Loven om figur/baggrund</li>
                     </ul>
                 </div>
@@ -67,9 +67,9 @@
                     <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_figurbagrund.png" alt="Illustration af loven om figur og baggrund">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
-                    <p>Andy Rutlegde, "<a href="https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html">https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html</a>" - Gestalt lov serien</p>
+                    <p>Andy Rutlegde, "<a href="https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html">https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html</a>" - Gestaltlov serien</p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

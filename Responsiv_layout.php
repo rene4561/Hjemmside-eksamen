@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Responsiv layout</title>
+        <title>Responsiv design</title>
         <link rel="stylesheet" type="text/css" href="mystyle.css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Glegoo|Ubuntu:300" rel="stylesheet">
@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Responsiv layout</h1>
+                    <h1>Responsiv design</h1>
                     <p>På denne side forklares de 4 overordnede layoutformer på en hjemmeside. Dertil vil mobile first tankegangens fordele blive forklaret.
                     Der findes 4 overordnede layoutformer, som man kan anvende på en hjemmeside:</p>
                     <ul>
@@ -63,7 +63,7 @@
                     <p>Hvis man designer desktop først risikere man, at brugeroplevelsen bliver ringere på mindre enheder. </p>
                     <img src="modeller/pcfirst.png" alt="Illustration af pc first tilgangen">
                 </section>
-                <section> <!-- Kilde oversigt -->
+                <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
                     <p>Niels Østergaard, "responsiv i praksis" - Under CSS grid</p>
                 </section>

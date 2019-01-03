@@ -18,7 +18,7 @@
             <section id="indhold">
                 <div id="oversigt">
                     <h1>Servere og FTP</h1>
-                    <p>På denne side kan man læse om hvad en server er samt anvendelse og lidt historie.</p>
+                    <p>På denne side kan man læse om, hvad en server er samt anvendelse og lidt historie.</p>
                     <ul>
                         <li>Intro</li>
                         <li>Serverbrug som multimediedesigner - herunder:</li>
@@ -37,15 +37,15 @@
                 </section>
                 <section id="underemne2">
                     <h2>Serverbrug som multimediedesigner</h2>
-                    <p>Som multimediedesigner vil man primært skulle arbejde med webservere. I hardwaremæssig forstand vil en web-server typisk bestå af flere softwareservere. Disse vil være en webserver - som levere hjemmesiden via http-protokollen; en databaseserver – som modtager data fra, og leverer data til webserveren og andre klienter. Derudover skal der være en FTP-server – til udveksling af HTML, CSS og Javascript filer.</p>
-                    <p>For at få adgang til en FTP-server, skal man anvende en FTP-klient. Denne klient skaver en forbindelse til serveren – med andre ord åbner den en dør til serveren</p>
-                    <p>Der findes flere måder at få adgang til en server. Én måde er nævnt i ovenstående, FTP, en anden er med direkte adgang. </p>
+                    <p>Som multimediedesigner vil man primært skulle arbejde med webservere. I hardwaremæssig forstand vil en webserver typisk bestå af flere softwareservere. Disse vil være en webserver - som leverer hjemmesiden via http-protokollen; en databaseserver – som modtager data fra og leverer data til webserveren og andre klienter. Derudover skal der være en FTP-server – til udveksling af HTML, CSS og Javascript filer.</p>
+                    <p>For at få adgang til en FTP-server, skal man anvende en FTP-klient. Denne klient skaver en forbindelse til serveren – med andre ord åbner den en dør til serveren.</p>
+                    <p>Der findes flere måder at få adgang til en server. Én måde er nævnt i ovenstående, FTP, den anden måde er med direkte adgang.</p>
                     <p id=kildereferant>- Server præsentation</p>
                     <section>
                         <h2>Serverside</h2>
                         <p>Serversideprogrammering er programmering som afvikles på serveren. Dette har mange funktioner såsom forbindelse til databaser, lave brugerstyring med adgangskoder og inkludering af små bider af kode. </p>
                         <p>PHP er et serversideprogrammeringssprog, som er skrevet af danskeren Rasmus Lerdorf. Dertil er dette sprog også det mest udbredte til serversideprogrammering.  Sproget er lidt en bastard af Pearl, Java C+ og lidt nyt.  </p>
-                        <p>Til 1.semestereksamensprojektet har vi kun lært om serverside-include.</p>
+                        <p>Til 1. semestereksamensprojektet har vi kun lært om serverside-include.</p>
                         <p id=kildereferant>- PHP præsentation</p>
                         <section>
                             <h2>Serverside Include</h2>
@@ -55,9 +55,9 @@
                     </section>
                 </section>
                 <section id="underemne3">
-                    <h2>Histodie om server/klient og HTTP-protokollen</h2>
+                    <h2>Historie om server/klient og HTTP-protokollen</h2>
                     <p>1957 var året, hvor konceptet for delt computerkræft blev opfundet. Baggrunden for dette var, at computere var blevet så store, at de skulle opbevares i separate kølerum. Deraf kom behovet for, at man vil have adgang til computeren, uden at man skulle være til stede i rummet. Deraf blev time-sharing udviklet, hvor man kunne være flere brugere på én computer. Dette kan siges at være det, som vi i dag, kender som et server-/klientforhold.</p>
-                    <p>Som årende gik blev ARPANET udviklet, og over tiden blev det udarbejdet til at være internettet. Teknologien bag HTML og URL blev skabt af Tim Burners Lee, og i 1989 igangsatte han udviklingen af HTTP-protokollen. Dette er sidenhen blevet standardsproget for alle enheder, som anvender WWW -World Wide Web.</p>
+                    <p>Som årende gik, blev ARPANET udviklet og over tid blev det udarbejdet til at være internettet. Teknologien bag HTML og URL blev skabt af Tim Burners Lee, og i 1989 igangsatte han udviklingen af HTTP-protokollen. Dette er sidenhen blevet standardsproget for alle enheder, som anvender WWW -World Wide Web.</p>
                     <p id=kildereferant>- History of the Internet</p>
                 </section>
                 <section> <!-- Kilde oversigt -->

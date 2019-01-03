@@ -27,6 +27,7 @@
                     Derudover skal man skrive en synopsis af sin fortælling, og dertil også lave et storyboard – dette giver alle et klart indblik over, hvad der skal filmes og hvordan det skal filmes.</p>
                     <p>Dernæst starter man produktionen. Her er målet, i og for sig, simpelt – film det der er blevet planlagt. Dog skal man også tage højde for sin location med hhv. lys og lydforhold – dette kan man også undersøge i sin pre-produktion til en vis grad.</p>
                     <p>Sidst sidder man i post-produktionen. Her skal man sortere i sine klip, redigere dem, tilføje evt. musik eller tilføje voice over. Sidst skal produktionen eksporteres til et format, som kan ses på alle enheder.</p>
+                    <p id=kildereferant>- Carsten Bogner</p>
                 </section>
                 <section id="underemne2">
                     <h2>Quick and Dirty video</h2>
@@ -34,6 +35,10 @@
                     <h2>Vores produktion</h2>
                     <p>Produktionen var en del af Design Thinking forløbet, og deraf er det også den tilgang, vi har brugt til denne produktion.</p>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/FSz9aOvx7zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </section>
+                <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Carsten Bogner, "Præsentation: Quick n dirty" - Fra design thinking ugen</p>
                 </section>
             </section> <!--indhold slut-->
         </div>

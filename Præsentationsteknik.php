@@ -134,19 +134,6 @@
                     <p>Mette Hald, "Præsentation og formidling" - kap. 4 &amp; 6 </p>
                     <p>Moodleroom, "Present 3 pp. 27-44 (2).pdf" - Præsentationsteknik</p>
                 </section>
-                <aside id="pause1">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause1 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

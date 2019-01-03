@@ -100,7 +100,7 @@
                     <p>Carsten Bogner, "Præsentation: Farvelære" - og noter fra undervisningsdagen</p>
                 </section>
                 <aside id="pause3">
-                    <a href="#">
+                    <a href="https://color.adobe.com/da/create/color-wheel/">
                         <div class="pause">
                             <div class="pausetekst">
                                 <h2>Adobe color-wheel</h2>
@@ -113,7 +113,7 @@
                     </a>
                 </aside><!--pause3 slut -->
                 <aside id="pause2">
-                    <a href="https://color.adobe.com/da/create/color-wheel/">
+                    <a href="http://www.flatuicolorpicker.com/">
                         <div class="pause">
                             <div class="pausetekst">
                                 <h2>Flat UI colorpicker</h2>

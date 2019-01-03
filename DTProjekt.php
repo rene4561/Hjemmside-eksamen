@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Desgign Thinking Projektet</h1>
+                    <h1>Design Thinking Projektet</h1>
                     <p>Dette projekt var det første, hvor vi skulle anvende design thinking. Formålet med projektet var at lave en prototype, som skulle testes. Vi skulle skabe en webapp, som skulle styre en eller anden form for udlån og reservation - jeg kom i gruppe med Gert og Nikolas.</p>
                 </div>
                 <section id="underemne1">

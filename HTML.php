@@ -32,17 +32,24 @@
                     <p>Derudover kan man også tillægge tags med et eller flere attributter, disse giver tagget yderligere egenskaber. Et attribut kræver dog også, at det får tillagt en værdi. Et eksempel på et attribut kunne lyde:</p>
                     <p>Hvis man skriver et HTML dokument kræver det at man nester alt HTML-koden i et &lt;html&gt;. Dette tag kan dertil tillægges attributtet lang, som beskriver sproget anvendt i dokumentet, denne attribut skal dertil tillægges en værdi. Dette kunne være da, som er værdien for dansk. HTML tagget, som koden befinder sig i, vil derfor have den egenskab at sproget er på dansk.</p>
                     <p>Nogle tags skal tillægges attributter for at have fuld funktion, såsom &lt;a&gt; og &lt;img&gt;.</p>
+                    <p id=kildereferant>- Niels Østergaard</p>
                     <img src="Modeller/HTML_syntaks.png" alt="Illustration af HTML syntaks">
                 </section>
                 <section id="underemne2">
                     <h2>HTML semantik</h2>
                     <p>I verdenen af HTML findes der et sæt tags, som er kaldet semantiske tags, disse har en særlig vigtighed hvad angår SEO. Semantiske tags er, i sin enkelthed, tags som siger noget om indholdet i det. Disse tags bruges dermed til at beskrive indholdet til mennesker, men dertil også søgemaskiner. For mennesker bliver det nemmere at gennemlæse koden, hvor de dertil også hurtigt kan få et overblik over hvad indhold der er på siden, og hvilken funktion det har. Dertil hjælper semantiske tags søgemaskiner med at afkode hvad indholdet er, og hvordan det er struktureret – fra vigtigt til knapt så vigtigt indhold. Det kunne, eksempelvis, hjælpe søgemaskinen med at udpege et firmanavn fremfor alt andet indhold på siden. </p>
+                    <p id=kildereferant>- Niels Østergaard</p>
                     <img src="Modeller/HTML_nesting.png" alt="Illustration af semantiske HTML elementer som er nestet inde i hinanden">
                 </section>
                 <section id="underemne3">
                     <h2>Kodeskik</h2>
                     <p>God kodeskik er en vigtig egenskab at besidde, da det hjælper en selv og evt. andre med at holde styr på HTML-koden. Der er flere ting som indgår i god kodeskik; en af disse er at gøre brug af et korrekt indryk med brug af tabulatorknappen ”tab” på et tastatur. Dette skaber jævnt whitespace mellem elementerne. Dette hjælper med at forstå, hvad indhold som er nestet samt hvad der ikke er. Dertil giver det mulighed for at forstå strukturen på siden - i en HTML forstand. </p>
                     <p>Kommentarer er endnu en teknik, som er med til at gøre koden nemmere at forstå. Starten af en kommentar angives som &lt;!--, og afsluttes dertil med et --&gt;. Alt det man skriver derimellem, vil ikke være synligt på hjemmesiden, kun hvis man kigger i kildekoden. Det man kan skrive i et kommentarfelt kunne være ting som: hvilken betydning et stykke kode har, en opsummering af indholdet inde i sektion mm.</p> 
+                     <p id=kildereferant>- Niels Østergaard</p>
+                </section>
+                 <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Niels Østergaard, "Intro til HTML (Præsentation)" PDF </p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

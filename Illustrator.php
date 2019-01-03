@@ -19,6 +19,7 @@
                 <div id="oversigt">
                     <h1>Illustrator</h1>
                     <p>Illustator er et vektorbaseret program, hvilket betyder at det anvender matematiske beregninger til at gengive det man arbejder på. De arbejdspladser man arbejder på er kaldet artboards, og fungerer som en slags papir. Derudover arbejder man i lag, hvilket både er et værktøj, såvel som en arbejdstilgang. Dette indebærer, at man altid kan arbejde ovenpå på det man laver, og bygge videre på det – dettes kaldes også at arbejde non-destruktivt, da man altid bevarer originalen.</p>
+                    <p id=kildereferant>- Carsten Bogner</p>
                     <p>Nedenfor ses en showcase over de værker, som jeg har lavet i løbet af studiet. Denne vil blive opdateret løbende under studiet.</p>
                 </div>
                 <section id="underemne1">
@@ -31,6 +32,10 @@
                     <h2>13 Stater flag</h2>
                     <p>I denne øvelse skulle vi lave USA's flag, da de havde 13 kolonier. Til at lave de 13 linjer lavede jeg først 7 røde linjer, hvor jeg dertil bruge vertical distribute til at fordele dem jævnt – her skal man være opmærksom på, at man fordeler i forhold til artboard fremfor selected. Til at lave stjernerne blandede jeg et par teknikker. Først lavede jeg en path - en rund sti som stjernerne skulle følge. Derefter lavede jeg 2 stjerner, som jeg dertil tildelte et blend. Herefter markerede jeg både mit blend og min path og valgte align to path under blend. </p>
                     <img src="modeller/13%20stater%20flag.png" alt="De 13 staters flag fra 1800-tallet">
+                </section>
+                <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Carsten Bogner, undervisningen fra dagen med Illustrator </p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

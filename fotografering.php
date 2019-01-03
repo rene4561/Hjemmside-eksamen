@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Overskift</h1>
+                    <h1>Fotografering</h1>
                     <p>Under dette emne kan man læse om kameraets funktioner og en kort showcase af billeder.</p>
                     <ul>
                         <li>Kamera anatomi – herunder objektiver</li>
@@ -30,7 +30,7 @@
                 <section id="underemne1">
                     <h2>Kamera anatomi</h2>
                     <p>I undervisningen har vi anvendt et Canon Eos 80D spejlrefleks kamera. Når man anvender sådan et kamera, kræves det, at man har styr på et par forskellige funktioner i kameraet. Forud for dette kræves en kort forklaring på hvordan et spejlrefleks kamera fungerer. </p>
-                    <p>Et digitalt spejlreflekskamera er et kamera som tager billeder ved, at en sensor optager udefrakommende lys. Dette vil derefter blive omdannet til et billede. Det væsentlige er at, man skal forestille sig, at de sensorer der sidder i kameraet er sultne efter lys, og bliver gradvist mættet, som de eksponeres for lys.</p>
+                    <p>Et digitalt spejlreflekskamera er et kamera som tager billeder ved, at en sensor optager udefrakommende lys. Dette vil derefter blive omdannet til et billede. Det væsentlige er at man skal forestille sig, at de sensorer der sidder i kameraet, er sultne efter lys og bliver gradvist mættet, som de eksponeres for lys.</p>
                     <p id=kildereferant>- Niels PDF</p>
                     <h2>Objektiver</h2>
                     <p>Udover kameraet anvender man også det der kaldes et objektiv. Disse er opbygget af en række linser, som giver forskellige brændvidder. Disse kommer i mange størrelser og former, og har en effekt på kameraets perception af virkeligheden. </p>
@@ -53,7 +53,7 @@
                     <p id=kildereferant>- Niels PDF</p>
                     <img src="modeller/ISO.jpg" alt="Et billede, af en Warhammer figur, som viser hvordan ISO påvirker et billede">
                     <h2>Indstilling af kameraet</h2>
-                    <p>Når man indstiller kameraet er det vigtigt at have alle disse funktioner med i sine overvejelser, da sammenspillet mellem alle disse indstiller kan være komplekst. Udover man skal tænke på hvad, man skal tage et billede af, skal man også tænke på hvilke omgivelser og forhold man tager billedet under, da dette kan have indflydelse på hvordan man skal indstille kameraet. Nedenfor er en lille manual til kamera indstillings navne:</p>
+                    <p>Når man indstiller kameraet, er det vigtigt at have alle disse funktioner med i sine overvejelser, da sammenspillet mellem alle disse indstiller kan være komplekst. Udover man skal tænke på hvad, man skal tage et billede af, skal man også tænke på hvilke omgivelser og forhold man tager billedet under, da dette kan have indflydelse på hvordan man skal indstille kameraet. Nedenfor er en lille manual til kamera indstillings navne:</p>
                     <dl>
                         <dt>Manuel (M)</dt>
                         <dd>Her kan man indstille både blænde og lukkertid.</dd>
@@ -74,10 +74,10 @@
                     <p>Under One-page projektet fik Simone og jeg til opgave at lave en hjemmeside til energidrikken HEAT, fra Nutramino.</p>
                     <p>Dertil ville vi tage en række produktfotos. Forud for fotograferingen undersøgte vi hvordan man kunne tage gode produkt billeder, dertil fandt et tutorial fra Brian Rodgers Jr., som er professionel fotograf. Nedenfor ses det endelige resultat.</p>
                     <img src="modeller/heat_d%C3%A5ser.png" alt="Billede af 3 HEAT energi dåser ved siden af hindanden">
-                    <p>Fidusen her er at man tager billeder at produktet, med belysning fra forskellige sider, fremfor at få perfekt belysning i første omgang. Idéen her er at hver belysning skal fremhæve en bestemt del af produktet. Dette giver en stor kontrol over hvordan belysningen er i det endelige produkt Derefter sammenlægges alle billederne i photoshop, hvor de dertil også bliver justeret.</p>
+                    <p>Fidusen her er at man tager billeder at produktet, med belysning fra forskellige sider, fremfor at få perfekt belysning i første omgang. Idéen her er at hver belysning skal fremhæve en bestemt del af produktet. Dette giver en stor kontrol over hvordan belysningen er i det endelige produkt Derefter sammenlægges alle billederne i Photoshop, hvor de dertil også bliver justeret.</p>
                     <p id=kildereferant>- Brian Rodgers</p>
                     <img src="modeller/3%20vinkler%20heat.PNG" alt="Her ses en HEAT energidrik med 3 forskellige belysninger">
-                    <p>Her ses billederne vi tog individuelt. En yderligere bemærkning - Vi brugte et stykke sort lamineret pap til at skabe refleksionen af dåsen.</p>
+                    <p>Her ses billederne vi tog individuelt. En yderligere bemærkning - vi brugte et stykke sort lamineret pap til at skabe refleksionen af dåsen.</p>
                     <img src="modeller/studie.jpg" alt="Et billede af Simone og jegs fotostudie">
                 </section>
                 <section> <!-- Kilde oversigt -->

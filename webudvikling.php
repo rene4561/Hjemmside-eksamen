@@ -48,7 +48,7 @@
                             <img src="Thumbnails/server_klient.png" alt="Illustration server/klient forholdet">
                          </div>
                         <div class="tekstcontainer">
-                            <h2>Webserver og FTP</h2>
+                            <h2>Servere og FTP</h2>
                             <p>Læs om brug af server, samt dets historie</p>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                             <img src="Thumbnails/webperioder.png" alt="Et billede af Apple hjemmeside i 90'eren">
                         </div>
                         <div class="tekstcontainer">
-                            <h2>Webperioder</h2>
+                            <h2>Webbets perioder</h2>
                             <p>Læs om webbets perioder, og deres kendetegn.</p>
                         </div>
                     </div>

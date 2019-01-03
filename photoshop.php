@@ -17,7 +17,7 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Illustrator</h1>
+                    <h1>Photoshop</h1>
                     <p>Photoshop er et pixelbaseret program, hvilket betyder at det anvender pixels til at gengive det man arbejder på. De arbejdspladser man arbejder på er kaldet artboards, og fungerer som en slags papir. Derudover arbejder man i lag, hvilket både er et værktøj, såvel som en arbejdstilgang. Dette indebærer, at man altid kan arbejde ovenpå på det man laver, og bygge videre på det – dette kaldes også at arbejde non-destruktivt, da man altid bevarer originalen.</p>
                     <p id=kildereferant>- Carsten Bogner</p>
                     <p>Nedenfor ses en showcase over de værker, som jeg har lavet i løbet af studiet. Denne vil blive opdateret løbende under studiet.</p>
@@ -36,7 +36,7 @@
                     <p>Dette billede er ikke et jeg lavede på studiet, men et jeg lavede i min fritid. Baggrunden for at jeg skulle lave billedet er, at jeg har en ven, som gerne vil give sin lillebror et ’gavekort’ i julegave. Deraf faldt vi i snak, og jeg tilbød at lave et for ham. Vi snakkede om hvad indholdet skulle være, og svaret var ”noget med spil”. </p>
                     <img src="modeller/Gavekort.png" alt="Et gavekort med videospilskaraktere fra Borderlands, Assasins creed, Warcraft og Starwars">
                     <p>Det første jeg fokuserede på at lave, var baggrunden og guldplaketten. Det skal siges, at plaketten var min idé, som vi begge synes var lidt sjov. Vi valgte at bruge den. Baggrunden lavede jeg hovedsageligt ved at anvende repeat last step genvejstasten. Først lavede jeg en cirkel, derefter brugte jeg tasten, som skabte en mindre cirkel. Dette gjorde jeg et par gange, til jeg havde en del og gradvist mindre cirkler. Derefter kopierede og roterede jeg alle cirklerne – dette gentog jeg indtil, at jeg var nået hele artboardet rundt.</p>
-                    <p>Plakken består af 2 dele: gulddelen og trædelen - jeg startede jeg gulddelen. Efter jeg lavede den form jeg ønskede, skulle jeg få den til at ligne guld. Det der udgør hovedbestanddelen er en layer style, forkort med fx i photoshop, denne hedder color gradient. Her anvendte jeg en teknik, som i miniaturemalerverdenen hedder NMM - Non-Metallic-Metal. Den korte udgave er, at man anvender en række skygger: mid-tones og highlights.</p>
+                    <p>Plakken består af 2 dele: gulddelen og trædelen - jeg startede jeg gulddelen. Efter jeg lavede den form jeg ønskede, skulle jeg få den til at ligne guld. Det der udgør hovedbestanddelen, er en layer style, forkortet med fx i Photoshop. Denne hedder color gradient. Her anvendte jeg en teknik, som i miniaturemalerverdenen hedder NMM - Non-Metallic-Metal. Den korte udgave er, at man anvender en række skygger: mid-tones og highlights.</p>
                     <p>Træet er en lidt mere kompliceret sag. Først laver man en brun baggrund med den ønskede tone, derefter skal man tilføje et noise filter. Dernæst tilføjede jeg et cloud filter, som jeg fade’ede – for at gøre effekten mindre frembrusende. Jeg tilføjede også en lille smule gaussian blur for at bringe effektenerne sammen. Sidst tilføjede jeg et distort twirl filter. Dette skaber en række bølger i billedet, som samlet set får det hele til at ligne træ.</p>
                 </section>
                 <section> <!-- Kilde oversigt -->

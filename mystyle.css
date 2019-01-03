@@ -233,9 +233,13 @@ header nav ul li a.active {
         "underemne1"
         "pause1"
         "underemne2"
+        "pause2"
         "underemne3"
+        "pause3"
         "underemne4"
+        "pause4"
         "underemne5"
+        "pause5"
         "underemne6"
         
 }
@@ -266,6 +270,18 @@ header nav ul li a.active {
 }
 #pause1 {
     grid-area: pause1;
+}
+#pause2 {
+    grid-area: pause2;
+}
+#pause3 {
+    grid-area: pause3;
+}
+#pause4 {
+    grid-area: pause4;
+}
+#pause5 {
+    grid-area: pause5;
 }
 /*Pause styling */
 .pause {

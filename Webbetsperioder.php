@@ -21,15 +21,15 @@
                     <p>Her kan man læse om de perioder som webbet har gennemgået, siden det blev tilgængeligt for offentligheden. Hovedpointen her er, at webbet forandrer sig hele tiden. Nye opfindelser og koncepter kommer til, og det skal vi, som multimediedesignere, tilpasse os efter.</p>
                     <blockquote>”Vær’ nysgerrige på at tilegne jer ny viden” - Niels Østergaard, under en undervisningsgang. </blockquote>
                     <ul>
-                        <li>Tidelige eksperimenter</li>
+                        <li>Tidlige eksperimenter</li>
                         <li>Under konstruktion</li>
-                        <li>Semantsik søgning</li>
+                        <li>Semantisk søgning</li>
                         <li>Sociale netværk</li>
                         <li>Det mobile web</li>
                     </ul>
                 </div>
                 <section id="underemne1">
-                    <h2>Tidelige eksperimenter (fra 1993)</h2>
+                    <h2>Tidlige eksperimenter (fra 1993)</h2>
                     <p>Denne periode er kendetegnet ved at alle eksperimenterede med, hvordan en hjemmeside skulle se ud og struktureres. Dette skyldes blandt andet, at det også var året hvor Mosaic blev lanceret – dette var den første browser med grafik. Der var mange begrænsninger i HTML-sproget. Derudover var det også svært at forudse hvordan browserne fortolkede siderne, da der ikke var nogen givne standarder. Dengang kunstnere fik øjnene op for den nye platform, begyndte de også at komme med bud på, hvordan man kunne bruge hjemmesider til blandt andet visuel fortælling.</p>
                     <img src="Modeller/perioder_whitehouse.png" alt="Et screenshot at det hvide huses hjemmeside under perioden">
                 </section>

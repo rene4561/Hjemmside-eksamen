@@ -100,6 +100,58 @@
                     <p>Rachel Andrew, "<a href="https://alistapart.com/article/the-new-css-layout-excerpt">https://alistapart.com/article/the-new-css-layout-excerpt</a>" - The New CSS Layout, An Excerpt</p>
                 </section>
                 <aside id="pause1">
+                    <a href="http://www.csszengarden.com/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>CSS Zen Garden</h2>
+                                <p>Dette er et værktøj som viser mulighederne med CSS. Få inspiration til layout.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/CSS/CSS_zen.JPG">
+                            </div>
+                        </div> <!--pause1 slut -->
+                    </a>
+              </aside>
+                <aside id="pause2">
+                    <a href="https://www.w3schools.com/cssref/default.asp">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>CSS Referencer</h2>
+                                <p>Her kan du se alle CSS properties.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/CSS/w3schools.png">
+                            </div>
+                        </div> <!--pause2 slut -->
+                    </a>
+              </aside>
+                <aside id="pause3">
+                    <a href="https://www.w3schools.com/csSref/css_selectors.asp">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>CSS selectors</h2>
+                                <p>Se en oversigt over alle selectors i CSS.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="thumbnails/test.png">
+                            </div>
+                        </div> <!--pause3 slut -->
+                    </a>
+              </aside> 
+                <aside id="pause4">
+                    <a href="https://gridbyexample.com/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Grid by Example</h2>
+                                <p>Dette er en hjemmeside hvor man kan læse alt om CSS Grid Layout.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/CSS/gridbyexample.JPG">
+                            </div>
+                        </div> <!--pause4 slut -->
+                    </a>
+              </aside>
+                <aside id="pause5">
                     <a href="#">
                         <div class="pause">
                             <div class="pausetekst">
@@ -109,7 +161,7 @@
                             <div class="pauseimg">
                                 <img src="thumbnails/test.png">
                             </div>
-                        </div> <!--pause1 slut -->
+                        </div> <!--pause5 slut -->
                     </a>
               </aside> 
             </section> <!--indhold slut-->

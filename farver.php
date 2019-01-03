@@ -17,13 +17,13 @@
         <div id=pagewrap>
             <section id="indhold">
                 <div id="oversigt">
-                    <h1>Faver og farvevalg</h1>
+                    <h1>Farver og farvevalg</h1>
                     <p>Farvevalg er en kompliceret sag. Der findes mange studier om hvordan farver påvirker mennesker, men i størstedelen af tilfældene bliver man nødt til at erkende, at farvernes betydning kommer meget an på modtagerens personlige og kulturelle baggrund.</p>
                     <p>På denne side kan man læse om:</p>
                     <ul>
                         <li>Farvers påvirkning</li>
                         <li>Farver i praksis</li>
-                        <li>Farve sammensætning</li>
+                        <li>Farvesammensætning</li>
                         <li>Farvekoder</li>
                     </ul>
                 </div>
@@ -46,7 +46,7 @@
                 </section>
                 <section id="underemne3">
                     <h2>Sammenspil mellem farver</h2>
-                    <p>At anvende farver der vækker forskellige følelser er én ting, men en anden er at vælge farver med et godt sammenspil. Der findes flere måder at kombinere farver på, og de har alle deres styrker og svagheder.</p>
+                    <p>At anvende farver der vækker forskellige følelser, er én ting, men en anden er at vælge farver med et godt sammenspil. Der findes flere måder at kombinere farver på, og de har alle deres styrker og svagheder.</p>
                     <section>
                         <h2>Triadiske farver</h2>
                         <p>Den mest basale og balancerede metode er det triadiske farveskema. Her vælger man 3 farver med 120 graders mellemrum på farvehjulet. Dette skaber en nem og afbalanceret farvepalet, hvor man kan bruge farverne som henholdsvis bagrund, indhold og navigation.</p>
@@ -68,27 +68,27 @@
                 </section>
                 <section id="underemne4">
                     <h2>Farvekoder</h2>
-                    <p>Når man arbejde med farver igennem IT, findes der hovedsageligt 3 typer farvekode som anvendes – RBG og HEX og HSB farver.</p>
+                    <p>Når man arbejde med farver igennem IT, findes der hovedsageligt 3 typer farvekode som anvendes – RBG- og HEX- og HSB-farver.</p>
                     <section>
                         <h2>RBG</h2>
                         <p>RGB er en forkortelse af Red Green Blue. Disse farver er de 3 farver, som dioder i en skærm kan benytte sig af. Farvesystemet er additiv, hvilket betyder at farverne tilføjer lys til hinanden. Dette har dertil den betydning at, når man skriver RGB farvekode, så indtaster man en værdi, som går fra 0 – 255, for hver farve, altså hvor meget af den er tilstede.</p>
                         <p id=kildereferant>- Carsten Bogner</p>
                         <p>Et eksempel på en RGB farvekode er: R:51 G:102 B:153 – denne farve er tilsvarende en ”kongeblå”. *</p>
                         <img src="modeller/farve_RGB.png" alt="RGB farverne">
-                        <p>I CSS kan man anvende det man kalder RGBA, en forkortelse af Red Green Blue Alpha. Alpha beskriver hvor gennemsigtig en farve er – Denne indtastes som en værdi mellem 0 – 1, hvor 0 er helt gennemsigtig, og 1 er modsat. Et eksempel på dette er: R:51 G:102 B:153 A:0.5. </p>
+                        <p>I CSS kan man anvende det man kalder RGBA, en forkortelse af Red Green Blue Alpha. Alpha beskriver hvor gennemsigtig en farve er – denne indtastes som en værdi mellem 0 – 1, hvor 0 er helt gennemsigtig, og 1 er modsat. Et eksempel på dette er: R:51 G:102 B:153 A:0.5. </p>
                         <p id=kildereferant>- Carsten Bogner</p>
                         <p>I CSS angives dette som hhv. rgb(51, 102, 153); og rgba(51, 102, 153, 0.5);</p>
                     </section>
                     <section>
                         <h2>HEX</h2>
-                        <p>Hex farver er en anden fortolkning af RGB farvekoden. Her angiver man RGB farverne fra 00 – FF. Et eksempel på dette kunne være: #336699 – Dette er den samme farve som i RBG eksemplet.</p>
+                        <p>Hex farver er en anden fortolkning af RGB farvekoden. Her angiver man RGB-farverne fra 00 – FF. Et eksempel på dette kunne være: #336699 – dette er den samme farve som i RBG-eksemplet.</p>
                         <p id=kildereferant>- Carsten Bogner</p>
                     </section>
                     <section>
                         <h2>HSB</h2>
                         <p>Systemet HSB er kulør, mætning og lyshed. Kulør, eller hue, er en graduering eller variation af en farve. En anden måde at forklarer det er, den grad har den på farvehjulet – dette angives derfor i grader, som i en vinkel.</p>
-                        <p>Mætning, eller saturation, betegner hvor meget gråtoning farven indeholder – Dette angives som en procentuel værdi.</p>
-                        <p>Lyshed, eller brightness, beskriver mængden af ren sort/hvis der er blandet i farven – Dette angives også i procentuelt.</p>
+                        <p>Mætning, eller saturation, betegner hvor meget gråtoning farven indeholder – dette angives som en procentuel værdi.</p>
+                        <p>Lyshed, eller brightness, beskriver mængden af ren sort/hvis der er blandet i farven – dette angives også i procentuelt.</p>
                         <p id=kildereferant>- Carsten Bogner</p>
                         <img src="modeller/farve_HSB.jpg" alt="Model af HSB farvediamanten">
                     </section>
@@ -97,7 +97,7 @@
                     <h2>Kilder:</h2>
                     <p>Jerry Cao, "<a href="https://designmodo.com/color-psychology-web-design/">https://designmodo.com/color-psychology-web-design/</a>" - Understanding Color Psychology for Impactful Web Design </p>
                     <p>Ulla Gjeset Schjølberg, "<a href="https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os">https://videnskab.dk/sporg-videnskaben/hvordan-pavirker-farver-os</a>" - Hvordan påvirker farver os?</p>
-                    <p>Carsten Bogner, "Præsentation: Farvelære" - Og noter fra undervisnings dagen</p>
+                    <p>Carsten Bogner, "Præsentation: Farvelære" - og noter fra undervisningsdagen</p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

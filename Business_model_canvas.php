@@ -35,36 +35,60 @@
                 </div>
                 <section id="underemne1">
                     <img src="Modeller/Business%20model%20canvas.png" alt="Business model canvas modellen">
-                    <h2>Kundesegmentet</h2>
-                    <p>Alle organisationer henvender sig til ét eller flere kundesegmenter. </p>
-                    <p>Kunderne er hele grundlaget for enhver forretningsmodel - uden kunderne er der ikke nogen at sælge til. Dertil er det vigtigt at forstå sine kunder og deres behov. Derfor kan man med fordel gruppere dem i segmenter med fælles behov og adfærdsmønstre. Der findes mange forskellige kundesegmenter, og her er et par stykker: massemarked – fokus på meget store kundegrupper - her er ens værditilbud rettet mod enslydende behov, hvor nichemarkedet henvender sig målrettet til meget små kundesegmenter - typisk skræddersyet værditilbud mm.
-                    </p>
-                    <h2>Værditilbud</h2>
-                    <p>Den forsøger at løse kundernes problemer og opfylde kundernes behov ved hjælp af værditilbud</p>
-                    <p>Værditilbuddet er det behov kunden får opfyldt gennem produktet/ydelsen. Disse kan være innovative løsninger, men kan også være lignende konkurrenternes værditilbud - bare med øget funktionalitet eller kvalitet. Et par eksempler på dette kunne være: nyhed – værditilbuddet opfylder en helt ny række behov, som kundesegmentet ikke har været bevidste om, hvor præstationen skaber værditilbuddet ved at produktet/ydelsen forbedres.</p>
-                    <h2>Kanaler</h2>
-                    <p>Værditilbuddene leveres til kunderne gennem kommunikations-, distributions- og salgskanaler.</p>
-                    <p>Denne sektion beskriver alle de punkter, hvor værditilbuddet møder kundesegmentet. Dette dækker over kommunikation-, distribution- og salgskanaler.
-                    Det er her hvor vi, som multimediedesignere, kommer ind i billedet, da vores arbejde bl.a. berører disse berøringspunkter – gennem hjemmesider og de sociale medier. 
-                    </p>
-                    <h2>Kunderelationer</h2>
-                    <p>Kunderelationer etableres og vedligeholdes inden for hvert kundesegment.</p>
-                    <p>Dette er endnu en sektion, hvor multimediedesigneren kommer ind i billedet. En virksomhed har, som udgangspunkt, en relation de ønsker hos de forskellige kundesegmenter. Dette kan være med henblik på kundehvervning, kundefastholdelse eller mersalg. Her skal vi altså bevare en god kunderelation, da det har stor indflydelse på brugeroplevelsen. </p>
-                    <h2>Indtægtsstrømme</h2>
-                    <p>Indtægtsstrømme er et resultat af værditilbud, der er vellykket, som tilbydes kunderne.</p>
-                    <p>Her ses hvilke indtægter virksomheden har. Her kan overvejes hvordan og hvad kunden betaler for, hvor meget er de villige til at betale for produktet/ydelsen? Hvor meget bidrager dette kundesegment til den overordnede indtægt? Der findes mange forskellige måder at få en indtægt fra et kundesegment: direkte salg, brugsgebyr, abonnement mm.</p>
-                    <h2>Nøgleressourcer</h2>
-                    <p>Nøgleressourcer er de aktiviteter, der er nødvendige for at kunne tilbyde og levere førnævnte elementer</p>
-                    <p>Nøgleressourcerne gør det muligt for virksomheden at opretholde deres værditilbud, kunderelationer og kanaler. Disse ressourcer kommer i mange former: fysiske, immaterielle, menneskelige og økonomiske - hvilke ressourcer der er nøgleressourcer, afhænger af hvilken type virksomhed der er tale om.   </p>
-                    <h2>Nøgleaktiviteter</h2>
-                    <p>Nøgleaktiviteter beskriver de vigtigste ting, som en virksomhed skal sætte i værk for at få deres forretningsmodel til at fungere</p>
-                    <p>Disse aktiviteter er, i sin enkelthed, de ting en virksomhed skal gøre for at opretholde deres værditilbud, distribueringskanaler, kunderelationer og indtægtskilder. Dette kan være: produktionen af et produkt, problemløsning og platform/netværk.</p>
-                    <h2>Nøglepartnere</h2>
-                    <p>Visse aktiviteter outsourcers og visse ressourcer skaffes uden for virksomheden selv</p>
-                    <p>Nøglepartnere dækker over de andre virksomheder, som virksomheden har en form for partnerskab med. Der kan være flere årsager til at have partnere, dette kunne være: optimering og stordrift. Nogle virksomheder fremskaffer ressourcer udefra: reduktion af risiko og uvished – dette kan være et partnerskab, hvor man laver en alliance. </p>
-                    <h2>Omkostningsstruktur</h2>
-                    <p>Elementerne i forretningsmodellen resulterer i omkostningsstrukturen.</p>
-                    <p>En virksomhed kan have et hav af omkostninger. I en forkortet udgave er det, hvilke nøgleressourcer og nøgleaktiviteter er dyrest at vedligeholde? </p>
+                    <section>
+                        <h2>Kundesegmentet</h2>
+                        <p>Alle organisationer henvender sig til ét eller flere kundesegmenter. </p>
+                        <p>Kunderne er hele grundlaget for enhver forretningsmodel - uden kunderne er der ikke nogen at sælge til. Dertil er det vigtigt at forstå sine kunder og deres behov. Derfor kan man med fordel gruppere dem i segmenter med fælles behov og adfærdsmønstre. Der findes mange forskellige kundesegmenter, og her er et par stykker: massemarked – fokus på meget store kundegrupper - her er ens værditilbud rettet mod enslydende behov, hvor nichemarkedet henvender sig målrettet til meget små kundesegmenter - typisk skræddersyet værditilbud mm.</p>
+                        <p id=kildereferant>-BMG s. 26</p>
+                    </section>
+                    <section>
+                        <h2>Værditilbud</h2>
+                        <p>Den forsøger at løse kundernes problemer og opfylde kundernes behov ved hjælp af værditilbud</p>
+                        <p>Værditilbuddet er det behov kunden får opfyldt gennem produktet/ydelsen. Disse kan være innovative løsninger, men kan også være lignende konkurrenternes værditilbud - bare med øget funktionalitet eller kvalitet. Et par eksempler på dette kunne være: nyhed – værditilbuddet opfylder en helt ny række behov, som kundesegmentet ikke har været bevidste om, hvor præstationen skaber værditilbuddet ved at produktet/ydelsen forbedres.</p>
+                        <p id=kildereferant>-BMG s. 28</p>
+                    </section>
+                    <section>
+                        <h2>Kanaler</h2>
+                        <p>Værditilbuddene leveres til kunderne gennem kommunikations-, distributions- og salgskanaler.</p>
+                        <p>Denne sektion beskriver alle de punkter, hvor værditilbuddet møder kundesegmentet. Dette dækker over kommunikation-, distribution- og salgskanaler. Det er her hvor vi, som multimediedesignere, kommer ind i billedet, da vores arbejde bl.a. berører disse berøringspunkter – gennem hjemmesider og de sociale medier. </p>
+                        <p id=kildereferant>-BMG s. 32</p>
+                    </section>
+                    <section>
+                        <h2>Kunderelationer</h2>
+                        <p>Kunderelationer etableres og vedligeholdes inden for hvert kundesegment.</p>
+                        <p>Dette er endnu en sektion, hvor multimediedesigneren kommer ind i billedet. En virksomhed har, som udgangspunkt, en relation de ønsker hos de forskellige kundesegmenter. Dette kan være med henblik på kundehvervning, kundefastholdelse eller mersalg. Her skal vi altså bevare en god kunderelation, da det har stor indflydelse på brugeroplevelsen. </p>
+                        <p id=kildereferant>-BMG s. 34</p>
+                    </section>
+                    <section>
+                        <h2>Indtægtsstrømme</h2>
+                        <p>Indtægtsstrømme er et resultat af værditilbud, der er vellykket, som tilbydes kunderne.</p>
+                        <p>Her ses hvilke indtægter virksomheden har. Her kan overvejes hvordan og hvad kunden betaler for, hvor meget er de villige til at betale for produktet/ydelsen? Hvor meget bidrager dette kundesegment til den overordnede indtægt? Der findes mange forskellige måder at få en indtægt fra et kundesegment: direkte salg, brugsgebyr, abonnement mm.</p>
+                        <p id=kildereferant>-BMG s. 36</p>
+                    </section>
+                    <section>
+                        <h2>Nøgleressourcer</h2>
+                        <p>Nøgleressourcer er de aktiviteter, der er nødvendige for at kunne tilbyde og levere førnævnte elementer</p>
+                        <p>Nøgleressourcerne gør det muligt for virksomheden at opretholde deres værditilbud, kunderelationer og kanaler. Disse ressourcer kommer i mange former: fysiske, immaterielle, menneskelige og økonomiske - hvilke ressourcer der er nøgleressourcer, afhænger af hvilken type virksomhed der er tale om.   </p>
+                        <p id=kildereferant>-BMG s. 40</p>
+                    </section>
+                    <section>
+                        <h2>Nøgleaktiviteter</h2>
+                        <p>Nøgleaktiviteter beskriver de vigtigste ting, som en virksomhed skal sætte i værk for at få deres forretningsmodel til at fungere</p>
+                        <p>Disse aktiviteter er, i sin enkelthed, de ting en virksomhed skal gøre for at opretholde deres værditilbud, distribueringskanaler, kunderelationer og indtægtskilder. Dette kan være: produktionen af et produkt, problemløsning og platform/netværk.</p>
+                        <p id=kildereferant>-BMG s. 42</p>
+                    </section>
+                    <section>
+                        <h2>Nøglepartnere</h2>
+                        <p>Visse aktiviteter outsourcers og visse ressourcer skaffes uden for virksomheden selv</p>
+                        <p>Nøglepartnere dækker over de andre virksomheder, som virksomheden har en form for partnerskab med. Der kan være flere årsager til at have partnere, dette kunne være: optimering og stordrift. Nogle virksomheder fremskaffer ressourcer udefra: reduktion af risiko og uvished – dette kan være et partnerskab, hvor man laver en alliance. </p>
+                        <p id=kildereferant>-BMG s. 44</p>
+                    </section>
+                    <section>
+                        <h2>Omkostningsstruktur</h2>
+                        <p>Elementerne i forretningsmodellen resulterer i omkostningsstrukturen.</p>
+                        <p>En virksomhed kan have et hav af omkostninger. I en forkortet udgave er det, hvilke nøgleressourcer og nøgleaktiviteter er dyrest at vedligeholde? </p>
+                        <p id=kildereferant>-BMG s. 46</p>
+                    </section>
                 </section>
                 <section id="underemne2">
                     <h2>Value Propersition Canvas</h2>
@@ -77,6 +101,12 @@
                     <p>Dernæst trækker man disse effekter over til kunden, hvor man beskriver de konkrete fordele de får, ved at anvende produktet. </p>
                     <img src="Modeller/Value%20canvas.png" alt="Value Proposition Canvas - her ses relationen mellem produkt og forbruger">
                     <p>Hvis begge segmenter stemmer overens, har man det man kalder et match. Det betyder, at produktet skaber værdi for kunden. </p>
+                    <p id=kildereferant>-VPD ss. 8-9</p>
+                </section>
+                <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Alexander Ostwalder &amp; Yves Pigneur, "Business Model Generation" - ss. 20-50</p>
+                    <p>Alexander Ostwalder, Yves Pugneur, Greg Bernarda &amp; Alan Smith, "Value Propersition Design" - ss. 6-39</p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

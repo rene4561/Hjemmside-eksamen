@@ -21,7 +21,7 @@
                 </div>
                 <section id="underemne1">
                     <p>Bootstrap er en open source-værktøjskasse, som man anvender til at lave hele hjemmesider med eller til at tage små dele fra. Disse værktøjer er samlinger af HTML, CSS og JavaScript kode, som er en slags ramme, hvor man kan indsætte sit eget indhold – dette kun være en række knapper, en billede-slider eller en navigationsmenu.</p>
-                    <p id=kildereferant>-Bootstrap PP</p>
+                    <p id=kildereferant>- Bootstrap PP</p>
                 </section>
                 <section> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>

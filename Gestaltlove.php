@@ -32,13 +32,15 @@
                 <section id="underemne1">
                     <h2>Loven om nærhed</h2>
                     <p>Objekter som står tæt ved hinanden, anses som sammenhørende, fremfor hvis de stod langt fra hinanden. </p>
-                    <p>Herunder kan man se et eksempel på loven om nærhed, hvor man tydeligt kan se, hvilke objekter der er sammenhørende. I de to sammenhørende objekter i venstre side af eksemplet, kan man se en klar opdeling af farverne - det er med til at forstærke loven om nærhed. For som man kan se i de to sammenhørende objekter på højre side, så er det stadig tydeligt at der er to grupperinger - uanset hvilken farve hver enkelt cirkel har. Dog er farvevalget med til at forstærke loven om nærhed. For hvis de sammenhørende objekter har samme farve, så bliver sammenhørigheden forstærket, som man også kan se i nedenstående eksempel i venstre side.   </p>
+                    <p>Herunder kan man se et eksempel på loven om nærhed, hvor man tydeligt kan se, hvilke objekter der er sammenhørende. I de to sammenhørende objekter i venstre side af eksemplet, kan man se en klar opdeling af farverne - det er med til at forstærke loven om nærhed. For som man kan se i de to sammenhørende objekter på højre side, så er det stadig tydeligt at der er to grupperinger - uanset hvilken farve hver enkelt cirkel har. Dog er farvevalget med til at forstærke loven om nærhed. For hvis de sammenhørende objekter har samme farve, så bliver sammenhørigheden forstærket, som man også kan se i nedenstående eksempel i venstre side.  </p>
+                    <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_n%C3%A6rhed.png" alt="Illustration af loven om nærhed">
                 </section>
                 <section id="underemne2">
                     <h2>Loven om kontinuitet</h2>
                     <p>Objekter som står på linje eller kurver, anses som sammenhørende. </p>
                     <p>I nedenstående eksempel kan man se, hvorledes fiskene er på linje og de opfattes derfor som en stime. Selvom der er forskellige farver fisk, og at man derfor kunne tro, at der er forskellige fiskestimer, så opfattes de stadig som én stime, fordi de er forbundet via linjer og kurver. Derudover så følger fiskene også en retning, og derfor anses de også som en stime. Ud fra dette kan man konkludere, at linjer og kurver trumfer objekternes forskellige farver, som man kan se i nedenstående eksempel. </p>
+                    <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_kontinuitet.png" alt="Illustration af loven om kontinuitet">
                 </section>
                 <section id="underemne3">
@@ -46,6 +48,7 @@
                     <p>Objekter som ligner hinanden i både form, størrelse, retning og farve anses som del af en enhed. </p>
                     <p>I eksemplet nedenfor kan man se, at alle objekter har den samme farve. Man kan dog stadig ane, hvilke objekter der er sammenhørende. Nu hvor alle figurer har samme farve, så går man efter hvilke figurer der er lig hinanden: i dette tilfælde vil man opdele objekterne efter firkanter og cirkler, da det er dem, der er repræsenteret i nedenstående eksempel. </p>
                     <p>Man kan forstærke ligheden ved, at man eksempelvis giver firkanterne deres egen farve, og dertil giver cirklerne deres egen farve. Det vil gøre det lettere at overskue, hvilke figurer der er sammenhørende og det vil gå hurtigere i opdelingen af de sammenhørende objekter.  </p>
+                    <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_lighed.png" alt="Illustration af loven om lighed">
                 </section>
                 <section id="underemne4">
@@ -53,6 +56,7 @@
                     <p>Objekter som er omkranset af en ramme, anses som sammenhørende. </p>
                     <p>Herunder kan man se et eksempel på loven om lukkethed, og det tager udgangspunkt i orange cirkler. Man vil tro, at de alle er sammenhørende, fordi de er orange og har samme form, men som man kan se, så er der en markeret ramme rundt om 12 af de orange cirkler. Dette gør at man ser disse 12 cirkler, som en enhed for sig selv - adskilt fra de resterende cirkler. </p>
                     <p>Loven om lukkethed er den allerstærkeste lov af de 5 gestaltlove, for uanset farve, form og størrelse, så vil en omkredsning af nogle objekter være stærkere, fordi den adskiller de indrammede objekter fra de andre - igen, uanset farve, form og størrelse. </p>
+                    <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_lukkedhed.png" alt="Illustration af loven om lukkethed">
                 </section>
                 <section id="underemne5">
@@ -60,7 +64,12 @@
                     <p>Det er den sidste gestaltlov, og den beskriver hvorledes at man opfatter den mindst, afgrænsede figur på arealet som selve figuren - selvom der måske kan være flere objekter på samme areal.</p>
                     <p>I nedenstående eksempel kan man se, hvordan trekanten træder frem i forgrunden på arealet. Den træder frem i forgrunden, fordi vi kan ane de tre små blå cirkler. Disse cirkler er de mindste objekter på arealet, og det er det, der gør at trekanten træder frem. Vores øjne opfatter først de blå cirkler, og dernæst træder trekanten frem i forgrunden. </p>
                     <p>Hvis cirklerne var ligeså store som trekanten, så ville det være svære for os at bedømme, hvad der er forgrund og baggrund. Så derfor bør man være opmærksom på størrelserne af objekterne, for ellers kan det blive forvirrende. </p>
+                    <p id=kildereferant>- Andy Rutlegde</p>
                     <img src="modeller/gestalt_figurbagrund.png" alt="Illustration af loven om figur og baggrund">
+                </section>
+                <section> <!-- Kilde oversigt -->
+                    <h2>Kilder:</h2>
+                    <p>Andy Rutlegde, "<a href="https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html">https://andyrutledge.com/gestalt-principles-1-figure-ground-relationship.html</a>" - Gestalt lov serien</p>
                 </section>
                 <aside id="pause1">
                     <a href="#">

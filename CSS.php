@@ -21,15 +21,15 @@
                     <p>CSS, også kaldet cascading style sheets, er et kodesprog der beskriver udseende. Det muliggør dermed, at man kan adskille struktur og udseende fra hinanden. </p>
                     <p>I dette afsnit kan du læse om følgende:</p>
                     <ul>
-                        <li>CSS implementering</li>
-                        <li>CSS syntakts</li>
+                        <li>CSS-implementering</li>
+                        <li>CSS-syntaks</li>
                         <li>Kaskaderegler</li>
                         <li>CSS box model</li>
                         <li>CSS grid</li>
                     </ul>
                 </div>
                 <section id="underemne1">
-                    <h2>CSS implementering</h2>
+                    <h2>CSS-implementering</h2>
                     <p>I sin essens bruger man CSS til at style sin HTML. Dette gør man igennem regler, rules, som kan navngives og refereres til i sin HTML. Disse regler kan implementeres på 3 forskellige måder – igennem et såkaldt stylesheet, indlejret (embeded) og i det man kalder inline.</p>
                     <p>De forskellige implementeringer har fordele og ulemper. Primært skal man aldrig bruge inline, da det ødelægger idéen med at adskille struktur og layout. Grundet at inline css skrives direkte ind i HTML koden. Dertil bliver det også svært at rette på et elements stilering, da man skal finde det specifikke stedelement med den specifikke stilering.</p>
                     <p id=kildereferant>-W3, CSS How to</p>
@@ -79,7 +79,7 @@
                     <p id=kildereferant>-Intro til CSS</p>
                 </section>
                 <section id="underemne5">
-                    <h2>G’r’id vi altid har kunnet dette</h2>
+                    <h2>G’r’id vi har altid kunnet dette</h2>
                     <p>I efteråret 2017 blev CSS grid system introduceret. Dette system har gjort det let og intuitivt, at designe hjemmesider i et gitter. Dette betyder, at man kan placere indhold i et 2 dimensionalt gitter, hvor man kan bestemme både hvilken række, og hvilken kolonne indholdet skal placeres i på samme tid. </p>
                     <p>For at anvende grid skal man ’tænde’ for det ved at skrive display: grid, i en deklaration på et container element. Dette vil dermed gøre alle direkte child elementer til grid items. Dernæst skal man skabe gitteret, og dette gør man primært ved at tænde samt tillægge nogle grid-template-comlumns. Størrelsen på disse angives i enheden fr, som er en forkortelse af fractions -  brøkdele på dansk. Disse brøkdele repræsenterer brøkdele indenfor containeren.</p>
                     <p>Der findes 2 forskellige måder at positionere items i gitteret. Jeg vil blot fokusere på den ene af teknikkerne, da det er den vi har anvendt i undervisningen. </p>

@@ -18,21 +18,21 @@
             <section id="indhold">
                 <div id="oversigt">
                     <h1>Servere og FTP</h1>
-                    <p>På denne side kan man læse om en server er, samt anvendelse og lidt historie.</p>
+                    <p>På denne side kan man læse om hvad en server er samt anvendelse og lidt historie.</p>
                     <ul>
                         <li>Intro</li>
                         <li>Serverbrug som multimediedesigner - herunder:</li>
                         <ul>
-                            <li>Agang til servere</li>
+                            <li>Adgang til servere</li>
                             <li>Serverside/include</li>
                         </ul>
-                        <li>Hitstorie om server/klient og HTTP-protokollen</li>
+                        <li>Historie om server/klient og HTTP-protokollen</li>
                     </ul>
                 </div>
                 <section id="underemne1">
                     <h2>Intro</h2>
                     <p>Begrebet server dækker over flere ting, primært noget hardware med en særlig rolle samt noget software med en særligrolle. Som udgangspunkt kan flere stykker software godt køre ét styk hardware. Typisk betegnes maskinen som ”server”, hvor programmet oftest kaldes [funktion]-server, eksempelvis filserver.</p>
-                    <p>For at kunne tilgå en server, skal man bruge en klient. Disse skaber en forbindelse mellem klient og server, hvor den udveksler informationer. Eksempelvis skal man bruge en webklient, også kendt som en browser, for at kunne kommunikere med en web-server. Ligeledes vil man også bruge en FTP-klient, som filezilla, til at kommunikere med en FTP-server.</p>
+                    <p>For at kunne tilgå en server, skal man bruge en klient. Disse skaber en forbindelse mellem klient og server, hvor den udveksler informationer. Eksempelvis skal man bruge en webklient, også kendt som en browser, for at kunne kommunikere med en web-server. Ligeledes vil man også bruge en FTP-klient, som FileZilla, til at kommunikere med en FTP-server.</p>
                     <p id=kildereferant>- Server præsentation</p>
                 </section>
                 <section id="underemne2">

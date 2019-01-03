@@ -60,6 +60,10 @@
                     <h2>Det mobile web (fra 2010)</h2>
                     <p>Da iPhone kom til i 2007 og iPad’en i 2010, begyndte det mobile web at tage form. Alle disse nye smartphones og tablets, som begyndte at strømme ud på markedet, fik den betydning, at man nu skulle tilpasse sin hjemmeside således, at den virkede optimalt på alle skærmstørrelser.</p>
                 </section>
+                <section>
+                    <h2>Kilde:</h2>
+                    <p>Hans-Christian Christiansen, "Online kommunikation" - ss. 346-371</p>
+                </section>
                 <aside id="pause1">
                     <a href="#">
                         <div class="pause">

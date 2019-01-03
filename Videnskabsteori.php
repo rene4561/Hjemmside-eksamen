@@ -26,13 +26,14 @@
                         <li>Det humanistiske paradigme - herunder hermenuetik og IMK-modellen</li>
                         <li>Videnskabsteori som multimediedesginer</li>
                     </ul>
+                    <p id=kildereferant>- Mariann kommunikation</p>
                 </div>
                 <section id="underemne1">
                     <h2>Det samfundsvidenskabelige paradigme</h2>
                     <p>Det samfundsvidenskabelige paradigme er afsenderorienteret, og dette betyder også at man anser afsenderen som værende den, der styrer kommunikationen. Kommunikation forstås som en transmission. I dette paradigme anvendes der oftest kvantitative metoder, hvilket vil give en række hårde data. Man arbejder deduktivt, dvs. at man udleder noget gennem logiske konklusioner. Med dette i mente, så er formålet at undersøge afsenderen og kunne forudse, hvilket udfald en given handling vil medføre.</p>
-                    <p>- Kommunikation i multimediedesign s. 77.</p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign s. 77.</p>
                     <p>Lasswells model er en struktur model, som skaber overblik over en kommunikationshandling fra en afsender. Her ses kommunikation som ensrettet.</p>
-                    <p>- Kommunikation i multimediedesign s. 79</p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign s. 79</p>
                     <img src="Modeller/Viden_lasswell.png" alt="Lasswells model">
                 </section>
                 <section id="underemne2">
@@ -42,12 +43,12 @@
                     <p>Dertil arbejder man i høj grad hermeneutisk, hvilket vil sige at man beskæftiger sig med fortolkning. Dette betyder at der aldrig vil være et endegyldigt svar.</p>
                     <img src="Modeller/viden_hermenuetik.png" alt="Illustration af en hermenuetisk arbejdsprocess">
                     <p>Denne model visuallisere arbejdsmetoden, når man arbejder hermeneutisk. Man kan altid danne nye forståelser, og deraf drage nye fortolkninger. Processen er iterativ.</p>
-                    <p>- Mariann PP brugertest</p>
+                    <p>- Mariann brugertest</p>
                     <img src="Modeller/Pr%C3%A6sentation_5faser.PNG" alt="Overblik over de 5 fase - fint stoffet, disponer stoffet, formunler stoffet, øvelse og præsentationen">
                     <section> <!-- IMK-model start -->
                         <h2>IMK-modellen</h2>
                         <p>Denne model er bygget på tanken om, at afsender og modtager er ligeværdige bigragelsesydere i kommunikationssituationen. Ligeledes viser den også, at der er en række andre faktorer, som er med til at præge kommunikationen.</p>
-                        <p>- Kommunikation i multimediedesign s. 69-72</p>
+                        <p id="kildereferant">- Kommunikation i multimediedesign s. 69-72</p>
                         <img src="Modeller/viden_IMK.png" alt="IMK-modellen" >
                     </section> <!-- IMK model slut -->
                 </section> <!-- Under emne 2 slut -->
@@ -56,6 +57,12 @@
                     <p>Det er vigtigt at være bevidst om hvilket paradigme man benytter sig af, når man vil undersøge et emne. Dette skyldes at de forskellige paradigmer kan forskellige ting, og dertil frembringer forskellige data. Det er ligeledes vigtigt, at man ikke blander metoderne sammen, da dette giver invalide data. Derfor er det vigtigt at man, som multimediedesigner, har dette for øje. </p>
                     <img src="Modeller/viden_hvorfor.png" alt="Illustration af processen fra videnskabsteori til metode valg">
                 </section> <!-- Under emne 3 slut -->
+                <section>
+                    <h2>Kilder:</h2>
+                    <p>Mariann Platen Daugaard, "Kommunikation- og produktionsmodeller" - Præsentation</p>
+                    <p>Mariann Platen Daugaard, "brugertest og metode"</p>
+                    <p>Anne Mette Busch, "Kommunikation som multimediedesigner" - kap. 5</p>
+                </section>
                 <aside id="pause1">
                     <a href="#">
                         <div class="pause">

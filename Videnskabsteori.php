@@ -23,8 +23,8 @@
                     <p>På denne siden kan du læse om følgende:</p>
                     <ul>
                         <li>Det samfundsvidenskabelige paradigme - herunder Lasswells model</li>
-                        <li>Det humanistiske paradigme - herunder hermenuetik og IMK-modellen</li>
-                        <li>Videnskabsteori som multimediedesginer</li>
+                        <li>Det humanistiske paradigme - herunder hermeneutik og IMK-modellen</li>
+                        <li>Videnskabsteori som multimediedesigner</li>
                     </ul>
                     <p id=kildereferant>- Mariann kommunikation</p>
                 </div>
@@ -42,12 +42,12 @@
                     <p>Her anvendes kvalitative metoder, hvilket vil sige at man samler en masse bløde data. Disse data forsøger at skabe en dyb forståelse af modtagerens holdninger og adfærd. Der skelnes også mellem hvad folk siger, og hvad de gør. - Kommunikation i multimediedesign s. 68</p>
                     <p>Dertil arbejder man i høj grad hermeneutisk, hvilket vil sige at man beskæftiger sig med fortolkning. Dette betyder at der aldrig vil være et endegyldigt svar.</p>
                     <img src="Modeller/viden_hermenuetik.png" alt="Illustration af en hermenuetisk arbejdsprocess">
-                    <p>Denne model visuallisere arbejdsmetoden, når man arbejder hermeneutisk. Man kan altid danne nye forståelser, og deraf drage nye fortolkninger. Processen er iterativ.</p>
+                    <p>Denne model visualisere arbejdsmetoden, når man arbejder hermeneutisk. Man kan altid danne nye forståelser, og deraf drage nye fortolkninger. Processen er iterativ.</p>
                     <p>- Mariann brugertest</p>
                     <img src="Modeller/Pr%C3%A6sentation_5faser.PNG" alt="Overblik over de 5 fase - fint stoffet, disponer stoffet, formunler stoffet, øvelse og præsentationen">
                     <section> <!-- IMK-model start -->
                         <h2>IMK-modellen</h2>
-                        <p>Denne model er bygget på tanken om, at afsender og modtager er ligeværdige bigragelsesydere i kommunikationssituationen. Ligeledes viser den også, at der er en række andre faktorer, som er med til at præge kommunikationen.</p>
+                        <p>Denne model er bygget på tanken om, at afsender og modtager er ligeværdige bidragelsesydere i kommunikationssituationen. Ligeledes viser den også, at der er en række andre faktorer, som er med til at præge kommunikationen.</p>
                         <p id="kildereferant">- Kommunikation i multimediedesign s. 69-72</p>
                         <img src="Modeller/viden_IMK.png" alt="IMK-modellen" >
                     </section> <!-- IMK model slut -->
@@ -60,22 +60,9 @@
                 <section id="kilder">
                     <h2>Kilder:</h2>
                     <p>Mariann Platen Daugaard, "Kommunikation- og produktionsmodeller" - Præsentation</p>
-                    <p>Mariann Platen Daugaard, "brugertest og metode"</p>
+                    <p>Mariann Platen Daugaard, "Brugertest og metode"</p>
                     <p>Anne Mette Busch, "Kommunikation som multimediedesigner" - kap. 5</p>
                 </section>
-                <aside id="pause1">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause1 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

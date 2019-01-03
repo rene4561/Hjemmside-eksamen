@@ -18,7 +18,7 @@
             <section id="indhold">
                 <div id="oversigt">
                     <h1>Design Thinking</h1>
-                    <p>Design Thinking er en metode, som vi har anvendt til vores projekt under 1. semester. Dog er design thinking ikke blot en metode, det er også en tankegang. Denne tilgang er en måde at styre sine tanker i faser, som hjælper en frem det bedste resultat. For mennesker er løsningsorienteret, og derfor vil vi tit ty til at finde en løsning på et givet problem, hvor vi dertil baserer løsningen på vores nuværende viden – den er bare ikke altid nok.</p>
+                    <p>Design thinking er en metode, som vi har anvendt til vores projekt under 1. semester. Dog er design thinking ikke blot en metode, det er også en tankegang. Denne tilgang er en måde at styre sine tanker i faser, som hjælper en frem det bedste resultat. For mennesker er løsningsorienteret, og derfor vil vi tit ty til at finde en løsning på et givet problem, hvor vi dertil baserer løsningen på vores nuværende viden – den er bare ikke altid nok.</p>
                     <p>Læs om hver fase nedenfor:</p>
                     <ul>
                         <li>Empathize</li>
@@ -27,7 +27,7 @@
                         <li>Prototype</li>
                         <li>Test</li>
                         <li>Implement</li>
-                        <li>Læs også om divergent/konvergent process</li>
+                        <li>Læs også om den divergente og konvergente proces</li>
                     </ul>
                 </div>
                 <section id="underemne1">
@@ -67,7 +67,7 @@
                     <p id="kildereferant">-Field Guide to Human Centred Design, designkit.org (IDEO)</p>
                 </section>
                 <section id="underemne2">
-                    <h2>Divergens og konvergens</h2>
+                    <h2>Den divergente og konvergente proces</h2>
                     <p>Under processen handler det, til dels, om at være nysgerrig og kreativ, men en vigtig del er også at være kritisk. Mens man er kreativ og nysgerrig, handler det om at udvide projektets rammer – at få én idé som kan lede til en anden osv. Dette kaldes at divergere. Dertil er det også ligeså vigtig at være kritisk og ’kill your darlings’ – her konvergerer man, hvilket betyder at man indsnævre projektets rammer igen. Denne divergens/konvergens proces bidrager med en masse løsninger, hvor kun de bedste tages med videre.</p>
                     <p id=kildereferant>- Moodle</p>
                     <img src="Modeller/DT_divergentkonvergent.png" alt="Illustration over den divergente og konvergente arbejdsproces">

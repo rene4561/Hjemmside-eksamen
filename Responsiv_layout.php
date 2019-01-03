@@ -55,7 +55,7 @@
                 </section>
                 <section id="underemne5">
                     <h2>Mobile first</h2>
-                    <p>Mobile first er en designfilosofi der lyder på, at man skal designe en hjemmeside til mobilen først og derfra arbejde sig mod desktop. Dette er en god strategi at benytte sig af, da det allerede er besværligt at tilpasse informationen, fra en hjemmeside, på en lille skærm. Endnu et argument der taler for at designe mobile first er, at de fleste brugere anvender mobile enheder fremfor desktop i dag. Dermed vil det være mest hensigtsmæssig, at designe den bedst mulige løsning til dem.</p>
+                    <p>Mobile first er en designfilosofi der lyder på, at man skal designe en hjemmeside til mobilen først og derfra arbejde sig mod desktop. Dette er en god strategi at benytte sig af, da det allerede er besværligt at tilpasse informationen, fra en hjemmeside, på en lille skærm. Endnu et argument der taler for at designe mobile first er, at de fleste brugere anvender mobile enheder fremfor desktop i dag. Dermed vil det være mest hensigtsmæssig at designe den bedst mulige løsning til dem.</p>
                     <p>Når man arbejder med mobile first, tager man udgangspunkt i indholdshierarkiet på hjemmesiden. For man skal overveje nøje hvad der er vigtigt, og hvad der er knapt så vigtigt - for man arbejder med begrænset plads. Derfor starter man med at tilpasse sin CSS til mobile enheder hvor layoutet testes. 
                     Derfra tilføjer man break points, igennem @media quiries, og tilpasser sidens CSS til de nye skærmstørrelser. Ved at gøre dette starter man med en god og velovervejet informationsarkitektur, derfra kan man tilføje flere features til enheder der kan håndtere dem, som man tilføjer break points.</p>
                     <p id=kildereferant>- Niels Østergaard</p>
@@ -68,14 +68,14 @@
                     <p>Niels Østergaard, "responsiv i praksis" - Under CSS grid</p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.asp">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>CSS @media Rule</h2>
+                                <p>En oversigt over @media, på W3Schools.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/CSS/w3schools.png">
                             </div>
                         </div> <!--pause1 slut -->
                     </a>

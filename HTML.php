@@ -52,16 +52,29 @@
                     <p>Niels Østergaard, "Intro til HTML (Præsentation)" PDF </p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="https://www.w3schools.com/tags/ref_byfunc.asp">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>HTML element oversigt</h2>
+                                <p>Se på denne oversigt over alle HTML elementer, opdelt i kategorier.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/CSS/w3schools.png">
                             </div>
                         </div> <!--pause1 slut -->
+                    </a>
+              </aside> 
+                <aside id="pause2">
+                    <a href="http://www.whatsmyip.org/html-characters/">
+                        <div class="pause">
+                            <div class="pausetekst">
+                                <h2>Special tegn liste i HTML</h2>
+                                <p>I HTML skal man anvende små koder for at anvende et specialtegn. Her er en liste over dem.</p>    
+                            </div>
+                            <div class="pauseimg">
+                                <img src="pausebilleder/HTML/htmlspecialtegn.JPG">
+                            </div>
+                        </div> <!--pause2 slut -->
                     </a>
               </aside> 
             </section> <!--indhold slut-->

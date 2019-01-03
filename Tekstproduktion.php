@@ -37,19 +37,19 @@
                     <p>Grundlæggende når man skal skrive en artikel, så skal man være opmærksom på sine kilder. Dertil skal man undgå følgende kilder: Kilder man ikke kan tjekke, kilder man har fælles interesse med og kilder man personligt kan lide.</p>
                     <p>Dertil skal man også være opmærksom på, hvilke billeder man vil anvende i sin artikel. Man skelner mellem disse to typer af billeder: Virkelige billeder - altså reportage billeder eller dokumentation og Arrangerede billeder - dvs. illustrationer, modelbilleder og lignende.</p>
                     <p>Til sidst skal man også tænke over sin opsætning. Nedenfor nævnes fagbegreberne: Rubrik - altså overskriften. Trompet - dvs. en overlinje, som beskriver noget generelt om emnet- eksempelvis, hvor vi er verden. Manchet - denne kan nemt forveksles med en underrubrik, men forskellen er, at en manchet er en konklusion eller et referat af artiklen. Byline - den beskriver, hvem der har skrevet artiklen eller taget billedet. Kolofon - her skrives der informationer om mediet selv, eksempelvis, kontaktinformation til avisen. Sidst, vinkling - her skal man vurdere hvilket perspektiv man vil skrive artiklen ud fra.</p>
-                    <p id="kildereferant">- Kommunikation i multimediedesign ss.236-240</p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign s. 236-240</p>
                     <img src="Modeller/tekstp_artikel.png" alt="Artikel opstillingstermer anvendt i praksis">
                     <section>
-                        <h2>Nyhedsarriklen</h2>
+                        <h2>Nyhedsartiklen</h2>
                         <p>Denne artikels formål er, som navnet lyder, at den kan formidle nyheder ud til læseren. Journalisten skal, ved anvendelse af denne artikeltype, forholde sig objektiv til historien.</p>
                         <p>Artiklen er kendetegnet ved at være struktureret via nyhedstrekanten. Dens formål er at give læseren en hurtig forståelse for: hvem, hvad, hvorfor og hvordan i forhold til nyheden. Det betyder at det vigtigste står først i artiklen, og de uddybende detaljer kommer herefter. Man kan i nedenstående figur nærstudere, hvordan nyhedstrekanten er skruet sammen samt hvilke elementer, der hører til hvor. </p>
                         <p>Derudover er det et kompositionsprincip, som gør at læseren nødvendigvis ikke behøver læse hele artiklen - hvis artiklen altså er godt skrevet. </p>
                         <img src="Modeller/tekstp_nyhedstrekant.png" alt="Nyehdstrekanten" id="nyhedstrekant">
-                        <h2>De fem nyhedskriteriee</h2>
+                        <h2>De fem nyhedskriterier</h2>
                         <p>Derudover anvender man de fem nyhedskriterier, som er med til at bestemme artiklens nyhedsværdi. En artikel skal nødvendigvis ikke opfylde alle fem nyhedskriterier, men hvis det er en nyhedsartikel, så fylder den oftest to eller tre nyhedskriterier. </p>
                         <p>De fem nyhedskriterier er: </p>
                         <dl>
-                            <dt>Væsenlighed</dt>
+                            <dt>Væsentlighed</dt>
                             <dd>Noget der har grundlæggende betydning, eller konsekvens for mange mennesker. Eksempelvis: ”Skatten stiger næste år”. </dd>
                             <dt>Sensation</dt>
                             <dd>Noget der fascinerer eller chokerer. Det er ofte de små og skæve historier i nogle aviser, som kan være forsidehistorier i andre aviser. 
@@ -60,18 +60,18 @@
                             <dt>Identifikation</dt>
                             <dd>Noget som læseren kan genkende sig selv i. En historie, der får læseren til at tænke ’det kunne være mig’, ’bare det var mig’ eller ’godt, det ikke er mig’. 
                             Eksempelvis: ”Ni ud af ti danskere spiser for meget sukker”.</dd>
-                            <dt>Atkualitet</dt>
+                            <dt>Aktualitet</dt>
                             <dd>Noget der er oppe i tiden. Historien må gerne udspringe af stof som i forvejen cirkulerer i andre medier. Langt de fleste nyheder udspringer af dette nyhedskriterium. 
                             Eksempelvis: ”Et parti vælger ny formand” eller ”et containerskib er sejlet ind i en bro”.
                             </dd>
                         </dl>
-                        <p id="kildereferant">- Kommunikation i multimediedesign ss.240-241</p>
+                        <p id="kildereferant">- Kommunikation i multimediedesign s. 240-241</p>
                     </section>
                     <section>
                         <h2>Den subjektive artikel</h2>
                         <p>Foruden de objektive artikler findes der også subjektive artikler. Ved brug af denne artikeltype anvender man et andet kompositionsprincip, og kommodemodellen er et ofte anvendt princip i denne forbindelse. </p>
                         <p>Kommoden fungerer ved, at selve kommoden er rammen; hvem, hvad hvor, hvornår og hvorfor? og dernæst konklusionen. Der er så en masse skuffer, som man kan hive ud i for at opnå mere information. Dette betyder altså, at alle skuffer i dette kompositionsprincip, er lige vigtige, og at man som læser, derfor kan udvælge de emner, som de ønsker at læse - så de undgår at skulle læse hele artiklen. </p>
-                        <p id="kildereferant">- Kommunikation i multimediedesign ss.241-242</p>
+                        <p id="kildereferant">- Kommunikation i multimediedesign s. 241-242</p>
                         <img src="Modeller/tekstp_subjektiv.jpg" alt="Kommoedemodellen, med de mange stuffer">
                     </section>
                 </section>
@@ -79,7 +79,7 @@
                     <h2>Produkt- og emnebeskrivelse</h2>
                     <p>Udover de to ovennævnte artikeltyper, så findes der også produkt- og emnetekster, hvis formål er at skabe interesse og øget lyst til, eksempelvis, at købe et produkt eller at ændre adfærd. </p>
                     <p>Til strukturering af denne artikeltype kunne man anvende Hey-You-See-So modellen:</p>
-                    <p id="kildereferant">- Kommunikation i multimediedesign s.242</p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign s. 242</p>
                     <img src="Modeller/tekstp_produkt.jpg" alt="Her ses Hey-you-See-So modellen" id="hey-you-see-so">
                 </section>
                 <section id="underemne3">
@@ -98,11 +98,11 @@
                         Bagsiden indeholder virksomhedens kontaktinformationer og andre informationer.</li>
                     </ul>
                     <p>Idéen er at overveje ovenstående, og dernæst skrive indholdet med disse overvejelser bag øret. Derefter kan man gå i gang med designprocessen.</p>
-                    <p id="kildereferant">- Kommunikation i multimediedesign ss.243-244</p>
+                    <p id="kildereferant">- Kommunikation i multimediedesign s. 243-244</p>
                 </section>
                 <section id="underemne4">
                     <h2>Annoncen</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adiEn annonce er en tekst som skal være nem og hurtig for læseren, at kunne skimte nedover. Dens formål er at den skal fange modtageren øjeblikkeligt. 
+                    <p>En annonce er en tekst som skal være nem og hurtig for læseren, at kunne skimte nedover. Dens formål er at den skal fange modtageren øjeblikkeligt. 
                     Kompositionsmæssigt kan man anvende nedenstående model, som vejledning til tekstelementernes placering i annoncen.</p>
                     <img src="Modeller/tekstp_annonce.png" alt="Illustration af annonce layout">
                     <section>
@@ -125,7 +125,7 @@
                             Eksempelvis: Coca Colas navn, altså Coca Cola, har en værdi på markedet, fordi navnet er penge værd. </li>
                         </ul>
                     </section>
-                <p id="kildereferant">- Kommunikation i multimediedesign ss.244-246</p>
+                <p id="kildereferant">- Kommunikation i multimediedesign s. 244-246</p>
                 </section>
                 <section id="underemne5">
                     <h2>Webtekst</h2>
@@ -145,37 +145,23 @@
                     <p>Reach dækker over, hvor mange ens indhold når ud til. Der er flere faktorer der bestemmer ens reach: hvis siden er ny, det er længe siden man sidst har postet eller hvis ens opslag ikke skaber interesse. </p>
                     <p>Interesse måles, i Facebooks verden, på hvor mange der interagerer med det indhold, som man producere. Det vil sige ting som likes og kommentarer. </p>
                     <p>En strategi, som man kan benytte sig af, er at være sympatisk over for brugerne. Man skal ikke skrive alt for formelle posts, for det kan folk ikke relatere sig til. For at understøtte det, kan man henvende sig direkte til kunden ved at anvende bydeform.</p>
-                    <p id="kildereferant">- Casten Guldborg</p>
+                    <p id="kildereferant">- Carsten Guldborg</p>
                     <img src="Modeller/tekstp_social.png" alt="Et Facebook opslag, skrevet af en hund">
                     <section>
                         <h2>Konverteringsrate</h2>
                         <p>Når man nu har fået et højt reach, er det også med at få det udnyttet. Det man skal forstå her er, hvordan man får Facebookbrugere over til ens hjemmeside. Det ironiske er, at det ikke bare sker af sig selv. </p>
                         <p>For at få lokket brugere over på sin hjemmeside kræver det, primært, at man angiver et link dertil. Derudover skal man skabe et behov, eller en årsag, til at de skal gå væk fra Facebook – dette skaber dog dårlig reach, da Facebook ikke kan lide, at man dirigerer brugere væk fra deres hjemmeside. Dertil er det vigtigt altid at veksle mellem posts der skaber reach, og posts der konvergerer.</p>
                         <p>Når man prøver at sælge noget på Facebook, skal man ikke prøve at sælge dem produktet via traditionel markedsføring, men rettere sælge det via drømmen bag produktet.  </p>
-                        <p id="kildereferant">- Casten Guldborg</p>
+                        <p id="kildereferant">- Carsten Guldborg</p>
                         <img src="Modeller/tekstp_konvertering.png" alt="Her ses hvordan man kan sælge et jakkesæt, uden at nævne jakkesættet">
                     </section>
                 </section>
                 <section id="kilder"> <!-- Kilde oversigt -->
                     <h2>Kilder:</h2>
-                    <p>Anne Mette Busch, "kommunikation i multimediedesign" - kap. 17</p>
+                    <p>Anne Mette Busch, "Kommunikation i multimediedesign" - kap. 17</p>
                     <p>Carsten Guldborg, "Online-Marketing__1-dage__Carsten_Guldborg__low_ress" - PDF</p>
                     <p>Nanna Friis, "Online kommunikation" - kap. 5</p>
-                    
                 </section>
-                <aside id="pause1">
-                    <a href="#">
-                        <div class="pause">
-                            <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
-                            </div>
-                            <div class="pauseimg">
-                                <img src="thumbnails/test.png">
-                            </div>
-                        </div> <!--pause1 slut -->
-                    </a>
-              </aside> 
             </section> <!--indhold slut-->
         </div>
         <footer>

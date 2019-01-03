@@ -54,14 +54,14 @@
                     <p>Niels Østergaard, "Versionsstyring" - pdf</p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="https://github.com/rene4561">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>Min GitHub-side</h2>
+                                <p>Dette er et link til min GitHub-side.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/version/Octocat.png">
                             </div>
                         </div> <!--pause1 slut -->
                     </a>

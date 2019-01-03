@@ -23,21 +23,19 @@
                     <ul>
                         <li>Non-verbal kommunikation - herunder kropssprog</li>
                         <li>Præsentationsforberedelse</li>
-                        <li>
-                            <ul>
-                                <li>Fase 1 - find soffet</li>
-                                <li>Fase 2 - disponer stoffet</li>
-                                <li>Formuler stoffet</li>
-                                <li>Fase 4 - øvelse</li>
-                                <li>Fase 5 - præsentationen</li>
-                            </ul>
-                        </li>
+                        <ul>
+                            <li>Fase 1 - find stoffet</li>
+                            <li>Fase 2 - disponer stoffet</li>
+                            <li>Fase 3 - formuler stoffet</li>
+                            <li>Fase 4 - øvelse</li>
+                            <li>Fase 5 - præsentationen</li>
+                        </ul>
                     </ul>
                 </div>
                 <section id="underemne1">
                     <h2>Non-verbal kommunikation</h2>
                     <p>Når vi kommunikerer med andre mennesker, så kan vi kommunikere igennem vores kropssprog, det nonverbale, og gennem vores sprog som er det verbale. </p>
-                    <p>Der findes mange måder at kommunikerer non-verbalt, dette omfatter: Kropssprog, herunder holdning, stemmeleje - herunder; betoning af det man bruger, vejrtrækning og taletempo. Ansigtsudtryk, øjenbevægelser ,gestus/fagter, håndtryk, afstand til andre og påklædning. </p>
+                    <p>Der findes mange måder at kommunikerer non-verbalt, dette omfatter: Kropssprog, herunder holdning, stemmeleje - herunder; betoning af det man bruger, vejrtrækning og taletempo. Ansigtsudtryk, øjenbevægelser, gestus/fagter, håndtryk, afstand til andre og påklædning. </p>
                     <p id=kildereferant>- Mette Hald s.45</p>
                     <p>Kropssprog kan afsløre meget om ens personlighed, alt efter hvor bevidst man er om sit kropssprog. Man kan sige, at der findes nogle hovedtræk ved kropssproget, de står listet nedenfor: </p>
                     <ul>
@@ -46,7 +44,7 @@
                         <li>Skuldrene afslører meget: Hævede skuldre viser anspændthed, hvor sænkede skuldre viser dermed det modsatte.</li>
                         <li>Frustration: Der findes mange måder, hvorpå kroppen udtrykker frustration som blandt andet hænderne, vejrtrækning, blik, stemmen og sine bevægelser.</li>
                     </ul>
-                    <p id=kildereferant>- Mette Hald ss. 48-49</p>
+                    <p id=kildereferant>- Mette Hald s. 48-49</p>
                     <p>Når man skal præsentere sig selv til en jobsamtale, til en præsentation på skolen, til et møde og lignende, ville det være mest hensigtsmæssigt at have et åbent og aktiv kropssprog. Det ses i form af, at man er smilende, rolig og afslappet. Man virker interesseret, og har et fokuseret blik.</p>
                     <p>Man skal trække vejret, have kontrol over sig selv, fylde rummet ud på en positiv måde og udstråle at man har styr på sin præsentation.</p>
                 </section>
@@ -64,7 +62,7 @@
                         <p>Overbliksfasen: Her skal man danne sig et klar billede af, hvad præsentationen skal handle om i store træk. </p>
                         <p>Udvælgelsesfasen: Her skal man udvælge de mest væsentlige punkter man har fundet, altså hvad skal med, og hvad skal ikke med? Hvordan skabes der struktur over emnet, det lytteren får størst udbytte af præsentationen?</p>
                         <p>Fordybelsesfasen: Denne fase begynder, når man har udvalgt det stof, der skal indgå i sin præsentation. Man skal finde den 'røde tråd' i præsentationen. Dertil skal man finde sit fokuspunkt. Man skal fravælge unødvendigt materiale fra - kill your darlings.</p>
-                        <p id=kildereferant>- Mette Hald s.62</p>
+                        <p id=kildereferant>- Mette Hald s. 62</p>
                     </section> <!-- Fase 1 slut -->
                     <section> <!-- Fase 2 start -->
                         <h2>Arbejdsfase 2: Disponer stoffet </h2>
@@ -92,7 +90,7 @@
                             <p>Hovedel: Her skal stoffet præsenteres, og her ligger ca. 80% af præsentationen.</p> 
                             <p>Det er en god idé at præsentere sin disposition, for så ved lytteren hvad man kan forvente af din præstation og rækkefølgen. Hvis man skal begrunde sit valg af emnet, er det vigtigt at man begrænser sine argumenter til 2-3 stykker. Det andet kan virke forvirrende, hvor de enkelte begrænsede argumenter viser, at man har ro og overblik over sit emne.</p>
                             <p>Afslutning: Afslutningen er ligeså vigtig som indledningen, da det er her man sætter punktum for sin fremlæggelse. Den skal være kort og præcis, og man skal vise at man har nået det, der var intentionen med præsentationen. Man kunne evt. opsummere hvert hovedpunkt, så man forstærker den røde tråd i fremlæggelsen.</p>
-                            <p id=kildereferant>- Mette Hald ss. 64-67</p>
+                            <p id=kildereferant>- Mette Hald s. 64-67</p>
                         </section><!-- Fisken slut -->
                     </section> <!-- Fase 2 slut -->
                     <section> <!-- Fase 3 start -->
@@ -102,12 +100,12 @@
                         <p>Klart - tal præcist om det man præsenterer. Det minimerer misforståelser, og man kommer til at virke sikker i stoffet. </p>
                         <p>Tilpasset - man skal ramme modtagergruppen, så det betyder, at man skal tilpasse sproget efter modtageren.</p>
                         <p>Smukt - sproget er ens værktøj, og jo bedre man behersker det, des større bliver nuancerne i sproget. Det betyder, at man bedre kan ramme sin målgruppe, og dermed nemmere flytte dem i den retning, som man gerne vil.</p>
-                        <p id=kildereferant>- Mette Hald ss.67-70</p>
+                        <p id=kildereferant>- Mette Hald s. 67-70</p>
                     </section> <!-- Fase 3 slut -->
                     <section> <!-- Fase 4 start -->
                         <h2>Arbejdsfase 4: Forbered fremlæggelsen </h2>
                         <p>Man kan frigøre sig fra manuskriptet til sin præsentation ved at øve sig på denne. Når man ikke er bundet til et stykke papir, virker man mere sikker. Dertil viser det også, at man er engageret i stoffet. Det kan smitte af på lytteren, da engagement ofte smitter. Derudover får man også lettere mulighed for at følge med i, hvordan lytteren reagere på fremlæggelsen. For så kan man nemmere kan ændre strategi, hvis lytteren virker uengageret. </p>
-                        <p id=kildereferant>- Mette Hald ss.70-72</p>
+                        <p id=kildereferant>- Mette Hald s. 70-72</p>
                     </section> <!-- Fase 4 slut -->
                     <section> <!-- Fase 5 start -->
                         <h2>Arbejdsfase 5: Fremfør præstationen </h2>
@@ -123,7 +121,7 @@
                             <li>Hvad er målet med præsentationen? </li>
                             <li>Hvad skal modtagergruppen have ud af præsentationen?</li>
                         </ul>
-                        <p id=kildereferant>- Mette Hald ss.72-73</p>
+                        <p id=kildereferant>- Mette Hald s. 72-73</p>
                         </section>
                         <section>
                             <h2>Hvad kan man bruge de 5 faser til?</h2>

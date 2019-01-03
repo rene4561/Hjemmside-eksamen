@@ -67,14 +67,14 @@
                     <p>Video fra Youtube, "<a href="https://www.youtube.com/watch?v=9hIQjrMHTv4&feature=youtu.be">"https://www.youtube.com/watch?v=9hIQjrMHTv4&amp;feature=youtu.be</a>" - History of the Internet</p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="selfservice.itcn.dk">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>Server indstillinger</h2>
+                                <p>Brug dette link hvis du skal redigere serverindstillinger. Kræver at du er på Danias netværk.</p> 
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/Server/dania.jpg">
                             </div>
                         </div> <!--pause1 slut -->
                     </a>

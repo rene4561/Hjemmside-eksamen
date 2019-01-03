@@ -28,14 +28,14 @@
                     <p>Niels Østergaard, "Bootstrap intro præsentation" - Powerpoint </p>
                 </section>
                 <aside id="pause1">
-                    <a href="#">
+                    <a href="https://getbootstrap.com/">
                         <div class="pause">
                             <div class="pausetekst">
-                                <h2>Noget releteret til emnet foroven</h2>
-                                <p>Læs om det eller andet mega sejt reletert emne eller værktøj. Klik til et ekstern eller intern link.</p>    
+                                <h2>Bootstrap</h2>
+                                <p>Se hvad Bootstrap er, og dets muligheder.</p>    
                             </div>
                             <div class="pauseimg">
-                                <img src="thumbnails/test.png">
+                                <img src="pausebilleder/HTML/bootstrap-logo-png-logo-228.png">
                             </div>
                         </div> <!--pause1 slut -->
                     </a>

@@ -44,9 +44,9 @@
                     </li>
                     <li class="sub-menu"><a href="#">Projekter</a>
                         <ul>
-                            <li><a href="desgin_thinking.php">Design thinking</a></li>
-                            <li><a href="DTProjekt.php">DS projektet</a></li>
-                            <li><a href="Onepage.php">One-page</a></li>
+                            <li><a href="desgin_thinking.php">Design Thinking</a></li>
+                            <li><a href="DTProjekt.php">DT projektet</a></li>
+                            <li><a href="Onepage.php">One page</a></li>
                         </ul>
                     </li>
                     <li><a href="omsiden.php">Om siden</a></li>

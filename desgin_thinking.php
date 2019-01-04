@@ -21,42 +21,42 @@
                     <p>Design thinking er en metode, som vi har anvendt til vores projekt under 1. semester. Dog er design thinking ikke blot en metode, det er også en tankegang. Denne tilgang er en måde at styre sine tanker i faser, som hjælper en frem det bedste resultat. For mennesker er løsningsorienteret, og derfor vil vi tit ty til at finde en løsning på et givet problem, hvor vi dertil baserer løsningen på vores nuværende viden – den er bare ikke altid nok.</p>
                     <p>Læs om hver fase nedenfor:</p>
                     <ul>
-                        <li>Empathize</li>
-                        <li>Define</li>
-                        <li>Ideate</li>
-                        <li>Prototype</li>
-                        <li>Test</li>
-                        <li>Implement</li>
-                        <li>Læs også om den divergente og konvergente proces</li>
+                        <li><a href="empathize">Empathize</a></li>
+                        <li><a href="#difine">Define</a></li>
+                        <li><a href="#ideate">Ideate</a></li>
+                        <li><a href="#prototype">Prototype</a></li>
+                        <li><a href="#test">Test</a></li>
+                        <li><a href="#implement">Implement</a></li>
+                        <li><a href="#underemne2">Læs også om den divergente og konvergente proces</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">
                     <img src="Modeller/DT_process.png" alt="Model af design thinking processen">
-                    <section>
+                    <section id=empathize>
                         <h2>Empathize</h2>
                         <p>Denne fase er den første i processen, hvor formålet er at gøre sig klog på det problem, som man skal løse. Idéen er at man skal undersøge og forstå, så vidt muligt, alt det der vedrører problemet. Dette vil give en helhedsforståelse af problemet, og dermed give et stærkt grundlag at baseree resten af projektet på. Hvis denne fase er veludført, undgår man en masse bøvl og tidsspild i den anden ende.</p>
                         <p id=kildereferant>- Moodle</p>
                     </section>
-                    <section>
+                    <section id="define">
                         <h2>Define</h2>
                         <p>Efter man har været nysgerrig, i den forrige fase, gælder det nu om at definere, hvad problemet er. Med den data som man har indsamlet, fra empathize fasen, kan man nå helt ind til kernen af det problem, som man prøver at løse. Det skal siges, at man allerede her, kan være nået til den erkendelse, at man ikke har indsamlet nok data til at definere problemet skarpt nok. Det er altid tilladt at hoppe et skridt tilbage under en design thinking proces. </p>
                         <p id=kildereferant>- Moodle</p>
-                        <section>
+                        <section id="ideate">
                             <h2>Ideate</h2>
                             <p>Nu hvor problemet er klart defineret er det, endelig, tid til at tænke på løsninger. Forskellen er at nu vil løsningerne, som udgangspunkt, ramme problemet lige på hovedet. Dertil er det muligt at tænke ’ud af boksen’, og komme med kreative løsninger på problemet.</p>
                             <p id=kildereferant>- Moodle</p>
                         </section>
-                        <section>
+                        <section id="prototype">
                             <h2>Prototype</h2>
                             <p>I denne fase skal man bringe sine idéer til livs. Ingen af løsningerne føres til ende, da det blot handler om at have et skelet til sin løsning. Dette viderebringes derefter til den næste fase.</p>
                             <p id=kildereferant>- Moodle</p>
                         </section>
-                        <section>
+                        <section id=test>
                             <h2>Test</h2>
                             <p>I denne fase tester man om sit produkt vil bære eller briste. Oftest vil man ikke ramme den helt rigtige løsning i første omgang. Det er derfor at sammenspillet mellem denne fase, og den forrige, i høj grad er en interaktiv proces – det man lærer fra testfasen bringes med tilbage til prototypefasen. </p>
                             <p id=kildereferant>- Moodle</p>
                         </section>
-                        <section>
+                        <section id="implement">
                             <h2>Implement</h2>
                             <p>Nogen anser projektet for at være færdig efter, at det er blevet implementeret. Dette er dog ikke helt korrekt, da der altid kan være nye ting man lærer, når produktet anvendes i den virkelige verden. Det kan også være, at man vil arbejde videre med en nyere eller bedre version af det forrige produkt. Dertil kan man altid starte hele processen forfra.</p>
                             <p id=kildereferant>- Moodle</p>

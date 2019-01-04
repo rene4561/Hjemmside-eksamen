@@ -23,8 +23,8 @@
                     <p>Sådan lød opgavebeskrivelsen på one page projektet. Simone, min holdkammerat, og jeg fik udleveret en engerdrik, fra Nutramino, som gik under navnet HEAT.</p>
                     <p>Her kan man læse om projektet, hvilket er delt op i faser:</p>
                     <ul>
-                        <li>Forarbejde</li>
-                        <li>Produktionen</li>
+                        <li><a href="#underemne">Forarbejde</a></li>
+                        <li><a href="#produktionen">Produktionen</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">
@@ -37,7 +37,7 @@
                         <p>Da vi skulle lave en prototype af produktet, skitserede vi en række wireframes, som skulle fungere som skelettet til vores one page. Disse wirefames viderebyggede vi på, hvor vi gradvist forbedrede informationsarkitekturen. Dertil udarbejdede vi også et par designelementer. Idéen lød på, at hjemmesiden skulle afspejle dåsen.</p>
                         <img src="Modeller/Onepage_wireframe.png" alt="En wireframe af vores hjemmeside">
                     </section>
-                    <section>
+                    <section id="produktionen">
                         <h2>Produktionen</h2>
                         <p></p>
                         <p>På første dag i produktionsfasen skulle vi have taget en række produktbilleder – vi havde på forhånd udarbejdet en shotlist. Derefter brugte vi en dags tid på at redigere billederne. Dertil skulle vi have designet nogle bannere, som skulle være klikbare i toppen af hjemmesiden. </p>

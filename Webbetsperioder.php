@@ -21,11 +21,11 @@
                     <p>Her kan man læse om de perioder som webbet har gennemgået, siden det blev tilgængeligt for offentligheden. Hovedpointen her er, at webbet forandrer sig hele tiden. Nye opfindelser og koncepter kommer til, og det skal vi, som multimediedesignere, tilpasse os efter.</p>
                     <blockquote>”Vær’ nysgerrige på at tilegne jer ny viden” - Niels Østergaard, under en undervisningsgang. </blockquote>
                     <ul>
-                        <li>Tidlige eksperimenter</li>
-                        <li>Under konstruktion</li>
-                        <li>Semantisk søgning</li>
-                        <li>Sociale netværk</li>
-                        <li>Det mobile web</li>
+                        <li><a href="#underemne1">Tidlige eksperimenter</a></li>
+                        <li><a href="#underemne2">Under konstruktion</a></li>
+                        <li><a href="#underemne3">Semantisk søgning</a></li>
+                        <li><a href="#underemne4">Sociale netværk</a></li>
+                        <li><a href="#underemne5">Det mobile web</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

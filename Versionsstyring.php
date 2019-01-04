@@ -20,9 +20,9 @@
                     <h1>Versionsstyring</h1>
                     <p>Læs om følgende:</p>
                     <ul>
-                        <li>Intro</li>
-                        <li>Git</li>
-                        <li>GitHub herunder samarbejde</li> 
+                        <li><a href="#underemne1">Intro</a></li>
+                        <li><a href="#underemne2">Git</a></li>
+                        <li><a href="#underemne3">GitHub - herunder samarbejde</a></li> 
                     </ul>
                 </div>
                 <section id="underemne1">

@@ -22,9 +22,9 @@
                     <p>Et paradigme er en måde at anskue verdenen på. Der findes i alt 3 paradigmer: Det naturvidenskabelige, det samfundsvidenskabelige og det humanistiske. Som multimediedesignere beskæftiger vi os ikke så meget med det naturvidenskabelige paradigme, da vi hovedsageligt anvender kommunikationsparadigmer – dette indebærer de samfundsvidenskabelige- og humanistiske paradigmer.</p>
                     <p>På denne siden kan du læse om følgende:</p>
                     <ul>
-                        <li>Det samfundsvidenskabelige paradigme - herunder Lasswells model</li>
-                        <li>Det humanistiske paradigme - herunder hermeneutik og IMK-modellen</li>
-                        <li>Videnskabsteori som multimediedesigner</li>
+                        <li><a href="#underemne1">Det samfundsvidenskabelige paradigme - herunder Lasswells model</a></li>
+                        <li><a href="#underemne2">Det humanistiske paradigme - herunder hermeneutik og IMK-modellen</a></li>
+                        <li><a href="#underemne3">Videnskabsteori som multimediedesigner</a></li>
                     </ul>
                     <p id=kildereferant>- Mariann kommunikation</p>
                 </div>

@@ -20,11 +20,10 @@
                     <h1>Fotografering</h1>
                     <p>Under dette emne kan man læse om kameraets funktioner og en kort showcase af billeder.</p>
                     <ul>
-                        <li>Kamera anatomi – herunder objektiver</li>
-                        <li>Lukker</li>
-                        <li>Blænde</li>
-                        <li>Indstillinger</li>
-                        <li>Showcase</li>
+                        <li><a href="#underemne1">Kamera anatomi – herunder objektiver</a></li>
+                        <li><a href="#underemne2">Kamenaets funktioner</a></li>
+                        <li><a href="#indstilling">Indstillinger</a></li>
+                        <li><a href="#underemne3">Showcase</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">
@@ -52,7 +51,7 @@
                     <p>ISO er sensorernes lysfølsomhed. Dette betyder, at man kan få mere lys i et billede på kortere tid. Dog er der det minus, at der vil være mere ’støj’ fra sensoren. Dette betyder at billedet kan se grynet ud, og det vil gerne undgås. ISO har en standard værdi på 100, og kan nå op på værdier som 6400. </p>
                     <p id=kildereferant>- Niels PDF</p>
                     <img src="modeller/ISO.jpg" alt="Et billede, af en Warhammer figur, som viser hvordan ISO påvirker et billede">
-                    <h2>Indstilling af kameraet</h2>
+                    <h2 id="indstilling">Indstilling af kameraet</h2>
                     <p>Når man indstiller kameraet, er det vigtigt at have alle disse funktioner med i sine overvejelser, da sammenspillet mellem alle disse indstiller kan være komplekst. Udover man skal tænke på hvad, man skal tage et billede af, skal man også tænke på hvilke omgivelser og forhold man tager billedet under, da dette kan have indflydelse på hvordan man skal indstille kameraet. Nedenfor er en lille manual til kamera indstillings navne:</p>
                     <dl>
                         <dt>Manuel (M)</dt>

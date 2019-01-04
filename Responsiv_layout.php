@@ -21,10 +21,11 @@
                     <p>På denne side forklares de 4 overordnede layoutformer på en hjemmeside. Dertil vil mobile first tankegangens fordele blive forklaret.
                     Der findes 4 overordnede layoutformer, som man kan anvende på en hjemmeside:</p>
                     <ul>
-                        <li>Statisk</li>
-                        <li>Flydende</li>
-                        <li>Adaptiv</li>
-                        <li>Responsiv</li>
+                        <li><a href="#underemne1">Statisk</a></li>
+                        <li><a href="#underemne2">Flydende</a></li>
+                        <li><a href="#underemne3">Adaptiv</a></li>
+                        <li><a href="#underemne4">Responsiv</a></li>
+                        <li><a href="#underemne5">Læs også om mobile first tankegangen</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

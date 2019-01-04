@@ -20,13 +20,13 @@
                     <h1>Servere og FTP</h1>
                     <p>På denne side kan man læse om, hvad en server er samt anvendelse og lidt historie.</p>
                     <ul>
-                        <li>Intro</li>
+                        <li><a href="#underemne1">Intro</a></li>
                         <li>Serverbrug som multimediedesigner - herunder:</li>
                         <ul>
-                            <li>Adgang til servere</li>
-                            <li>Serverside/include</li>
+                            <li><a href="#underemne2">Adgang til servere</a></li>
+                            <li><a href="#serverside">Serverside/include</a></li>
                         </ul>
-                        <li>Historie om server/klient og HTTP-protokollen</li>
+                        <li><a href="#underemne3">Historie om server/klient og HTTP-protokollen</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">
@@ -41,7 +41,7 @@
                     <p>For at få adgang til en FTP-server, skal man anvende en FTP-klient. Denne klient skaver en forbindelse til serveren – med andre ord åbner den en dør til serveren.</p>
                     <p>Der findes flere måder at få adgang til en server. Én måde er nævnt i ovenstående, FTP, den anden måde er med direkte adgang.</p>
                     <p id=kildereferant>- Server præsentation</p>
-                    <section>
+                    <section id=serverside>
                         <h2>Serverside</h2>
                         <p>Serversideprogrammering er programmering som afvikles på serveren. Dette har mange funktioner såsom forbindelse til databaser, lave brugerstyring med adgangskoder og inkludering af små bider af kode. </p>
                         <p>PHP er et serversideprogrammeringssprog, som er skrevet af danskeren Rasmus Lerdorf. Dertil er dette sprog også det mest udbredte til serversideprogrammering.  Sproget er lidt en bastard af Pearl, Java C+ og lidt nyt.  </p>

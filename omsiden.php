@@ -20,9 +20,9 @@
                     <h1>Om siden</h1>
                     <p>På denne side har jeg skrevet om mine overvejelser og erfaringer jeg har gjort mig:</p>
                     <ul>
-                        <li>Struktur</li>
-                        <li>Design</li>
-                        <li>Refleksion</li>
+                        <li><a href="#underemne1">Struktur</a></li>
+                        <li><a href="#underemne2">Design</a></li>
+                        <li><a href="#underemne3">Refleksion</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

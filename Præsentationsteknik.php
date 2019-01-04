@@ -21,14 +21,14 @@
                     <p>Når vi som multimediedesignere skal præsentere vores produkter, til jobsamtaler, møder eller på studiet skal præsentere en fremlæggelse på klassen, så er det vigtigt at man kender til kommunikationen blandt mennesker. Store dele af dette afsnit er udarbejdet ud fra kapitel 4 og 6 fra bogen, Mette Hald - Præsentation og formidling.</p>
                     <p>Under denne sektion kan du læse om følgende emner:</p>
                     <ul>
-                        <li>Non-verbal kommunikation - herunder kropssprog</li>
-                        <li>Præsentationsforberedelse</li>
+                        <li><a href="#underemne1">Non-verbal kommunikation - herunder kropssprog</a></li>
+                        <li><a href="#underemne2">Præsentationsforberedelse</a></li>
                         <ul>
-                            <li>Fase 1 - find stoffet</li>
-                            <li>Fase 2 - disponer stoffet</li>
-                            <li>Fase 3 - formuler stoffet</li>
-                            <li>Fase 4 - øvelse</li>
-                            <li>Fase 5 - præsentationen</li>
+                            <li><a href="#fase1">Fase 1 - find stoffet></a>/li>
+                            <li><a href="#fase2">Fase 2 - disponer stoffet</a>/li>
+                            <li><a href="#fase3">Fase 3 - formuler stoffet</a></li>
+                            <li><a href="#fase4">Fase 4 - øvelse</a></li>
+                            <li><a href="#fase5">Fase 5 - præsentationen</a></li>
                         </ul>
                     </ul>
                 </div>
@@ -56,7 +56,7 @@
                     <p>Herefter skal man arbejde med sin præsentation. Det kan man gøre vha. nedenstående 5 faser: </p>
                     <img src="Modeller/Pr%C3%A6sentation_5faser.PNG" alt="Overblik over de 5 fase - fint stoffet, disponer stoffet, formunler stoffet, øvelse og præsentationen">
                     <p>De 5 ovenstående faser kan deles op i grupper: de 4 første faser beskæftiger sig med præsentationsforberedelsen, hvorimod den anden beskæftiger sig med selve præsentationen.</p>
-                    <section> <!-- Fase 1 start -->
+                    <section id="fase1"> <!-- Fase 1 start -->
                         <h2>Arbejdsfase 1: Find stoffet</h2>
                         <p>I denne fase skal man fokusere på, hvad der er det vigtigste i emnet. For at finde frem til hvad der er det mest relevante, kan man inddele denne fase i 3 underfaser: </p>
                         <p>Overbliksfasen: Her skal man danne sig et klar billede af, hvad præsentationen skal handle om i store træk. </p>
@@ -64,7 +64,7 @@
                         <p>Fordybelsesfasen: Denne fase begynder, når man har udvalgt det stof, der skal indgå i sin præsentation. Man skal finde den 'røde tråd' i præsentationen. Dertil skal man finde sit fokuspunkt. Man skal fravælge unødvendigt materiale fra - kill your darlings.</p>
                         <p id=kildereferant>- Mette Hald s. 62</p>
                     </section> <!-- Fase 1 slut -->
-                    <section> <!-- Fase 2 start -->
+                    <section id="fase2"> <!-- Fase 2 start -->
                         <h2>Arbejdsfase 2: Disponer stoffet </h2>
                         <section> <!-- Heksagon start -->
                             <p>Når man har udvalg sit stof og de kilder man vil anvende, så skal man være bevidst, hvad man arbejder hen imod. Man kan anvende det retoriske heksagon, til at udarbejde sin disposition med.</p>
@@ -93,7 +93,7 @@
                             <p id=kildereferant>- Mette Hald s. 64-67</p>
                         </section><!-- Fisken slut -->
                     </section> <!-- Fase 2 slut -->
-                    <section> <!-- Fase 3 start -->
+                    <section id="fase3"> <!-- Fase 3 start -->
                         <h2>Arbejdsfase 3: Formuler din præsentation </h2>
                         <p>Her skal man overveje, hvilket sprog man vil præsentere sit stof i. Her er ikke tale om modersmålet, men derimod hvordan man udtrykker sig. Man skal formulere sig motiveret og velformuleret over for de tilhørerene. Hertil er der 4 grundlæggende krav til sproget i en god præsentation: </p>
                         <p>Korrekt - tal grammatisk korrekt, disse fejl kan medføre at lytteren tænker over talefejlene, fremfor indholdet. Dertil kan det skabe forvirringer. </p>
@@ -102,12 +102,12 @@
                         <p>Smukt - sproget er ens værktøj, og jo bedre man behersker det, des større bliver nuancerne i sproget. Det betyder, at man bedre kan ramme sin målgruppe, og dermed nemmere flytte dem i den retning, som man gerne vil.</p>
                         <p id=kildereferant>- Mette Hald s. 67-70</p>
                     </section> <!-- Fase 3 slut -->
-                    <section> <!-- Fase 4 start -->
+                    <section id="fase4"> <!-- Fase 4 start -->
                         <h2>Arbejdsfase 4: Forbered fremlæggelsen </h2>
                         <p>Man kan frigøre sig fra manuskriptet til sin præsentation ved at øve sig på denne. Når man ikke er bundet til et stykke papir, virker man mere sikker. Dertil viser det også, at man er engageret i stoffet. Det kan smitte af på lytteren, da engagement ofte smitter. Derudover får man også lettere mulighed for at følge med i, hvordan lytteren reagere på fremlæggelsen. For så kan man nemmere kan ændre strategi, hvis lytteren virker uengageret. </p>
                         <p id=kildereferant>- Mette Hald s. 70-72</p>
                     </section> <!-- Fase 4 slut -->
-                    <section> <!-- Fase 5 start -->
+                    <section id="fase5"> <!-- Fase 5 start -->
                         <h2>Arbejdsfase 5: Fremfør præstationen </h2>
                         <section>
                         <p>I det første sekund af sin præsentation, er det vigtigt at huske, at man er på fra starten af. Her skal man være bevidst om 3 ting: sig selv, sit kropssprog og sit stof. For er man er usikker på ét af disse punkter, så skaber det ubalance i præsentationen. </p>

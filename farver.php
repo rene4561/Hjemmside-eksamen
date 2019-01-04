@@ -21,10 +21,10 @@
                     <p>Farvevalg er en kompliceret sag. Der findes mange studier om hvordan farver påvirker mennesker, men i størstedelen af tilfældene bliver man nødt til at erkende, at farvernes betydning kommer meget an på modtagerens personlige og kulturelle baggrund.</p>
                     <p>På denne side kan man læse om:</p>
                     <ul>
-                        <li>Farvers påvirkning</li>
-                        <li>Farver i praksis</li>
-                        <li>Farvesammensætning</li>
-                        <li>Farvekoder</li>
+                        <li><a href="#underemne1">Farvers påvirkning</a></li>
+                        <li><a href="#underemne2">Farver i praksis</a></li>
+                        <li><a href="#underemne3">Farvesammensætning</a></li>
+                        <li><a href="underemne4">Farvekoder</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

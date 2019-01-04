@@ -21,9 +21,9 @@
                     <p>Typografi er som den danske ordbog forklarer det: ”arrangement af bogstaver, tekst og illustrationer i en bestemt tekst herunder fx valg af skrifttype og -størrelse”. Typografi er mere end bare skrifttypen, det er med til at danne et helt billede af et design, hvor tekst indgår. Det er dertil med til at forme en læsers holdning og opfattelse af det givne budskab. </p>
                     <p>I dette afsnit kan man læse om følgende: </p>
                     <ul>
-                        <li>Grundbegreber</li>
-                        <li>Typaceface detaljer</li>
-                        <li>Kombinationer (sans, 'tema', textface/typeface)</li>
+                        <li><a href="#underemne1">Grundbegreber</a></li>
+                        <li><a href="#underemne2">Typaceface detaljer</a></li>
+                        <li><a href="#underemne3">Kombinationer (sans, 'tema', textface/typeface)</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

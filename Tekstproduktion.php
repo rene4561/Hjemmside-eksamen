@@ -22,12 +22,12 @@
                     <p id="kildereferant">- Kommunikation i multimediedesign s.236.</p>
                     <p>På denne side kan man læse om følgende emner:</p>
                     <ul>
-                        <li>Artiklen - herunder nyhedsartiklen og den subjektive artikel </li>
-                        <li>Produkt- og emnebeskrivelse</li>
-                        <li>Brochuren</li>
-                        <li>Annoncen</li>
-                        <li>Webtekst</li>
-                        <li>Sociale medier</li>
+                        <li><a href="#underemne1">Artiklen - herunder nyhedsartiklen og den subjektive artikel</a></li>
+                        <li><a href="#underemne2">Produkt- og emnebeskrivelse</a></li>
+                        <li><a href="#underemne3">Brochuren</a></li>
+                        <li><a href="#underemne4">Annoncen</a></li>
+                        <li><a href="#underemne5">Webtekst</a></li>
+                        <li><a href="#underemne6">Sociale medier</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

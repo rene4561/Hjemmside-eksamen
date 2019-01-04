@@ -20,9 +20,9 @@
                     <h1>HTML</h1>
                     <p>HTML, en forkortelse af HyperText Markup Language, er et kodesprog, hvis primære formål er at markere tekst og billeder op på en hjemmeside. Derudover er det et strukturskabende sprog, da HTML også er et hierarkisksprog, som skaber en naturlig struktur gennem nesting af elementer. Læs om disse emner:</p>
                     <ul>
-                        <li>Syntakts</li>
-                        <li>Semantiske tags</li>
-                        <li>Kodeskik</li> 
+                        <li><a href="#underemne1">Syntakts</a></li>
+                        <li><a href="#underemne2">Semantiske tags</a></li>
+                        <li><a href="#underemne3">Kodeskik</a></li> 
                     </ul>
                 </div>
                 <section id="underemne1">

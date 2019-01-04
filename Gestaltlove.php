@@ -22,11 +22,11 @@
                     <p>Gestaltlove skaber overblik, og kan hjælpe med at organisere hjemmesidens informationer, og gøre det overskueligt for læseren at begå sig på hjemmesiden. </p>
                     <p>Nedenfor listes de forskellige gestaltlove i tilfældig rækkefølge: </p>
                     <ul>
-                        <li>Loven om nærhed</li>
-                        <li>Loven om kontinuitet</li>
-                        <li>Loven om lighed</li>
-                        <li>Loven om lukkethed</li>
-                        <li>Loven om figur/baggrund</li>
+                        <li><a href="#underemne1">Loven om nærhed</a></li>
+                        <li><a href="#underemne2">Loven om kontinuitet</a></li>
+                        <li><a href="#underemne3">Loven om lighed</a></li>
+                        <li><a href="#underemne4">Loven om lukkethed</a></li>
+                        <li><a href="#underemne5">Loven om figur/baggrund</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">

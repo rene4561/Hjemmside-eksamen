@@ -24,8 +24,8 @@
                         <li><a href="#underemne1">Non-verbal kommunikation - herunder kropssprog</a></li>
                         <li><a href="#underemne2">Præsentationsforberedelse</a></li>
                         <ul>
-                            <li><a href="#fase1">Fase 1 - find stoffet></a>/li>
-                            <li><a href="#fase2">Fase 2 - disponer stoffet</a>/li>
+                            <li><a href="#fase1">Fase 1 - find stoffet></a></li>
+                            <li><a href="#fase2">Fase 2 - disponer stoffet</a></li>
                             <li><a href="#fase3">Fase 3 - formuler stoffet</a></li>
                             <li><a href="#fase4">Fase 4 - øvelse</a></li>
                             <li><a href="#fase5">Fase 5 - præsentationen</a></li>

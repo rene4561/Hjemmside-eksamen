@@ -21,8 +21,8 @@
                     <p>Design thinking er en metode, som vi har anvendt til vores projekt under 1. semester. Dog er design thinking ikke blot en metode, det er også en tankegang. Denne tilgang er en måde at styre sine tanker i faser, som hjælper en frem det bedste resultat. For mennesker er løsningsorienteret, og derfor vil vi tit ty til at finde en løsning på et givet problem, hvor vi dertil baserer løsningen på vores nuværende viden – den er bare ikke altid nok.</p>
                     <p>Læs om hver fase nedenfor:</p>
                     <ul>
-                        <li><a href="empathize">Empathize</a></li>
-                        <li><a href="#difine">Define</a></li>
+                        <li><a href="#empathize">Empathize</a></li>
+                        <li><a href="#define">Define</a></li>
                         <li><a href="#ideate">Ideate</a></li>
                         <li><a href="#prototype">Prototype</a></li>
                         <li><a href="#test">Test</a></li>

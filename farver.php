@@ -24,7 +24,7 @@
                         <li><a href="#underemne1">Farvers påvirkning</a></li>
                         <li><a href="#underemne2">Farver i praksis</a></li>
                         <li><a href="#underemne3">Farvesammensætning</a></li>
-                        <li><a href="underemne4">Farvekoder</a></li>
+                        <li><a href="#underemne4">Farvekoder</a></li>
                     </ul>
                 </div>
                 <section id="underemne1">
